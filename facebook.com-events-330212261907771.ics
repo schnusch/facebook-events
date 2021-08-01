@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape
+BEGIN:VEVENT
+SUMMARY:Power-Point Karaoke
+DTSTART;VALUE=DATE-TIME:20210812T180000Z
+DTEND;VALUE=DATE-TIME:20210812T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210801T124355Z
+UID:facebook.com-events-330212261907771
+DESCRIPTION:Die Karaoke-Art für Unmusikalische!\n\nVorträge halten\, vor
+  echten Menschen\, ohne Zeitverzögerung und schlechte Internetverbindung 
+ sondern mit direktem Feedback!! Lange her!\nZeigt\, dass ihr im Vorträge 
+ halten nicht eingerostet seid und übt noch mal mit uns. Und damit es nich
+ t langweilig wird\, kennt ihr die PowerPoint Präsentationen natürlich ni
+ cht\, Spontanität ist gefragt.\nLeckerste Cocktails findet ihr in unserer
+  Karte genügend.\n\nWollt ihre eure Präsi mal neu interpretiert hören s
+ endet sie gern an > event@club-aquarium.de <
+LOCATION:Club Aquarium e.V.
+URL:https://mbasic.facebook.com/events/330212261907771
+END:VEVENT
+END:VCALENDAR

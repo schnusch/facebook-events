@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape
+BEGIN:VEVENT
+SUMMARY:Kellerquiz XXX. - Freitag der 13.
+DTSTART;VALUE=DATE-TIME:20210813T180000Z
+DTEND;VALUE=DATE-TIME:20210813T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210801T124402Z
+UID:facebook.com-events-362353561972963
+DESCRIPTION:Quizmaster: Manuel\nAn der Bar: Lysann\n\nZum 30. Mal zelebrie
+ ren wir das Kellerquiz im Borsi34! Das Thema ist diesmal "Freitag der 13."
+  😱 - Aberglaube\, Mysterien\, Pleiten\, Pech & Pannen. Lasst euch einfa
+ ch überraschen.\n\nDie Spielregeln:\n- Einlass ab 20 Uhr\, Beginn 20:30 U
+ hr 🕗\n\n- max. 10 Teams je max. 5 Personen 👥\n\n- Bitte meldet euch 
+ vorher bei uns an ❗\n\n- Das Quiz läuft über 3 Runden\, es gibt 3 Rund
+ engewinne und den Hauptgewinn 🥇\n\n- Es gilt die aktuelle sächsische C
+ orona-Schutzverordnung 📑
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/362353561972963
+END:VEVENT
+END:VCALENDAR

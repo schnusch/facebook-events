@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape
+BEGIN:VEVENT
+SUMMARY:Bingo-Abend
+DTSTART;VALUE=DATE-TIME:20210805T180000Z
+DTEND;VALUE=DATE-TIME:20210805T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210801T124354Z
+UID:facebook.com-events-280268383890861
+DESCRIPTION:Macht nicht nur euch sondern die Reihe voll.\nAlso werft euer 
+ Flanellhemd über\, rückt die Perücke grade\, spielt mit uns Bingo und s
+ ahnt Preise ab.
+LOCATION:Club Aquarium e.V.
+URL:https://mbasic.facebook.com/events/280268383890861
+END:VEVENT
+END:VCALENDAR

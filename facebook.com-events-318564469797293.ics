@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape
+BEGIN:VEVENT
+SUMMARY:SchnickSchnackSchnuck WM
+DTSTART;VALUE=DATE-TIME:20210819T180000Z
+DTEND;VALUE=DATE-TIME:20210819T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210801T124356Z
+UID:facebook.com-events-318564469797293
+DESCRIPTION:Schnick-Schnack-Schnuck WM!\n\nDer gute alte Stein! -das wusst
+ e schon Bart Simpson\, dass der immer gewinnt.\nOb das wirklich stimmt. Pr
+ obiere es oder deine eigene Taktik aus und kämpft euch im KO System bis a
+ n die Spitze
+LOCATION:Club Aquarium e.V.
+URL:https://mbasic.facebook.com/events/318564469797293
+END:VEVENT
+END:VCALENDAR

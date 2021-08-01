@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape
+BEGIN:VEVENT
+SUMMARY:Würfel dein Cocktail
+DTSTART;VALUE=DATE-TIME:20210826T180000Z
+DTEND;VALUE=DATE-TIME:20210826T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210801T124357Z
+UID:facebook.com-events-339482531005143
+DESCRIPTION:Würfel deinen Cocktail\n\nWenn du dich bei unseren zahlreiche
+ n leckeren Cocktails nicht entscheiden kannst\, lass die Würfel für dich
+  die Wahl treffen!\nSechs Cocktails haben wir an dem Abend im Angebot. Wel
+ cher es wird..entscheidet dein Glück
+LOCATION:Club Aquarium e.V.
+URL:https://mbasic.facebook.com/events/339482531005143
+END:VEVENT
+END:VCALENDAR
