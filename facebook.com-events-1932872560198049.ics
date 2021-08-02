@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Grave Dancers Union
+DTSTART;VALUE=DATE-TIME:20210814T180000Z
+DTEND;VALUE=DATE-TIME:20210815T000000Z
+DTSTAMP;VALUE=DATE-TIME:20210802T220225Z
+UID:facebook.com-events-1932872560198049
+DESCRIPTION:Für alle unsere gothischen Freunde gibt es mal wieder eine Ve
+ ranstaltung. Diesmal gibt es Darkwave\, Postpunk und einige mehr. Für euc
+ h wird Walter Faber auflegen\, den ihr evtl. schon aus dem Bärenzwinger k
+ ennen dürftet.
+LOCATION:Studentenklub Count Down
+URL:https://mbasic.facebook.com/events/1932872560198049
+END:VEVENT
+END:VCALENDAR

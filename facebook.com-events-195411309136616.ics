@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Würfel dein Getränk
+DTSTART;VALUE=DATE-TIME:20210809T180000Z
+DTEND;VALUE=DATE-TIME:20210809T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210802T220219Z
+UID:facebook.com-events-195411309136616
+DESCRIPTION:Seid ihr experiementierfreudig oder untentschlossen? Dann wür
+ felt doch einfach euer Getränke. Neben zahlreichen Drinkkombinationen bie
+ ten wir auch nette Unterhaltung und Würfelspielen.\nWir freuen uns auf eu
+ ch
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/195411309136616
+END:VEVENT
+END:VCALENDAR

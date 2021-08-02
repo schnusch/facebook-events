@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Bar-Abend mit Bier-Pong
+DTSTART;VALUE=DATE-TIME:20210813T180000Z
+DTEND;VALUE=DATE-TIME:20210813T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210802T220224Z
+UID:facebook.com-events-262039888697897
+DESCRIPTION:Damit euch nicht langweilig wird\, stellen wir euch Biertische
+  auf\, auf welchen ihr Bier-Pong spielen könnt. Es gibt ein komplettes Bi
+ er-Pong set von uns für 10\,- €\, dabei sind 4 Bier\, die Becher und di
+ e Bälle enthalten.
+LOCATION:Studentenklub Count Down
+URL:https://mbasic.facebook.com/events/262039888697897
+END:VEVENT
+END:VCALENDAR
