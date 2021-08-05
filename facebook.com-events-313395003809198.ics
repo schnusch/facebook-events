@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Konservenparty
+DTSTART;VALUE=DATE-TIME:20210819T180000Z
+DTEND;VALUE=DATE-TIME:20210819T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210805T084118Z
+UID:facebook.com-events-313395003809198
+DESCRIPTION:Nun geht schon der zweite pandemisch eingeschränkte Festivals
+ ommer ins Land und die beiden bärtigsten Nashörner haben folgendes inver
+ tiert-innovative Angebot für euch:\n- Unter Tage statt Open Air\n- Büchs
+ enbier kalt statt warm\n- Ravioli warm statt kalt\n- Musik aus der Konserv
+ e statt Live\n\nDas alles in gewohnt festivalartiger Kelleratmosphäre.\nA
+ lle kommen! \\m/
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/313395003809198
+END:VEVENT
+END:VCALENDAR
