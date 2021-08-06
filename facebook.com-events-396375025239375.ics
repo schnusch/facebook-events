@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Soundtrackabend
+DTSTART;VALUE=DATE-TIME:20210820T180000Z
+DTEND;VALUE=DATE-TIME:20210820T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210806T144209Z
+UID:facebook.com-events-396375025239375
+DESCRIPTION:Lasst euch überraschen\, welche Film-/Serienmusik wir für eu
+ ch ausgraben \;)\n\n\nBitte tragt im Klub eine Maske und haltet euch an di
+ e Hygienevorschriften.\n\nAußerdem werden wir eure Kontaktdaten erfassen 
+ um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für ein
+ e ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+LOCATION:None
+URL:https://mbasic.facebook.com/events/396375025239375
+END:VEVENT
+END:VCALENDAR
