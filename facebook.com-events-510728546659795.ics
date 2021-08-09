@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Offen weil offen.
+DTSTART;VALUE=DATE-TIME:20210809T180000Z
+DTEND;VALUE=DATE-TIME:20210809T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210809T144349Z
+UID:facebook.com-events-510728546659795
+DESCRIPTION:Stressigen Montag gehabt? Wochenende war mal wieder viel zu ku
+ rz?\n\nKommt ins Borsi und wir werden unser Bestes geben euch einen entspa
+ nnten Abend mit kühlem Bier und leckeren Cocktails zu bescheren\, denn he
+ ute ist bei uns wieder mal "Offen weil offen." \;)\n\nBardienste: Lysann u
+ nd Lars
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/510728546659795
+END:VEVENT
+END:VCALENDAR
