@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fbscrape v0.0.1
 BEGIN:VEVENT
-SUMMARY:Kellerquiz XXX. - Freitag der 13.
+SUMMARY:Kellerquiz XXX. - Musik!
 DTSTART;VALUE=DATE-TIME:20210816T180000Z
 DTEND;VALUE=DATE-TIME:20210816T220000Z
-DTSTAMP;VALUE=DATE-TIME:20210809T024309Z
+DTSTAMP;VALUE=DATE-TIME:20210809T204349Z
 UID:facebook.com-events-362353561972963
 DESCRIPTION:Quizmaster: Manuel\nAn der Bar: Lysann\n\nZum 30. Mal zelebrie
- ren wir das Kellerquiz im Borsi34! Das Thema ist diesmal "Freitag der 13."
-  😱 - Aberglaube\, Mysterien\, Pleiten\, Pech & Pannen. Lasst euch einfa
- ch überraschen.\n\nDie Spielregeln:\n- Einlass ab 20 Uhr\, Beginn 20:30 U
- hr 🕗\n\n- max. 10 Teams je max. 5 Personen 👥\n\n- Bitte meldet euch 
- vorher bei uns an ❗\n\n- Das Quiz läuft über 3 Runden\, es gibt 3 Rund
- engewinne und den Hauptgewinn 🥇\n\n- Es gilt die aktuelle sächsische C
- orona-Schutzverordnung 📑
+ ren wir das Kellerquiz im Borsi34!\n\nDas Thema sollte diesmal "Freitag de
+ r 13." sein. 😱 Aber passend zum Unglücksdatum ist uns der PC abgeschmi
+ ert und nun gibt es ein Musikquiz.\n\nDie Spielregeln:\n- Einlass ab 20 Uh
+ r\, Beginn 20:30 Uhr 🕗\n\n- max. 10 Teams je max. 5 Personen 👥\n\n- 
+ Bitte meldet euch vorher bei uns an ❗\n\n- Das Quiz läuft über 3 Runde
+ n\, es gibt 3 Rundengewinne und den Hauptgewinn 🥇\n\n- Es gilt die aktu
+ elle sächsische Corona-Schutzverordnung 📑
 LOCATION:Studentenclub Borsi 34
 URL:https://mbasic.facebook.com/events/362353561972963
 END:VEVENT
