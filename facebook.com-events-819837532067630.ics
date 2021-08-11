@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:2 Finger Handgabel Abend
+DTSTART;VALUE=DATE-TIME:20210813T180000Z
+DTEND;VALUE=DATE-TIME:20210813T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210811T152832Z
+UID:facebook.com-events-819837532067630
+DESCRIPTION:Für den kommenden Freitag haben wir einen seltenen Löwen aus
+  seiner Höhle gelockt.\nTed und András laden euch ein auf einen entspann
+ ten Abend mit metallischer Hintergrundmusik\, und wer weiß\, vielleicht e
+ ntdeckt ihr ja eine Band die euch gefällt?\nOb Metalhead oder Frischling\
+ , es wird für alle was dabei sein\, also kommt vorbei\, Bier und Spirituo
+ sen rufen schon eure Namen \;)
+LOCATION:August-Bebel-Straße 12\, 01219 Dresden\, Deutschland
+URL:https://mbasic.facebook.com/events/819837532067630
+END:VEVENT
+END:VCALENDAR
