@@ -152,6 +152,61 @@
 
 ------------------------------------------------------------------------
 
+### Büchertauschbörse
+
+**Beginn:** Fr 03.09.2021, 20:00+0200\
+**Ende:** Sa 04.09.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/261945075539868>\
+**Screenshot:**
+[facebook.com-events-261945075539868.png](facebook.com-events-261945075539868.png)
+
+> Für Alle, die alte Bücher loswerden wollen, neuen Lesestoff suchen oder einfach nur mit anderen über ihre Lieblingsliteratur philosophieren wollen, wird das GAG 18 zum perfekten Ort für das Feierabendbier! Neben spitzen Hopfenbräu bieten wir in bekannter Manier auch leckere Cocktails, vielseitige Musik und witzige Spiele wie Billard und Dart (momentan nur mit eigenen Pfeilen) an. Also wenn Du Interesse an Büchern hast, dann scher dich zum Teufel(chen).
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### Nerd Out!
+
+**Beginn:** Mo 06.09.2021, 20:00+0200\
+**Ende:** Di 07.09.2021, 00:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/975535329956793>\
+**Screenshot:**
+[facebook.com-events-975535329956793.png](facebook.com-events-975535329956793.png)
+
+> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
+> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
+> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
+> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
+> Eine Zusammenkunft ganz normaler Leute halt.
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### Cosplay-Stammtisch
+
+**Beginn:** Fr 10.09.2021, 20:00+0200\
+**Ende:** Sa 11.09.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/595663458091444>\
+**Screenshot:**
+[facebook.com-events-595663458091444.png](facebook.com-events-595663458091444.png)
+
+> \"Regelmäßiges Treffen von Cosplayern und Cosplay-Fotografen zum gemütlichen Austausch\"
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
 ### The Hirsch Effekt \| Dresden, Bärenzwinger
 
 **Beginn:** Mi 22.09.2021, 19:00+0200\

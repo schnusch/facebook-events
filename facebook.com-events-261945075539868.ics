@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Büchertauschbörse
+DTSTART;VALUE=DATE-TIME:20210903T180000Z
+DTEND;VALUE=DATE-TIME:20210903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210825T155846Z
+UID:facebook.com-events-261945075539868
+DESCRIPTION:Für Alle\, die alte Bücher loswerden wollen\, neuen Lesestof
+ f suchen oder einfach nur mit anderen über ihre Lieblingsliteratur philos
+ ophieren wollen\, wird das GAG 18 zum perfekten Ort für das Feierabendbie
+ r! Neben spitzen Hopfenbräu bieten wir in bekannter Manier auch leckere C
+ ocktails\, vielseitige Musik und witzige Spiele wie Billard und Dart (mome
+ ntan nur mit eigenen Pfeilen) an. Also wenn Du Interesse an Büchern hast\
+ , dann scher dich zum Teufel(chen).\n\n\nBitte tragt im Klub eine Maske un
+ d haltet euch an die Hygienevorschriften.\n\nAußerdem werden wir eure Kon
+ taktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten z
+ u können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorge
+ n wir natürlich!
+LOCATION:None
+URL:https://mbasic.facebook.com/events/261945075539868
+END:VEVENT
+END:VCALENDAR

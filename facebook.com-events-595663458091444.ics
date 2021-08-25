@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Cosplay-Stammtisch
+DTSTART;VALUE=DATE-TIME:20210910T180000Z
+DTEND;VALUE=DATE-TIME:20210910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210825T155848Z
+UID:facebook.com-events-595663458091444
+DESCRIPTION:"Regelmäßiges Treffen von Cosplayern und Cosplay-Fotografen 
+ zum gemütlichen Austausch"\n\nBitte tragt im Klub eine Maske und haltet e
+ uch an die Hygienevorschriften.\n\nAußerdem werden wir eure Kontaktdaten 
+ erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können.
+  Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir nat
+ ürlich!
+LOCATION:None
+URL:https://mbasic.facebook.com/events/595663458091444
+END:VEVENT
+END:VCALENDAR
