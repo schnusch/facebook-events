@@ -1,141 +1,3 @@
-### Grave Dancers Union
-
-**Beginn:** Sa 14.08.2021, 20:00+0200\
-**Ende:** So 15.08.2021, 02:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/1932872560198049>\
-**Screenshot:**
-[facebook.com-events-1932872560198049.png](facebook.com-events-1932872560198049.png)
-
-> Für alle unsere gothischen Freunde gibt es mal wieder eine Veranstaltung. Diesmal gibt es Darkwave, Postpunk und einige mehr. Für euch wird Walter Faber auflegen, den ihr evtl. schon aus dem Bärenzwinger kennen dürftet.
-
-------------------------------------------------------------------------
-
-### Nerd Out!
-
-**Beginn:** Mo 16.08.2021, 20:00+0200\
-**Ende:** Di 17.08.2021, 00:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/3005886559674226>\
-**Screenshot:**
-[facebook.com-events-3005886559674226.png](facebook.com-events-3005886559674226.png)
-
-> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
-> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
-> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
-> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
-> Eine Zusammenkunft ganz normaler Leute halt.
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.\
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
-### SchnickSchnackSchnuck WM
-
-**Beginn:** Do 19.08.2021, 20:00+0200\
-**Ende:** Fr 20.08.2021, 00:00+0200\
-**Ort:** Club Aquarium e.V.\
-**Link:** <https://mbasic.facebook.com/events/318564469797293>\
-**Screenshot:**
-[facebook.com-events-318564469797293.png](facebook.com-events-318564469797293.png)
-
-> Schnick-Schnack-Schnuck WM!
->
-> Der gute alte Stein! -das wusste schon Bart Simpson, dass der immer gewinnt.\
-> Ob das wirklich stimmt. Probiere es oder deine eigene Taktik aus und kämpft euch im KO System bis an die Spitze
-
-------------------------------------------------------------------------
-
-### Konservenparty
-
-**Beginn:** Do 19.08.2021, 20:00+0200\
-**Ende:** Fr 20.08.2021, 01:00+0200\
-**Ort:** Studentenclub Borsi 34\
-**Link:** <https://mbasic.facebook.com/events/313395003809198>\
-**Screenshot:**
-[facebook.com-events-313395003809198.png](facebook.com-events-313395003809198.png)
-
-> Nun geht schon der zweite pandemisch eingeschränkte Festivalsommer ins Land und die beiden bärtigsten Nashörner haben folgendes invertiert-innovative Angebot für euch:\
-> - Unter Tage statt Open Air\
-> - Büchsenbier kalt statt warm\
-> - Ravioli warm statt kalt\
-> - Musik aus der Konserve statt Live
->
-> Das alles in gewohnt festivalartiger Kelleratmosphäre.\
-> Alle kommen! \\m/
-
-------------------------------------------------------------------------
-
-### Bar-Abend mit Bier-Pong
-
-**Beginn:** Fr 20.08.2021, 20:00+0200\
-**Ende:** Sa 21.08.2021, 01:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/655952162028311>\
-**Screenshot:**
-[facebook.com-events-655952162028311.png](facebook.com-events-655952162028311.png)
-
-> Damit euch nicht langweilig wird, stellen wir euch Biertische auf, auf welchen ihr Bier-Pong spielen könnt. Es gibt ein komplettes Bier-Pong set von uns für 10,- €, dabei sind 4 Bier, die Becher und die Bälle enthalten.
-
-------------------------------------------------------------------------
-
-### Soundtrackabend
-
-**Beginn:** Fr 20.08.2021, 20:00+0200\
-**Ende:** Sa 21.08.2021, 01:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/396375025239375>\
-**Screenshot:**
-[facebook.com-events-396375025239375.png](facebook.com-events-396375025239375.png)
-
-> Lasst euch überraschen, welche Film-/Serienmusik wir für euch ausgraben ;)
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
-### \#c11featfeldi: 1. Flunkyball-Meisterschaft
-
-**Beginn:** Sa 21.08.2021, 15:00+0200\
-**Ende:** Sa 21.08.2021, 21:00+0200\
-**Ort:** Club 11\
-**Link:** <https://mbasic.facebook.com/events/817856655785828>\
-**Screenshot:**
-[facebook.com-events-817856655785828.png](facebook.com-events-817856655785828.png)
-
-> Die Fußball-EM war gestern, nun kommen wir! 😎 Wir lassen sportliche Aktivitäten mit der schönsten Nebensache der Welt verschmelzen - wir trinken Bier. 🍻 Und das am besten schnell! 🏃🏃‍♀️
->
-> In Kooperation mit Feldschlösschen Dresden laden wir euch am Samstag zu uns an den Club 11 ein und wollen die absoluten Champions in der olympischen Disziplin Flunkyball ermitteln. 🏆
->
-> (Ihr wisst schon: 2 Teams gegenüber, Ball auf Flasche werfen, Flasche fällt um, Bier so schnell wie möglich leer bekommen 🤓)
->
-> \#Ablauf 🛎
->
-> Gespielt wird im Turniermodus. Dazu meldet ihr euch mit euren Freunden in 5er-Teams bei uns unter dem untenstehendem Link für eure (begehrten) Startplätze an. Dann werden insgesamt 8 Teams in einem von uns festgelegten Modus (Gruppenphase+Endspiele) den Sieger ermitteln. Über die konkreten Regeln klären euch unsere Schiedsrichter am Samstag im Vorfeld auf.
->
-> \#Startgebühr 🤓
->
-> Die Startgebühr pro TEAM beträgt 30€ (vor Ort). Darin enthalten ist natürlich das gesamte Bier, das ihr im Turnier benötigt, sowie Equipment, etc.!
->
-> \#Sieger 🏆
->
-> Zu Gewinnen gibt es neben Ruhm, Ehre und einem netten Pegel natürlich auch heilige Trophäen, welche den drei bestplatzierten Teams im Rahmen einer feierlichen Siegerehrung überreicht werden!
->
-> \#Support und Gäste 🤹‍♂️
->
-> Natürlich hat unsere Bar zu diesem Event auch geöffnet, sodass ihr gerne auch zum Supporten und Trinken herzlich eingeladen seid.
->
-> Also trommelt eure Leute zusammen und meldet euch schnell für einen von acht Teamstartplätzen an!
->
-> 📲 https://forms.gle/iBL3T5tT8SraLFB49
->
-> Sport frei und guten Durst - Wir freuen uns auf euch! 😻🍻
-
-------------------------------------------------------------------------
-
 ### Würfel dein Cocktail
 
 **Beginn:** Do 26.08.2021, 20:00+0200\
@@ -152,6 +14,22 @@
 
 ------------------------------------------------------------------------
 
+### Sommer Sonne Bowle
+
+**Beginn:** Do 26.08.2021, 20:00+0200\
+**Ende:** Fr 27.08.2021, 01:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/353580439778641>\
+**Screenshot:**
+[facebook.com-events-353580439778641.png](facebook.com-events-353580439778641.png)
+
+> Ihr kriegt vom Sommer nicht genug?! Wir auch nicht!\
+> Um den Sommer daher nochmal gebührend zu feiern bis der Herbst kommt, haben wir für euch diesen Donnerstag verschiedene Bowlesorten vorbereitet!
+>
+> Wir freuen uns auf euch!
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 27.08.2021, 20:00+0200\
@@ -162,6 +40,165 @@
 [facebook.com-events-1579283455612119.png](facebook.com-events-1579283455612119.png)
 
 > Damit euch nicht langweilig wird, stellen wir euch Biertische auf, auf welchen ihr Bier-Pong spielen könnt. Es gibt ein komplettes Bier-Pong set von uns für 10,- €, dabei sind 4 Bier, die Becher und die Bälle enthalten.
+
+------------------------------------------------------------------------
+
+### \"Trink dir Mucke \...(schön)\"
+
+**Beginn:** Fr 27.08.2021, 20:00+0200\
+**Ende:** Sa 28.08.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/1168916350297381>\
+**Screenshot:**
+[facebook.com-events-1168916350297381.png](facebook.com-events-1168916350297381.png)
+
+> Ihr wolltet schon immer mal unsere Playlist mitbestimmen?\
+> Dann bestellt einfach 1 Cocktail, 2 Bier oder 3 Schnaps und lasst euer liebstes (oder auch schlimmstes) Lied hinzufügen und genießt es bei einem kühlen Getränk ;)
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### If you like Pina Colada
+
+**Beginn:** Fr 27.08.2021, 20:00+0200\
+**Ende:** Sa 28.08.2021, 01:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/914905272430304>\
+**Screenshot:**
+[facebook.com-events-914905272430304.png](facebook.com-events-914905272430304.png)
+
+> wirst du auch diesen Abend mögen. Neben der klassischen Variante mit Ananas haben wir noch einige andere Colãda-Varianten für euch auf Lager. Rum, Sahne und Kokosnuss ergibt die perfekte Basis welche durch unsere süßen Zusätze aufgepeppt wird.
+>
+> +++ Strawberry-Banana-Colãda +++
+>
+> +++ MaMa-Colãda (Mango, Maracuja) +++
+>
+> +++ Kiwi-Colãda (Blue Curacao, Kiwi, Orange) +++
+>
+> +++ Schokolãda (Kaffeelikör, Bailys, Schokosirup) +++
+>
+> +++ Coconut Kiss (Cranberry, Alkoholfrei) +++
+>
+> +++ Virgin Colãda (Alkoholfrei) +++
+>
+> Wie Rupert Holmes einst mehr oder weniger sang: If you like making love at midnight in the dunes on the cape, then i\'m the love that you\'ve looked for, drink with me and escape.
+
+------------------------------------------------------------------------
+
+### Power-Metal-Abend
+
+**Beginn:** Sa 28.08.2021, 20:00+0200\
+**Ende:** So 29.08.2021, 02:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/218584610222402>\
+**Screenshot:**
+[facebook.com-events-218584610222402.png](facebook.com-events-218584610222402.png)
+
+> Der Power-Metal-Abend mit unserem Flo am Mischpult (oder auch \"Der, der schneller spricht als der Scat-Man\")
+
+------------------------------------------------------------------------
+
+### Standby
+
+**Beginn:** Mo 30.08.2021, 20:00+0200\
+**Ende:** Di 31.08.2021, 01:00+0200\
+**Ort:** Studentenclub Borsi 34\
+**Link:** <https://mbasic.facebook.com/events/255628366236263>\
+**Screenshot:**
+[facebook.com-events-255628366236263.png](facebook.com-events-255628366236263.png)
+
+> Heute ist offen.
+
+------------------------------------------------------------------------
+
+### Nerd Out!
+
+**Beginn:** Mo 30.08.2021, 20:00+0200\
+**Ende:** Di 31.08.2021, 00:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/618424215790237>\
+**Screenshot:**
+[facebook.com-events-618424215790237.png](facebook.com-events-618424215790237.png)
+
+> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
+> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
+> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
+> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
+> Eine Zusammenkunft ganz normaler Leute halt.\
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.\
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### Monday Night Magic
+
+**Beginn:** Mo 30.08.2021, 20:00+0200\
+**Ende:** Mo 30.08.2021, 23:59+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/349152910012996>\
+**Screenshot:**
+[facebook.com-events-349152910012996.png](facebook.com-events-349152910012996.png)
+
+> Magic the Gathering Stammtisch
+>
+> Ihr spielt gerne Magic, aber euch fehlt die passende Umgebung? Spielt ihr immer wieder mit den selben Leuten und wollt mal eine Partie mit anderen spielen? Vielleicht wollt ihr auch einfach nur neue Leute treffen um über Deckideen, Spieltaktiken oder Karten zu reden?
+>
+> Dann kommt zum Magic-Stammtisch in den Traumtänzer. Bringt eure Decks, Tauschordner und Freunde mit, damit wir möglichst viele verschiedene Decks und Spieler haben und einen interessanten Abend für alle gestalten können.
+>
+> Ob ihr Anfänger oder Fortgeschrittener seid, ist egal. Solange ihr Motivation und Geselligkeit mitbringt, seid ihr willkommen. Auch wenn ihr keine Karten besitzt, werden vor Ort Decks vorhanden sein, mit denen ihr gerne das Spiel ausprobieren könnt.
+
+------------------------------------------------------------------------
+
+### The Hirsch Effekt \| Dresden, Bärenzwinger
+
+**Beginn:** Mi 22.09.2021, 19:00+0200\
+**Ende:** Mi 22.09.2021, 22:00+0200\
+**Ort:** Studentenclub Bärenzwinger\
+**Link:** <https://mbasic.facebook.com/events/5979031035472127>\
+**Screenshot:**
+[facebook.com-events-5979031035472127.png](facebook.com-events-5979031035472127.png)
+
+> RAUZE präsentiert:\
+> The Hirsch Effekt - \"Artcore\" aus Hannover\
+> \"Besser als Nichts Tour Part 2\"\
+> - Corona Konforme Shows mit Hygienekonzept! -\
+> www.thehirscheffekt.de\
+> \"Gregaer\" https://www.youtube.com/watch?v=aBDrQ0B4SUw\
+> \"Lifenej\" https://www.youtube.com/watch?v=fqRPBtXZSsE
+>
+> Support: Meijar (Dresden)\
+> http://meijar.bandcamp.com/releases
+>
+> Einlass: 18:30 Uhr\
+> Beginn: 19:00 Uhr\
+> Tickets gibts ab morgen 10:00 Uhr\
+> www.wildfiremusic.de/\
+> Begrenzt auf 60 Stück!\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+> Presse:\
+> The Hirsch Effekt melden sich mit neuem Album im Gepäck auf den europäischen Bühnen zurück. „Kollaps\", das fünfte Album der Band, begegnet dem alltäglichen Wahnsinn mit raffinierten Kontrapunkten und aberwitzigen Textzeilen.
+>
+> Nachdem die Band 2017 mit \"Eskapist\" auf Platz 21 der deutschen Album-Charts landete und Auftritte auf dem Wacken, dem Full Force und als Headliner beim Euroblast absolvierte, liegt nun das Folgewerk vor. Musikalisch wandelt das Trio aus Hannover nach wie vor irgendwo im Mikro-Kosmos des \"Progressive Metal", dabei sind die Aufnahmen gespickt mit den bandtypischen Ausflügen in - auf den ersten Blick - völlig abwegige Stilistiken.\
+> Es wird in Hirsch-Manier zerhackt, was sich eine Weile lang im sicheren Takt bewegt. Zwischendurch erklingen Choräle, die zurück zur notwendigen Besinnung finden lassen. Teilweise wohl- und gleichzeitig wehtuend erzeugt dies beim Hören eine geschärfte Wahrnehmung menschliche Verwirrung zu entlarven und als Aufruf an das einsame Bewusstsein mutiger Individuen auf Konzerten zusammen zu kommen.\
+> Gemeinsam mit den Fans kann so bei den anstehenden Konzerten im schwelgenden Gleichgesang und Geschrei jeden Abend aufs Neue hinterfragt werden, ob das eigene Herz und die Gedanken egoistisch oder noch im Einklang mit der Hoffnung sind, die sich in „Kollaps\" verbirgt.
+>
+> :::::::::::::::::::::::::::::::::::::::::::::::::::\
+> Achtung! Es gilt natürlich die aktuelle Sächsische Hygiene Schutzverordnung!\
+> Voraussetzungen für deinen Konzertbesuch:\
+> 1. Abgabe und Prüfung deiner Daten am Einlass zur Kontakterfassung und -nachverfolgung gegenüber den zuständigen Behörden:\
+> Name, Telefonnummer oder E-Mail-Adresse und Anschrift (Vorort mit Corona Warn App möglich)\
+> 2. Wir halten die 3Gs ein!\
+> Du bist geimpft, getestet oder genesen?\
+> Bitte bring die jeweiligen Nachweisen mit:\
+> Geimpft - digitaler Impfpass ausreichend\
+> Getestest - ein tagesaktueller Test am besten bei www.testzentrum-dresden.com\
+> Genesen - Dein positiver PCR-Test ist mindestens 28 Tage her, aber nicht älter als 6 Monate.
+>
+> Noch Fragen?\
+> info\@wildfiremusic.de
 
 ------------------------------------------------------------------------
 

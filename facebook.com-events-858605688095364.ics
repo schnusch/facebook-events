@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Barabend mit Johann und Philipp
+DTSTART;VALUE=DATE-TIME:20210820T180000Z
+DTEND;VALUE=DATE-TIME:20210820T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210818T211815Z
+UID:facebook.com-events-858605688095364
+DESCRIPTION:Am Freitag wollen euch Johann und Philipp mit ein paar ganz sp
+ eziellen Cocktails verwöhnen.\nWenn ihr wissen wollt\, was genau sie vorh
+ aben\, kommt einfach vorbei.
+LOCATION:Studentenclub Wu5 e.V.
+URL:https://mbasic.facebook.com/events/858605688095364
+END:VEVENT
+END:VCALENDAR

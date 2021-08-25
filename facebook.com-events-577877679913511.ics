@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Kornnecting People
+DTSTART;VALUE=DATE-TIME:20210823T180000Z
+DTEND;VALUE=DATE-TIME:20210823T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210822T031915Z
+UID:facebook.com-events-577877679913511
+DESCRIPTION:Um die bekömmlichste und appetitlichste Spiritouse Deutschlan
+ ds zu feiern\, veranstalten wir lustige Korn-bezogene Spiele und schenken 
+ euch gern einen ein.
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/577877679913511
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Videospielmusikabend
+DTSTART;VALUE=DATE-TIME:20210823T180000Z
+DTEND;VALUE=DATE-TIME:20210823T215500Z
+DTSTAMP;VALUE=DATE-TIME:20210817T151747Z
+UID:facebook.com-events-235003691842760
+DESCRIPTION:Von RPG´s\, wie Zelda zu Action-RPG´s wie Mass Effect oder a
+ uch FPS-Titel wie Battlefield\, heute bekommt ihr von allem etwas auf die 
+ Ohren. Wer das Spiel errät und es dem Bardienst sagt bekommt einen Shot a
+ ufs Haus.
+LOCATION:Studentenclub Traumtänzer
+URL:https://mbasic.facebook.com/events/235003691842760
+END:VEVENT
+END:VCALENDAR

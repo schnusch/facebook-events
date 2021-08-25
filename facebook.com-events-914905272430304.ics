@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:If you like Pina Colada
+DTSTART;VALUE=DATE-TIME:20210827T180000Z
+DTEND;VALUE=DATE-TIME:20210827T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210818T211820Z
+UID:facebook.com-events-914905272430304
+DESCRIPTION:wirst du auch diesen Abend mögen. Neben der klassischen Varia
+ nte mit Ananas haben wir noch einige andere Colãda-Varianten für euch au
+ f Lager. Rum\, Sahne und Kokosnuss ergibt die perfekte Basis welche durch 
+ unsere süßen Zusätze aufgepeppt wird.\n\n+++ Strawberry-Banana-Colãda 
+ +++\n\n+++ MaMa-Colãda (Mango\, Maracuja) +++\n\n+++ Kiwi-Colãda (Blue C
+ uracao\, Kiwi\, Orange) +++\n\n+++ Schokolãda (Kaffeelikör\, Bailys\, Sc
+ hokosirup) +++\n\n+++ Coconut Kiss (Cranberry\, Alkoholfrei) +++\n\n+++ Vi
+ rgin Colãda (Alkoholfrei) +++\n\nWie Rupert Holmes einst mehr oder wenige
+ r sang: If you like making love at midnight in the dunes on the cape\, the
+ n i'm the love that you've looked for\, drink with me and escape.
+LOCATION:Studentenclub Wu5 e.V.
+URL:https://mbasic.facebook.com/events/914905272430304
+END:VEVENT
+END:VCALENDAR

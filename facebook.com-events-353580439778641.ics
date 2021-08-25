@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Sommer Sonne Bowle
+DTSTART;VALUE=DATE-TIME:20210826T180000Z
+DTEND;VALUE=DATE-TIME:20210826T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210818T211817Z
+UID:facebook.com-events-353580439778641
+DESCRIPTION:Ihr kriegt vom Sommer nicht genug?! Wir auch nicht!\nUm den So
+ mmer daher nochmal gebührend zu feiern bis der Herbst kommt\, haben wir f
+ ür euch diesen Donnerstag verschiedene Bowlesorten vorbereitet!\n\nWir fr
+ euen uns auf euch!
+LOCATION:Studentenclub Wu5 e.V.
+URL:https://mbasic.facebook.com/events/353580439778641
+END:VEVENT
+END:VCALENDAR

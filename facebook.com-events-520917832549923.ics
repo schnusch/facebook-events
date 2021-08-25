@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:[ˈwʊdˌstɒk] -Jamsession Nr. 96
+DTSTART;VALUE=DATE-TIME:20210819T180000Z
+DTEND;VALUE=DATE-TIME:20210819T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210817T151753Z
+UID:facebook.com-events-520917832549923
+DESCRIPTION:[ˈwʊdˌstɒk] - Jamsession\n\nHerbei zu Session Nr. 96!\nZu 
+ Gerstensaft und Mixgetränken wird wieder gerockt\, bis die Saiten qualmen
+  und die Finger bluten.\n\nEine erstklassige Abmuckumgebung erwartet die M
+ usikanten\, vorhanden sind Gitarren- und Bassamp\, Drumset und Gesangsmikr
+ o(s). Die Technik wird aber auch jedem anderen Instrument mit größtem Ei
+ fer Gehör verschaffen. Also Klampfe\, Sticks\, Gesangsorgan\, Nasenflöte
+ \, Brummtopf und/oder singende Säge einpacken und gniedeln\, was die Glie
+ der hergeben.\n\nWer arbeitet darf auch trinken: Jeder Musiker erhält ein
+  Bier aufs Haus.
+LOCATION:August-Bebel-Straße Dresden
+URL:https://mbasic.facebook.com/events/520917832549923
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Power-Metal-Abend
+DTSTART;VALUE=DATE-TIME:20210828T180000Z
+DTEND;VALUE=DATE-TIME:20210829T000000Z
+DTSTAMP;VALUE=DATE-TIME:20210824T212058Z
+UID:facebook.com-events-218584610222402
+DESCRIPTION:Der Power-Metal-Abend mit unserem Flo am Mischpult (oder auch 
+ "Der\, der schneller spricht als der Scat-Man")
+LOCATION:Studentenklub Count Down
+URL:https://mbasic.facebook.com/events/218584610222402
+END:VEVENT
+END:VCALENDAR

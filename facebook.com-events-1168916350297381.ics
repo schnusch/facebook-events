@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:"Trink dir Mucke ...(schön)"
+DTSTART;VALUE=DATE-TIME:20210827T180000Z
+DTEND;VALUE=DATE-TIME:20210827T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210818T211801Z
+UID:facebook.com-events-1168916350297381
+DESCRIPTION:Ihr wolltet schon immer mal unsere Playlist mitbestimmen?\nDan
+ n bestellt einfach 1 Cocktail\, 2 Bier oder 3 Schnaps und lasst euer liebs
+ tes (oder auch schlimmstes) Lied hinzufügen und genießt es bei einem kü
+ hlen Getränk \;)\n\n\nBitte tragt im Klub eine Maske und haltet euch an d
+ ie Hygienevorschriften.\n\nAußerdem werden wir eure Kontaktdaten erfassen
+  um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für ei
+ ne ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+LOCATION:None
+URL:https://mbasic.facebook.com/events/1168916350297381
+END:VEVENT
+END:VCALENDAR

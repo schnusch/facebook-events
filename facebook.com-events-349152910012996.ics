@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Monday Night Magic
+DTSTART;VALUE=DATE-TIME:20210830T180000Z
+DTEND;VALUE=DATE-TIME:20210830T215900Z
+DTSTAMP;VALUE=DATE-TIME:20210817T151749Z
+UID:facebook.com-events-349152910012996
+DESCRIPTION:Magic the Gathering Stammtisch\n\nIhr spielt gerne Magic\, abe
+ r euch fehlt die passende Umgebung? Spielt ihr immer wieder mit den selben
+  Leuten und wollt mal eine Partie mit anderen spielen? Vielleicht wollt ih
+ r auch einfach nur neue Leute treffen um über Deckideen\, Spieltaktiken o
+ der Karten zu reden?\n\nDann kommt zum Magic-Stammtisch in den Traumtänze
+ r. Bringt eure Decks\, Tauschordner und Freunde mit\, damit wir möglichst
+  viele verschiedene Decks und Spieler haben und einen interessanten Abend 
+ für alle gestalten können.\n\nOb ihr Anfänger oder Fortgeschrittener se
+ id\, ist egal. Solange ihr Motivation und Geselligkeit mitbringt\, seid ih
+ r willkommen. Auch wenn ihr keine Karten besitzt\, werden vor Ort Decks vo
+ rhanden sein\, mit denen ihr gerne das Spiel ausprobieren könnt.
+LOCATION:Studentenclub Traumtänzer
+URL:https://mbasic.facebook.com/events/349152910012996
+END:VEVENT
+END:VCALENDAR

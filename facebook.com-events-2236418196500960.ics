@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Polyamoriestammtisch
+DTSTART;VALUE=DATE-TIME:20210816T180000Z
+DTEND;VALUE=DATE-TIME:20210816T215900Z
+DTSTAMP;VALUE=DATE-TIME:20210815T151645Z
+UID:facebook.com-events-2236418196500960
+DESCRIPTION:In mehrere Personen verliebt? Und auch mit diesen zusammen sei
+ n? Nicht heimlich\, sondern offen und ehrlich?\n\nGenau dies ist ein wicht
+ iger Aspekt von Polyamorie - Liebesbeziehungen mit mehreren Partnern zu pf
+ legen\, unter Einverständnis aller Beteiligten. Egal ist dabei\, ob die B
+ eziehungen Hetero\, Homo\, Bisexuell oder anders ausgerichtet sind - wicht
+ ig sind vor allem Ehrlichkeit\, Vertrauen und dass dabei kein Partner auf 
+ der Strecke bleibt.\n\nEntgegen der Definition\, dass zu einer Beziehung n
+ ur zwei gehören (dürfen)\, wollen wir uns zum Stammtisch zusammenfinden.
+  Diskutieren\, von Erlebnissen oder Problemen berichten\, Fragen stellen\,
+  Kontakte knüpfen - willkommen ist jeder\, der in irgendeiner Form Intere
+ sse am Thema Polyamorie hat.
+LOCATION:Studentenclub Traumtänzer
+URL:https://mbasic.facebook.com/events/2236418196500960
+END:VEVENT
+END:VCALENDAR
