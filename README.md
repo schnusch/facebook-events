@@ -1,35 +1,3 @@
-### Würfel dein Cocktail
-
-**Beginn:** Do 26.08.2021, 20:00+0200\
-**Ende:** Fr 27.08.2021, 00:00+0200\
-**Ort:** Club Aquarium e.V.\
-**Link:** <https://mbasic.facebook.com/events/339482531005143>\
-**Screenshot:**
-[facebook.com-events-339482531005143.png](facebook.com-events-339482531005143.png)
-
-> Würfel deinen Cocktail
->
-> Wenn du dich bei unseren zahlreichen leckeren Cocktails nicht entscheiden kannst, lass die Würfel für dich die Wahl treffen!\
-> Sechs Cocktails haben wir an dem Abend im Angebot. Welcher es wird..entscheidet dein Glück
-
-------------------------------------------------------------------------
-
-### Sommer Sonne Bowle
-
-**Beginn:** Do 26.08.2021, 20:00+0200\
-**Ende:** Fr 27.08.2021, 01:00+0200\
-**Ort:** Studentenclub Wu5 e.V.\
-**Link:** <https://mbasic.facebook.com/events/353580439778641>\
-**Screenshot:**
-[facebook.com-events-353580439778641.png](facebook.com-events-353580439778641.png)
-
-> Ihr kriegt vom Sommer nicht genug?! Wir auch nicht!\
-> Um den Sommer daher nochmal gebührend zu feiern bis der Herbst kommt, haben wir für euch diesen Donnerstag verschiedene Bowlesorten vorbereitet!
->
-> Wir freuen uns auf euch!
-
-------------------------------------------------------------------------
-
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 27.08.2021, 20:00+0200\
