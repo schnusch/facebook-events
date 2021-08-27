@@ -175,6 +175,32 @@
 
 ------------------------------------------------------------------------
 
+### Konzertabend: Alice Roger, Triiumph und Seventh Floor
+
+**Beginn:** Fr 17.09.2021, 19:00+0200\
+**Ende:** Sa 18.09.2021, 00:00+0200\
+**Ort:** Studentenclub Bärenzwinger\
+**Link:** <https://mbasic.facebook.com/events/1317540622035234>\
+**Screenshot:**
+[facebook.com-events-1317540622035234.png](facebook.com-events-1317540622035234.png)
+
+> Ein Rockiger Abend mit Dresdner Bands im Bärenzwinger!
+>
+> Alice Roger die deutschsprachige Rock-Pop Band wird euch mit erdigem, dreckigem Rock und Ohrwurm-Melodien beglücken!
+>
+> Dazu kommt Seventh Floor, die Band, die 2000er Pop-Punk mit einem modernen Sound vereint.
+>
+> Aller guten Dinge sind Drei! Den beiden schließt sich die selbsternannte Rockboyband mit dem Doppel-I an.
+>
+> Einlass:\
+> ab 19 Uhr
+>
+> Tickets:\
+> Regulär 5€\
+> Studierende 3€
+
+------------------------------------------------------------------------
+
 ### The Hirsch Effekt \| Dresden, Bärenzwinger
 
 **Beginn:** Mi 22.09.2021, 19:00+0200\
