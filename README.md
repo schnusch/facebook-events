@@ -117,6 +117,27 @@
 
 ------------------------------------------------------------------------
 
+### Nerd Out!
+
+**Beginn:** Mo 13.09.2021, 20:00+0200\
+**Ende:** Di 14.09.2021, 00:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/828832297827521>\
+**Screenshot:**
+[facebook.com-events-828832297827521.png](facebook.com-events-828832297827521.png)
+
+> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
+> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
+> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
+> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
+> Eine Zusammenkunft ganz normaler Leute halt.
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
 ### Konzertabend: Alice Roger, Triiumph und Seventh Floor
 
 **Beginn:** Fr 17.09.2021, 19:00+0200\
