@@ -1,16 +1,3 @@
-### Power-Metal-Abend
-
-**Beginn:** Sa 28.08.2021, 20:00+0200\
-**Ende:** So 29.08.2021, 02:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/218584610222402>\
-**Screenshot:**
-[facebook.com-events-218584610222402.png](facebook.com-events-218584610222402.png)
-
-> Der Power-Metal-Abend mit unserem Flo am Mischpult (oder auch \"Der, der schneller spricht als der Scat-Man\")
-
-------------------------------------------------------------------------
-
 ### Standby
 
 **Beginn:** Mo 30.08.2021, 20:00+0200\
