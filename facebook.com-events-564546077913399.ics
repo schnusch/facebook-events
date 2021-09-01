@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Würfel deinen Cocktail
+DTSTART;VALUE=DATE-TIME:20210909T180000Z
+DTEND;VALUE=DATE-TIME:20210909T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210830T220124Z
+UID:facebook.com-events-564546077913399
+DESCRIPTION:Würfel deinen Cocktail\nWenn du dich bei unseren zahlreichen 
+ leckeren Cocktails nicht entscheiden kannst\, lass die Würfel für dich d
+ ie Wahl treffen!\nSechs Cocktails haben wir an dem Abend im Angebot. Welch
+ er es wird..entscheidet dein Glück
+LOCATION:St. Petersburger Straße 21
+URL:https://mbasic.facebook.com/events/564546077913399
+END:VEVENT
+END:VCALENDAR

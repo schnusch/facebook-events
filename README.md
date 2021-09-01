@@ -1,51 +1,13 @@
-### Standby
+### Karaoke
 
-**Beginn:** Mo 30.08.2021, 20:00+0200\
-**Ende:** Di 31.08.2021, 01:00+0200\
-**Ort:** Studentenclub Borsi 34\
-**Link:** <https://mbasic.facebook.com/events/255628366236263>\
+**Beginn:** Do 02.09.2021, 20:00+0200\
+**Ende:** Fr 03.09.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/187516816669269>\
 **Screenshot:**
-[facebook.com-events-255628366236263.png](facebook.com-events-255628366236263.png)
+[facebook.com-events-187516816669269.png](facebook.com-events-187516816669269.png)
 
-> Heute ist offen.
-
-------------------------------------------------------------------------
-
-### Nerd Out!
-
-**Beginn:** Mo 30.08.2021, 20:00+0200\
-**Ende:** Di 31.08.2021, 00:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/618424215790237>\
-**Screenshot:**
-[facebook.com-events-618424215790237.png](facebook.com-events-618424215790237.png)
-
-> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
-> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
-> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
-> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
-> Eine Zusammenkunft ganz normaler Leute halt.\
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.\
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
-### Monday Night Magic
-
-**Beginn:** Mo 30.08.2021, 20:00+0200\
-**Ende:** Mo 30.08.2021, 23:59+0200\
-**Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/349152910012996>\
-**Screenshot:**
-[facebook.com-events-349152910012996.png](facebook.com-events-349152910012996.png)
-
-> Magic the Gathering Stammtisch
->
-> Ihr spielt gerne Magic, aber euch fehlt die passende Umgebung? Spielt ihr immer wieder mit den selben Leuten und wollt mal eine Partie mit anderen spielen? Vielleicht wollt ihr auch einfach nur neue Leute treffen um über Deckideen, Spieltaktiken oder Karten zu reden?
->
-> Dann kommt zum Magic-Stammtisch in den Traumtänzer. Bringt eure Decks, Tauschordner und Freunde mit, damit wir möglichst viele verschiedene Decks und Spieler haben und einen interessanten Abend für alle gestalten können.
->
-> Ob ihr Anfänger oder Fortgeschrittener seid, ist egal. Solange ihr Motivation und Geselligkeit mitbringt, seid ihr willkommen. Auch wenn ihr keine Karten besitzt, werden vor Ort Decks vorhanden sein, mit denen ihr gerne das Spiel ausprobieren könnt.
+> Zeit das leere Orchester mit euren Stimmen zu füllen statt stumm wie ein Fisch zu sein. Trällert bei uns eure Lieblingssongs.
 
 ------------------------------------------------------------------------
 
@@ -87,6 +49,36 @@
 
 ------------------------------------------------------------------------
 
+### Würfel deinen Cocktail
+
+**Beginn:** Do 09.09.2021, 20:00+0200\
+**Ende:** Fr 10.09.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/564546077913399>\
+**Screenshot:**
+[facebook.com-events-564546077913399.png](facebook.com-events-564546077913399.png)
+
+> Würfel deinen Cocktail\
+> Wenn du dich bei unseren zahlreichen leckeren Cocktails nicht entscheiden kannst, lass die Würfel für dich die Wahl treffen!\
+> Sechs Cocktails haben wir an dem Abend im Angebot. Welcher es wird..entscheidet dein Glück
+
+------------------------------------------------------------------------
+
+### Konzert: Maru Gutiérrez
+
+**Beginn:** Fr 10.09.2021, 20:00+0200\
+**Ende:** Sa 11.09.2021, 00:00+0200\
+**Ort:** Club Aquarium e.V.\
+**Link:** <https://mbasic.facebook.com/events/570152087368473>\
+**Screenshot:**
+[facebook.com-events-570152087368473.png](facebook.com-events-570152087368473.png)
+
+> This spanish artist presents her solo project.\
+> A guitar and a voice. The soundtrack to your life.\
+> An intimate ceremony for the senses.
+
+------------------------------------------------------------------------
+
 ### Cosplay-Stammtisch
 
 **Beginn:** Fr 10.09.2021, 20:00+0200\
@@ -125,6 +117,20 @@
 
 ------------------------------------------------------------------------
 
+### Schlag den Barkeeper
+
+**Beginn:** Do 16.09.2021, 20:00+0200\
+**Ende:** Fr 17.09.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/426320515488675>\
+**Screenshot:**
+[facebook.com-events-426320515488675.png](facebook.com-events-426320515488675.png)
+
+> Das neue Format im Club um den dicksten Fisch im Aquarium herauszuforden und zu schlagen!\
+> Jeden Monat gilt es sich in einer neuen Kategorie zu beweisen. Das Event startet diesen Abend aber mit einer großen Spielrunde d.h. Mehreren. Seid dabei, seid ihr der großer Hai oder nur kleine Fische!?
+
+------------------------------------------------------------------------
+
 ### Konzertabend: Alice Roger, Triiumph und Seventh Floor
 
 **Beginn:** Fr 17.09.2021, 19:00+0200\
@@ -148,6 +154,23 @@
 > Tickets:\
 > Regulär 5€\
 > Studierende 3€
+
+------------------------------------------------------------------------
+
+### Brettspieleabend
+
+**Beginn:** Fr 17.09.2021, 20:00+0200\
+**Ende:** Sa 18.09.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/1842926332554897>\
+**Screenshot:**
+[facebook.com-events-1842926332554897.png](facebook.com-events-1842926332554897.png)
+
+> Verschiedenste Brettspiele können gegen Vorlage eines Lichtbilddokuments an der Bar ausgeliehen werden.
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
 
 ------------------------------------------------------------------------
 

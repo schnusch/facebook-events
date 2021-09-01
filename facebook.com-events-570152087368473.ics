@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Konzert: Maru Gutiérrez
+DTSTART;VALUE=DATE-TIME:20210910T180000Z
+DTEND;VALUE=DATE-TIME:20210910T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210830T220137Z
+UID:facebook.com-events-570152087368473
+DESCRIPTION:This spanish artist presents her solo project.\nA guitar and a
+  voice. The soundtrack to your life.\nAn intimate ceremony for the senses.
+LOCATION:Club Aquarium e.V.
+URL:https://mbasic.facebook.com/events/570152087368473
+END:VEVENT
+END:VCALENDAR

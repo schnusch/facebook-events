@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Karaoke
+DTSTART;VALUE=DATE-TIME:20210902T180000Z
+DTEND;VALUE=DATE-TIME:20210902T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210830T220113Z
+UID:facebook.com-events-187516816669269
+DESCRIPTION:Zeit das leere Orchester mit euren Stimmen zu füllen statt st
+ umm wie ein Fisch zu sein. Trällert bei uns eure Lieblingssongs.
+LOCATION:St. Petersburger Straße 21
+URL:https://mbasic.facebook.com/events/187516816669269
+END:VEVENT
+END:VCALENDAR

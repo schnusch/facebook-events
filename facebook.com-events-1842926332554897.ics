@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Brettspieleabend
+DTSTART;VALUE=DATE-TIME:20210917T180000Z
+DTEND;VALUE=DATE-TIME:20210917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210830T220203Z
+UID:facebook.com-events-1842926332554897
+DESCRIPTION:Verschiedenste Brettspiele können gegen Vorlage eines Lichtbi
+ lddokuments an der Bar ausgeliehen werden.\n\nBitte tragt im Klub eine Mas
+ ke und haltet euch an die Hygienevorschriften.\n\nAußerdem werden wir eur
+ e Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleis
+ ten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung 
+ sorgen wir natürlich!
+LOCATION:None
+URL:https://mbasic.facebook.com/events/1842926332554897
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Barabend
+DTSTART;VALUE=DATE-TIME:20210831T180000Z
+DTEND;VALUE=DATE-TIME:20210831T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210831T160155Z
+UID:facebook.com-events-367533744840067
+DESCRIPTION:Der Club Novitatis hat jede Woche Dienstags für Euch geöffne
+ t!\nBierbar\, Couch-Raum\, Stammtisch-Raum\, Spiele-Raum...\n... Bier für
+  1\,50 € / 2\,00 €\n... Alkoholfreies ab 1\,00 €\n... Cuba Libre fü
+ r 2\,50 € – natürlich nur mit Havana Club.\nKommt vorbei. Haltet euch
+  an die Hygiene-Regeln. Bleibt gesund. Prost.
+LOCATION:Club Novitatis
+URL:https://mbasic.facebook.com/events/367533744840067
+END:VEVENT
+END:VCALENDAR
