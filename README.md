@@ -1,16 +1,3 @@
-### Karaoke
-
-**Beginn:** Do 02.09.2021, 20:00+0200\
-**Ende:** Fr 03.09.2021, 00:00+0200\
-**Ort:** St. Petersburger Straße 21\
-**Link:** <https://mbasic.facebook.com/events/187516816669269>\
-**Screenshot:**
-[facebook.com-events-187516816669269.png](facebook.com-events-187516816669269.png)
-
-> Zeit das leere Orchester mit euren Stimmen zu füllen statt stumm wie ein Fisch zu sein. Trällert bei uns eure Lieblingssongs.
-
-------------------------------------------------------------------------
-
 ### Büchertauschbörse
 
 **Beginn:** Fr 03.09.2021, 20:00+0200\
@@ -221,6 +208,20 @@
 >
 > Noch Fragen?\
 > info\@wildfiremusic.de
+
+------------------------------------------------------------------------
+
+### Poetry Slam
+
+**Beginn:** Do 23.09.2021, 20:00+0200\
+**Ende:** Fr 24.09.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/1526813400997970>\
+**Screenshot:**
+[facebook.com-events-1526813400997970.png](facebook.com-events-1526813400997970.png)
+
+> Gesang und Karaoke sind nicht deins? Dann ist hier die Gelegnheit für dich das Micro zu Ergreifen und deinen Gedanken und Phantasie freien Fluss zu lassen und und deine Redegewandtheit zu zeigen.\
+> Anmeldung an propaganda\@club-aquarium.de
 
 ------------------------------------------------------------------------
 

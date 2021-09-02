@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Poetry Slam
+DTSTART;VALUE=DATE-TIME:20210923T180000Z
+DTEND;VALUE=DATE-TIME:20210923T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210902T220245Z
+UID:facebook.com-events-1526813400997970
+DESCRIPTION:Gesang und Karaoke sind nicht deins? Dann ist hier die Gelegnh
+ eit für dich das Micro zu Ergreifen und deinen Gedanken und Phantasie fre
+ ien Fluss zu lassen und und deine Redegewandtheit zu zeigen.\nAnmeldung an
+  propaganda@club-aquarium.de
+LOCATION:St. Petersburger Straße 21
+URL:https://mbasic.facebook.com/events/1526813400997970
+END:VEVENT
+END:VCALENDAR
