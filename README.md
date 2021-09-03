@@ -1,20 +1,3 @@
-### Büchertauschbörse
-
-**Beginn:** Fr 03.09.2021, 20:00+0200\
-**Ende:** Sa 04.09.2021, 01:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/261945075539868>\
-**Screenshot:**
-[facebook.com-events-261945075539868.png](facebook.com-events-261945075539868.png)
-
-> Für Alle, die alte Bücher loswerden wollen, neuen Lesestoff suchen oder einfach nur mit anderen über ihre Lieblingsliteratur philosophieren wollen, wird das GAG 18 zum perfekten Ort für das Feierabendbier! Neben spitzen Hopfenbräu bieten wir in bekannter Manier auch leckere Cocktails, vielseitige Musik und witzige Spiele wie Billard und Dart (momentan nur mit eigenen Pfeilen) an. Also wenn Du Interesse an Büchern hast, dann scher dich zum Teufel(chen).
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
 ### Nerd Out!
 
 **Beginn:** Mo 06.09.2021, 20:00+0200\
@@ -63,6 +46,23 @@
 > This spanish artist presents her solo project.\
 > A guitar and a voice. The soundtrack to your life.\
 > An intimate ceremony for the senses.
+
+------------------------------------------------------------------------
+
+### Büchertauschbörse
+
+**Beginn:** Fr 10.09.2021, 20:00+0200\
+**Ende:** Sa 11.09.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/261945075539868>\
+**Screenshot:**
+[facebook.com-events-261945075539868.png](facebook.com-events-261945075539868.png)
+
+> Für Alle, die alte Bücher loswerden wollen, neuen Lesestoff suchen oder einfach nur mit anderen über ihre Lieblingsliteratur philosophieren wollen, wird das GAG 18 zum perfekten Ort für das Feierabendbier! Neben spitzen Hopfenbräu bieten wir in bekannter Manier auch leckere Cocktails, vielseitige Musik und witzige Spiele wie Billard und Dart (momentan nur mit eigenen Pfeilen) an. Also wenn Du Interesse an Büchern hast, dann scher dich zum Teufel(chen).
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
 
 ------------------------------------------------------------------------
 
