@@ -19,21 +19,6 @@
 
 ------------------------------------------------------------------------
 
-### Würfel dein Cocktail
-
-**Beginn:** Do 09.09.2021, 20:00+0200\
-**Ende:** Fr 10.09.2021, 00:00+0200\
-**Ort:** Club Aquarium e.V.\
-**Link:** <https://mbasic.facebook.com/events/535098507600269>\
-**Screenshot:**
-[facebook.com-events-535098507600269.png](facebook.com-events-535098507600269.png)
-
-> Würfel deinen Cocktail
->
-> Wenn du dich bei unseren zahlreichen leckeren Cocktails nicht entscheiden kannst, lass die Würfel deinen Cocktail kreieren!
-
-------------------------------------------------------------------------
-
 ### Würfel deinen Cocktail
 
 **Beginn:** Do 09.09.2021, 20:00+0200\
@@ -111,8 +96,13 @@
 **Screenshot:**
 [facebook.com-events-426320515488675.png](facebook.com-events-426320515488675.png)
 
-> Das neue Format im Club um den dicksten Fisch im Aquarium herauszuforden und zu schlagen!\
-> Jeden Monat gilt es sich in einer neuen Kategorie zu beweisen. Das Event startet diesen Abend aber mit einer großen Spielrunde d.h. Mehreren. Seid dabei, seid ihr der großer Hai oder nur kleine Fische!?
+> Seid ihr der großer Hai oder nur kleine Fische!?
+>
+> Wir präsentieren das neue Format im Club um den dicksten Fisch im Aquarium herauszufordern und zu schlagen!\
+> Jeden Monat gilt es sich in einer neuen Kategorie zu beweisen, erringt den Sieg und ihr gewinnt den Pott, schafft ihr es nicht, wächst er zum nächsten mal an!
+>
+> Das Event startet diesen Abend aber mit einer großen Spielrunde und mehreren Teilnehmern!\
+> Kommt vorbei, als Teilnehmer oder Zuschauer (Anmeldung am Abend beim Bardienst).
 
 ------------------------------------------------------------------------
 
@@ -227,6 +217,21 @@
 >
 > Noch Fragen?\
 > info\@wildfiremusic.de
+
+------------------------------------------------------------------------
+
+### Poetry Slam
+
+**Beginn:** Do 23.09.2021, 20:00+0200\
+**Ende:** Fr 24.09.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/1526813400997970>\
+**Screenshot:**
+[facebook.com-events-1526813400997970.png](facebook.com-events-1526813400997970.png)
+
+> Gesang und Karaoke sind nicht deins? Dann ist hier die Gelegenheit für dich das Mikro zu ergreifen, deinen Gedanken und Phantasie freien Lauf zu lassen und deine Redegewandtheit zu zeigen.
+>
+> Anmeldung an anmeldung\@club-aquarium.de oder am Abend beim Bardienst!
 
 ------------------------------------------------------------------------
 
