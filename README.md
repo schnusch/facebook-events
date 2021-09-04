@@ -19,6 +19,21 @@
 
 ------------------------------------------------------------------------
 
+### Würfel dein Cocktail
+
+**Beginn:** Do 09.09.2021, 20:00+0200\
+**Ende:** Fr 10.09.2021, 00:00+0200\
+**Ort:** Club Aquarium e.V.\
+**Link:** <https://mbasic.facebook.com/events/535098507600269>\
+**Screenshot:**
+[facebook.com-events-535098507600269.png](facebook.com-events-535098507600269.png)
+
+> Würfel deinen Cocktail
+>
+> Wenn du dich bei unseren zahlreichen leckeren Cocktails nicht entscheiden kannst, lass die Würfel deinen Cocktail kreieren!
+
+------------------------------------------------------------------------
+
 ### Würfel deinen Cocktail
 
 **Beginn:** Do 09.09.2021, 20:00+0200\
@@ -212,20 +227,6 @@
 >
 > Noch Fragen?\
 > info\@wildfiremusic.de
-
-------------------------------------------------------------------------
-
-### Poetry Slam
-
-**Beginn:** Do 23.09.2021, 20:00+0200\
-**Ende:** Fr 24.09.2021, 00:00+0200\
-**Ort:** St. Petersburger Straße 21\
-**Link:** <https://mbasic.facebook.com/events/1526813400997970>\
-**Screenshot:**
-[facebook.com-events-1526813400997970.png](facebook.com-events-1526813400997970.png)
-
-> Gesang und Karaoke sind nicht deins? Dann ist hier die Gelegnheit für dich das Micro zu Ergreifen und deinen Gedanken und Phantasie freien Fluss zu lassen und und deine Redegewandtheit zu zeigen.\
-> Anmeldung an propaganda\@club-aquarium.de
 
 ------------------------------------------------------------------------
 
