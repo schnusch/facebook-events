@@ -49,6 +49,19 @@
 
 ------------------------------------------------------------------------
 
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 10.09.2021, 20:00+0200\
+**Ende:** Sa 11.09.2021, 01:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/436227964393726>\
+**Screenshot:**
+[facebook.com-events-436227964393726.png](facebook.com-events-436227964393726.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
 ### Cosplay-Stammtisch
 
 **Beginn:** Fr 10.09.2021, 20:00+0200\
@@ -129,6 +142,19 @@
 > Tickets:\
 > Regulär 5€\
 > Studierende 3€
+
+------------------------------------------------------------------------
+
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 17.09.2021, 20:00+0200\
+**Ende:** Sa 18.09.2021, 01:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/438587847461303>\
+**Screenshot:**
+[facebook.com-events-438587847461303.png](facebook.com-events-438587847461303.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
 
 ------------------------------------------------------------------------
 
@@ -232,6 +258,45 @@
 > Gesang und Karaoke sind nicht deins? Dann ist hier die Gelegenheit für dich das Mikro zu ergreifen, deinen Gedanken und Phantasie freien Lauf zu lassen und deine Redegewandtheit zu zeigen.
 >
 > Anmeldung an anmeldung\@club-aquarium.de oder am Abend beim Bardienst!
+
+------------------------------------------------------------------------
+
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 24.09.2021, 20:00+0200\
+**Ende:** Sa 25.09.2021, 01:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/243674667664301>\
+**Screenshot:**
+[facebook.com-events-243674667664301.png](facebook.com-events-243674667664301.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 24.09.2021, 20:00+0200\
+**Ende:** Sa 25.09.2021, 01:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/926105194649671>\
+**Screenshot:**
+[facebook.com-events-926105194649671.png](facebook.com-events-926105194649671.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 01.10.2021, 20:00+0200\
+**Ende:** Sa 02.10.2021, 01:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/432396044857088>\
+**Screenshot:**
+[facebook.com-events-432396044857088.png](facebook.com-events-432396044857088.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
 
 ------------------------------------------------------------------------
 
