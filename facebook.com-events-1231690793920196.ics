@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Rollenspielstammtisch
+DTSTART;VALUE=DATE-TIME:20210913T180000Z
+DTEND;VALUE=DATE-TIME:20210913T215900Z
+DTSTAMP;VALUE=DATE-TIME:20210906T100622Z
+UID:facebook.com-events-1231690793920196
+DESCRIPTION:Die Dresdner Rollenspieler treffen sich zum monatlichen Gedank
+ enaustausch. Dabei geht es nicht darum irgendwelche Rollenspiele zu spiele
+ n\, sondern darum den Kontakt zwischen den Dresdner Rollenspielern herzust
+ ellen.\n\nMit von der Partie sind neben den Leuten von Dresden Spielt! auc
+ h die Mitglieder von der Gugelgilde. Willkommen sind aber auch immer Neugi
+ erige\, Einsteiger und Zugezogene.\n\n+ + + WICHTIG! + + +\nBitte erschein
+ t nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereic
+ h des Clubs\, bis wir euch abholen und euch eure Plätze zuweisen!
+LOCATION:Studentenclub Traumtänzer
+URL:https://mbasic.facebook.com/events/1231690793920196
+END:VEVENT
+END:VCALENDAR

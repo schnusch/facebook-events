@@ -19,6 +19,28 @@
 
 ------------------------------------------------------------------------
 
+### Werwölfeabend
+
+**Beginn:** Mo 06.09.2021, 20:00+0200\
+**Ende:** Mo 06.09.2021, 23:59+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/1075527023218625>\
+**Screenshot:**
+[facebook.com-events-1075527023218625.png](facebook.com-events-1075527023218625.png)
+
+> Heute Abend spielen wir mit euch \"Die Werwölfe von Düsterwald\" (auch bekannt als Mord in Palermo o.ä.).
+>
+> Neben den Standardakteuren wie Werwölfen, sterbenden Bauern und dem Seher erweitern wir die Regeln um Jäger, Liebespaare, Detektive und bis zu 50 weitere Rollen.
+>
+> Im Kerzenschein werden die Werwölfe Angst und Schrecken verbreiten, wenn es heißt:
+>
+> \"Es wird Tag im Traumtänzer und alle erwachen außer \...\"
+>
+> + + + WICHTIG! + + +\
+> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
+
+------------------------------------------------------------------------
+
 ### Würfel deinen Cocktail
 
 **Beginn:** Do 09.09.2021, 20:00+0200\
@@ -110,6 +132,24 @@
 > Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
 >
 > Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### Rollenspielstammtisch
+
+**Beginn:** Mo 13.09.2021, 20:00+0200\
+**Ende:** Mo 13.09.2021, 23:59+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/1231690793920196>\
+**Screenshot:**
+[facebook.com-events-1231690793920196.png](facebook.com-events-1231690793920196.png)
+
+> Die Dresdner Rollenspieler treffen sich zum monatlichen Gedankenaustausch. Dabei geht es nicht darum irgendwelche Rollenspiele zu spielen, sondern darum den Kontakt zwischen den Dresdner Rollenspielern herzustellen.
+>
+> Mit von der Partie sind neben den Leuten von Dresden Spielt! auch die Mitglieder von der Gugelgilde. Willkommen sind aber auch immer Neugierige, Einsteiger und Zugezogene.
+>
+> + + + WICHTIG! + + +\
+> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
 
 ------------------------------------------------------------------------
 
@@ -209,6 +249,23 @@
 
 ------------------------------------------------------------------------
 
+### Polyamoriestammtisch
+
+**Beginn:** Mo 20.09.2021, 20:00+0200\
+**Ende:** Mo 20.09.2021, 23:59+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/395110175383335>\
+**Screenshot:**
+[facebook.com-events-395110175383335.png](facebook.com-events-395110175383335.png)
+
+> In mehrere Personen verliebt? Und auch mit diesen zusammen sein? Nicht heimlich, sondern offen und ehrlich?
+>
+> Genau dies ist ein wichtiger Aspekt von Polyamorie - Liebesbeziehungen mit mehreren Partnern zu pflegen, unter Einverständnis aller Beteiligten. Egal ist dabei, ob die Beziehungen Hetero, Homo, Bisexuell oder anders ausgerichtet sind - wichtig sind vor allem Ehrlichkeit, Vertrauen und dass dabei kein Partner auf der Strecke bleibt.
+>
+> Entgegen der Definition, dass zu einer Beziehung nur zwei gehören (dürfen), wollen wir uns zum Stammtisch zusammenfinden. Diskutieren, von Erlebnissen oder Problemen berichten, Fragen stellen, Kontakte knüpfen - willkommen ist jeder, der in irgendeiner Form Interesse am Thema Polyamorie hat.
+
+------------------------------------------------------------------------
+
 ### The Hirsch Effekt \| Dresden, Bärenzwinger
 
 **Beginn:** Mi 22.09.2021, 19:00+0200\
@@ -297,6 +354,25 @@
 [facebook.com-events-926105194649671.png](facebook.com-events-926105194649671.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Monday Night Magic
+
+**Beginn:** Mo 27.09.2021, 20:00+0200\
+**Ende:** Mo 27.09.2021, 23:59+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/171500281729131>\
+**Screenshot:**
+[facebook.com-events-171500281729131.png](facebook.com-events-171500281729131.png)
+
+> Magic the Gathering Stammtisch
+>
+> Ihr spielt gerne Magic, aber euch fehlt die passende Umgebung? Spielt ihr immer wieder mit den selben Leuten und wollt mal eine Partie mit anderen spielen? Vielleicht wollt ihr auch einfach nur neue Leute treffen um über Deckideen, Spieltaktiken oder Karten zu reden?
+>
+> Dann kommt zum Magic-Stammtisch in den Traumtänzer. Bringt eure Decks, Tauschordner und Freunde mit, damit wir möglichst viele verschiedene Decks und Spieler haben und einen interessanten Abend für alle gestalten können.
+>
+> Ob ihr Anfänger oder Fortgeschrittener seid, ist egal. Solange ihr Motivation und Geselligkeit mitbringt, seid ihr willkommen. Auch wenn ihr keine Karten besitzt, werden vor Ort Decks vorhanden sein, mit denen ihr gerne das Spiel ausprobieren könnt.
 
 ------------------------------------------------------------------------
 

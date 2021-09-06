@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Werwölfeabend
+DTSTART;VALUE=DATE-TIME:20210906T180000Z
+DTEND;VALUE=DATE-TIME:20210906T215900Z
+DTSTAMP;VALUE=DATE-TIME:20210906T100619Z
+UID:facebook.com-events-1075527023218625
+DESCRIPTION:Heute Abend spielen wir mit euch "Die Werwölfe von Düsterwal
+ d" (auch bekannt als Mord in Palermo o.ä.).\n\nNeben den Standardakteuren
+  wie Werwölfen\, sterbenden Bauern und dem Seher erweitern wir die Regeln
+  um Jäger\, Liebespaare\, Detektive und bis zu 50 weitere Rollen.\n\nIm K
+ erzenschein werden die Werwölfe Angst und Schrecken verbreiten\, wenn es 
+ heißt:\n\n"Es wird Tag im Traumtänzer und alle erwachen außer ..."\n\n+
+  + + WICHTIG! + + +\nBitte erscheint nach Möglichkeit gesammelt in Gruppe
+ n und wartet vor dem Eingangsbereich des Clubs\, bis wir euch abholen und 
+ euch eure Plätze zuweisen!
+LOCATION:Studentenclub Traumtänzer
+URL:https://mbasic.facebook.com/events/1075527023218625
+END:VEVENT
+END:VCALENDAR
