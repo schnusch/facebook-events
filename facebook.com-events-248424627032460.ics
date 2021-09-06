@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fbscrape v0.0.1
 BEGIN:VEVENT
-SUMMARY:80er Party
+SUMMARY:The 80's called (they want their music back)
 DTSTART;VALUE=DATE-TIME:20210911T180000Z
 DTEND;VALUE=DATE-TIME:20210912T000000Z
-DTSTAMP;VALUE=DATE-TIME:20210905T220538Z
+DTSTAMP;VALUE=DATE-TIME:20210906T040540Z
 UID:facebook.com-events-248424627032460
 DESCRIPTION:Diesmal gibt es bei uns eine 80er-Jahre-Veranstaltung. Mit vie
  len Songs\, die ihr kennt. Und natürlich gibt es auch eine Wunschliste am
