@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Karaoke@Wu5 Vol.13
+DTSTART;VALUE=DATE-TIME:20210909T180000Z
+DTEND;VALUE=DATE-TIME:20210909T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210906T220717Z
+UID:facebook.com-events-985932375587232
+DESCRIPTION:Come on & sing along! Auch im August laden wir euch alle zu un
+ serer Karaoke-Night ein! Zeig uns all deine Lieblingssongs\, die normalerw
+ eise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwuns
+ ch mit deinem Namen an der Bar ab\, geh auf die Bühne\, schnapp‘ dir da
+ s Mikro und sing drauf los!\nFür jeden der sich traut\, gibt es an der Ba
+ r einen Belohnungsschnaps aufs Haus!
+LOCATION:Studentenclub Wu5 e.V.
+URL:https://mbasic.facebook.com/events/985932375587232
+END:VEVENT
+END:VCALENDAR

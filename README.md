@@ -1,61 +1,3 @@
-### Stand-by
-
-**Beginn:** Mo 06.09.2021, 20:00+0200\
-**Ende:** Di 07.09.2021, 00:00+0200\
-**Ort:** Studentenclub Borsi 34\
-**Link:** <https://mbasic.facebook.com/events/571025230607474>\
-**Screenshot:**
-[facebook.com-events-571025230607474.png](facebook.com-events-571025230607474.png)
-
-> Wir haben offen und laden zur gemütlichen Runde ins Borsi ein!
->
-> Bardienst Lysann und Linus
-
-------------------------------------------------------------------------
-
-### Nerd Out!
-
-**Beginn:** Mo 06.09.2021, 20:00+0200\
-**Ende:** Di 07.09.2021, 00:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/975535329956793>\
-**Screenshot:**
-[facebook.com-events-975535329956793.png](facebook.com-events-975535329956793.png)
-
-> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
-> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
-> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
-> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
-> Eine Zusammenkunft ganz normaler Leute halt.
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
-### Werwölfeabend
-
-**Beginn:** Mo 06.09.2021, 20:00+0200\
-**Ende:** Mo 06.09.2021, 23:59+0200\
-**Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/1075527023218625>\
-**Screenshot:**
-[facebook.com-events-1075527023218625.png](facebook.com-events-1075527023218625.png)
-
-> Heute Abend spielen wir mit euch \"Die Werwölfe von Düsterwald\" (auch bekannt als Mord in Palermo o.ä.).
->
-> Neben den Standardakteuren wie Werwölfen, sterbenden Bauern und dem Seher erweitern wir die Regeln um Jäger, Liebespaare, Detektive und bis zu 50 weitere Rollen.
->
-> Im Kerzenschein werden die Werwölfe Angst und Schrecken verbreiten, wenn es heißt:
->
-> \"Es wird Tag im Traumtänzer und alle erwachen außer \...\"
->
-> + + + WICHTIG! + + +\
-> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
-
-------------------------------------------------------------------------
-
 ### Würfel deinen Cocktail
 
 **Beginn:** Do 09.09.2021, 20:00+0200\
@@ -68,6 +10,20 @@
 > Würfel deinen Cocktail\
 > Wenn du dich bei unseren zahlreichen leckeren Cocktails nicht entscheiden kannst, lass die Würfel für dich die Wahl treffen!\
 > Sechs Cocktails haben wir an dem Abend im Angebot. Welcher es wird..entscheidet dein Glück
+
+------------------------------------------------------------------------
+
+### Karaoke\@Wu5 Vol.13
+
+**Beginn:** Do 09.09.2021, 20:00+0200\
+**Ende:** Fr 10.09.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/985932375587232>\
+**Screenshot:**
+[facebook.com-events-985932375587232.png](facebook.com-events-985932375587232.png)
+
+> Come on & sing along! Auch im August laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
+> Für jeden der sich traut, gibt es an der Bar einen Belohnungsschnaps aufs Haus!
 
 ------------------------------------------------------------------------
 
@@ -184,6 +140,23 @@
 >
 > Das Event startet diesen Abend aber mit einer großen Spielrunde und mehreren Teilnehmern!\
 > Kommt vorbei, als Teilnehmer oder Zuschauer (Anmeldung am Abend beim Bardienst).
+
+------------------------------------------------------------------------
+
+### \[ˈwʊdˌstɒk\] -Jamsession Nr. 97
+
+**Beginn:** Do 16.09.2021, 20:00+0200\
+**Ende:** Fr 17.09.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/1040372250066782>\
+**Screenshot:**
+[facebook.com-events-1040372250066782.png](facebook.com-events-1040372250066782.png)
+
+> \[ˈwʊdˌstɒk\] - Jamsession\
+> Herbei zu Session Nr. 97!\
+> Zu Gerstensaft und Mixgetränken wird wieder gerockt, bis die Saiten qualmen und die Finger bluten.\
+> Eine erstklassige Abmuckumgebung erwartet die Musikanten, vorhanden sind Gitarren- und Bassamp, Drumset und Gesangsmikro(s). Die Technik wird aber auch jedem anderen Instrument mit größtem Eifer Gehör verschaffen. Also Klampfe, Sticks, Gesangsorgan, Nasenflöte, Brummtopf und/oder singende Säge einpacken und gniedeln, was die Glieder hergeben.\
+> Wer arbeitet darf auch trinken: Jeder Musiker erhält ein Bier aufs Haus.
 
 ------------------------------------------------------------------------
 
@@ -372,6 +345,26 @@
 
 ------------------------------------------------------------------------
 
+### GAG meets \"Magic: The Gathering\"
+
+**Beginn:** Fr 24.09.2021, 20:00+0200\
+**Ende:** Sa 25.09.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/273267987969419>\
+**Screenshot:**
+[facebook.com-events-273267987969419.png](facebook.com-events-273267987969419.png)
+
+> In authentischer Atmosphäre Magic spielen UND kühle Getränke direkt an den Platz bekommen?\
+> Wo gibt´s denn sowas?
+>
+> Natürlich bei uns im GAG ;)
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
 ### Monday Night Magic
 
 **Beginn:** Mo 27.09.2021, 20:00+0200\
@@ -388,6 +381,30 @@
 > Dann kommt zum Magic-Stammtisch in den Traumtänzer. Bringt eure Decks, Tauschordner und Freunde mit, damit wir möglichst viele verschiedene Decks und Spieler haben und einen interessanten Abend für alle gestalten können.
 >
 > Ob ihr Anfänger oder Fortgeschrittener seid, ist egal. Solange ihr Motivation und Geselligkeit mitbringt, seid ihr willkommen. Auch wenn ihr keine Karten besitzt, werden vor Ort Decks vorhanden sein, mit denen ihr gerne das Spiel ausprobieren könnt.
+
+------------------------------------------------------------------------
+
+### Die Legendäre Tequilaparty - Día de los Muertos Edition
+
+**Beginn:** Fr 05.11.2021, 20:00+0100\
+**Ende:** Sa 06.11.2021, 00:00+0100\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/444587730574771>\
+**Screenshot:**
+[facebook.com-events-444587730574771.png](facebook.com-events-444587730574771.png)
+
+> Endlich, endlich, endlich ist es wieder so weit. Wir feiern Tequila Party am Día de los muertos und das haben wir für euch Gringos:
+>
+> !!! Ein Legendärer Auftritt von den HAWAII TOASTERS!!!
+>
+> + Feuriges Chili - mit und ohne Fleisch,\
+> + Leckere Barmuchachos - mit wenig und viel Fleisch\
+> + Verschiedene Tequilasorten und Cocktails zu muito Preis\
+> + Um 22 Uhr gibt es eine Legendäre Tequilarunde GRATIS\
+> + Macht die Nacht unvergesslich durch ein Foto mit euren Freunden und unseren Fotobox-Accessoire\
+> + Für jeden mit passender Bemalung oder Kostüm gibt es zusätzlich einen kostenlosen Legendären Tequila
+>
+> Also freut euch auf eine Legendäre Nacht der Toten.
 
 ------------------------------------------------------------------------
 
