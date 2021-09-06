@@ -1,3 +1,18 @@
+### Stand-by
+
+**Beginn:** Mo 06.09.2021, 20:00+0200\
+**Ende:** Di 07.09.2021, 00:00+0200\
+**Ort:** Studentenclub Borsi 34\
+**Link:** <https://mbasic.facebook.com/events/571025230607474>\
+**Screenshot:**
+[facebook.com-events-571025230607474.png](facebook.com-events-571025230607474.png)
+
+> Wir haben offen und laden zur gemütlichen Runde ins Borsi ein!
+>
+> Bardienst Lysann und Linus
+
+------------------------------------------------------------------------
+
 ### Nerd Out!
 
 **Beginn:** Mo 06.09.2021, 20:00+0200\

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Stand-by
+DTSTART;VALUE=DATE-TIME:20210906T180000Z
+DTEND;VALUE=DATE-TIME:20210906T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210906T160611Z
+UID:facebook.com-events-571025230607474
+DESCRIPTION:Wir haben offen und laden zur gemütlichen Runde ins Borsi ein
+ !\n\nBardienst Lysann und Linus
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/571025230607474
+END:VEVENT
+END:VCALENDAR
