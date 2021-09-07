@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Flex und Floxi Kneipenquiz
+DTSTART;VALUE=DATE-TIME:20210929T180000Z
+DTEND;VALUE=DATE-TIME:20210929T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210907T160738Z
+UID:facebook.com-events-1007924610001184
+DESCRIPTION:Es geht in die nächste Quizrunde mit euren Fragefüchsen Flex
+  und Flox.\n\nWie immer gilt: Raten erlaubt\, Trinken erwünscht\, Googeln
+  verboten!
+LOCATION:St. Petersburger Straße 21
+URL:https://mbasic.facebook.com/events/1007924610001184
+END:VEVENT
+END:VCALENDAR

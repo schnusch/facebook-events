@@ -27,21 +27,6 @@
 
 ------------------------------------------------------------------------
 
-### Konzert: Maru Gutiérrez
-
-**Beginn:** Fr 10.09.2021, 20:00+0200\
-**Ende:** Sa 11.09.2021, 00:00+0200\
-**Ort:** Club Aquarium e.V.\
-**Link:** <https://mbasic.facebook.com/events/570152087368473>\
-**Screenshot:**
-[facebook.com-events-570152087368473.png](facebook.com-events-570152087368473.png)
-
-> This spanish artist presents her solo project.\
-> A guitar and a voice. The soundtrack to your life.\
-> An intimate ceremony for the senses.
-
-------------------------------------------------------------------------
-
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 10.09.2021, 20:00+0200\
@@ -384,6 +369,21 @@
 
 ------------------------------------------------------------------------
 
+### Flex und Floxi Kneipenquiz
+
+**Beginn:** Mi 29.09.2021, 20:00+0200\
+**Ende:** Do 30.09.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/1007924610001184>\
+**Screenshot:**
+[facebook.com-events-1007924610001184.png](facebook.com-events-1007924610001184.png)
+
+> Es geht in die nächste Quizrunde mit euren Fragefüchsen Flex und Flox.
+>
+> Wie immer gilt: Raten erlaubt, Trinken erwünscht, Googeln verboten!
+
+------------------------------------------------------------------------
+
 ### Die Legendäre Tequilaparty - Día de los Muertos Edition
 
 **Beginn:** Fr 05.11.2021, 20:00+0100\
@@ -395,7 +395,7 @@
 
 > Endlich, endlich, endlich ist es wieder so weit. Wir feiern Tequila Party am Día de los muertos und das haben wir für euch Gringos:
 >
-> !!! Ein Legendärer Auftritt von den HAWAII TOASTERS!!!
+> !!! Ein Legendärer Auftritt von HAWAII TOASTERS!!!
 >
 > + Feuriges Chili - mit und ohne Fleisch,\
 > + Leckere Barmuchachos - mit wenig und viel Fleisch\
