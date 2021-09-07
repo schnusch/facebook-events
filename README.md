@@ -22,7 +22,7 @@
 **Screenshot:**
 [facebook.com-events-985932375587232.png](facebook.com-events-985932375587232.png)
 
-> Come on & sing along! Auch im August laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
+> Come on & sing along! Auch im September laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
 > Für jeden der sich traut, gibt es an der Bar einen Belohnungsschnaps aufs Haus!
 
 ------------------------------------------------------------------------
