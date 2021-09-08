@@ -395,7 +395,7 @@
 
 > Endlich, endlich, endlich ist es wieder so weit. Wir feiern Tequila Party am Día de los muertos und das haben wir für euch Gringos:
 >
-> !!! Ein Legendärer Auftritt von HAWAII TOASTERS!!!
+> !!! Ein Legendärer Auftritt von den LOS HAWAII TOASTERS!!!
 >
 > + Feuriges Chili - mit und ohne Fleisch,\
 > + Leckere Barmuchachos - mit wenig und viel Fleisch\
