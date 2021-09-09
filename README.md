@@ -1,32 +1,3 @@
-### Würfel deinen Cocktail
-
-**Beginn:** Do 09.09.2021, 20:00+0200\
-**Ende:** Fr 10.09.2021, 00:00+0200\
-**Ort:** St. Petersburger Straße 21\
-**Link:** <https://mbasic.facebook.com/events/564546077913399>\
-**Screenshot:**
-[facebook.com-events-564546077913399.png](facebook.com-events-564546077913399.png)
-
-> Würfel deinen Cocktail\
-> Wenn du dich bei unseren zahlreichen leckeren Cocktails nicht entscheiden kannst, lass die Würfel für dich die Wahl treffen!\
-> Sechs Cocktails haben wir an dem Abend im Angebot. Welcher es wird..entscheidet dein Glück
-
-------------------------------------------------------------------------
-
-### Karaoke\@Wu5 Vol.13
-
-**Beginn:** Do 09.09.2021, 20:00+0200\
-**Ende:** Fr 10.09.2021, 00:00+0200\
-**Ort:** Studentenclub Wu5 e.V.\
-**Link:** <https://mbasic.facebook.com/events/985932375587232>\
-**Screenshot:**
-[facebook.com-events-985932375587232.png](facebook.com-events-985932375587232.png)
-
-> Come on & sing along! Auch im September laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
-> Für jeden der sich traut, gibt es an der Bar einen Belohnungsschnaps aufs Haus!
-
-------------------------------------------------------------------------
-
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 10.09.2021, 20:00+0200\
