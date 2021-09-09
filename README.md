@@ -145,6 +145,23 @@
 
 ------------------------------------------------------------------------
 
+### Out of the Box: Cheech & Chong -- Viel Rauch um nichts
+
+**Beginn:** Do 16.09.2021, 20:30+0200\
+**Ende:** Fr 17.09.2021, 00:00+0200\
+**Ort:** Studentenclub Bärenzwinger\
+**Link:** <https://mbasic.facebook.com/events/211261500983775>\
+**Screenshot:**
+[facebook.com-events-211261500983775.png](facebook.com-events-211261500983775.png)
+
+> Sonderveranstaltung in den Semesterferien!
+>
+> Im Studentenclub Bärenzwinger zeigen wir Cheech & Chong (Org.: Up in Smoke), wo zwei ungewöhnliche Freunde auf der Suche nach Gras quer durchs Land Reisen.
+>
+> Der Film läuft im Originalton mit deutschen Untertiteln. Getränke werden vom Studentenclub Bärenzwinger verkauft.
+
+------------------------------------------------------------------------
+
 ### Konzertabend: Alice Roger, Triiumph und Seventh Floor
 
 **Beginn:** Fr 17.09.2021, 19:00+0200\

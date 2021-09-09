@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Out of the Box: Cheech & Chong – Viel Rauch um nichts
+DTSTART;VALUE=DATE-TIME:20210916T183000Z
+DTEND;VALUE=DATE-TIME:20210916T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210909T100802Z
+UID:facebook.com-events-211261500983775
+DESCRIPTION:Sonderveranstaltung in den Semesterferien!\n\nIm Studentenclub
+  Bärenzwinger zeigen wir Cheech & Chong (Org.: Up in Smoke)\, wo zwei ung
+ ewöhnliche Freunde auf der Suche nach Gras quer durchs Land Reisen.\n\nDe
+ r Film läuft im Originalton mit deutschen Untertiteln. Getränke werden v
+ om Studentenclub Bärenzwinger verkauft.
+LOCATION:Studentenclub Bärenzwinger
+URL:https://mbasic.facebook.com/events/211261500983775
+END:VEVENT
+END:VCALENDAR
