@@ -1,33 +1,3 @@
-### Bar-Abend mit Bier-Pong
-
-**Beginn:** Fr 10.09.2021, 20:00+0200\
-**Ende:** Sa 11.09.2021, 01:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/436227964393726>\
-**Screenshot:**
-[facebook.com-events-436227964393726.png](facebook.com-events-436227964393726.png)
-
-> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
-
-------------------------------------------------------------------------
-
-### Cosplay-Stammtisch
-
-**Beginn:** Fr 10.09.2021, 20:00+0200\
-**Ende:** Sa 11.09.2021, 01:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/595663458091444>\
-**Screenshot:**
-[facebook.com-events-595663458091444.png](facebook.com-events-595663458091444.png)
-
-> \"Regelmäßiges Treffen von Cosplayern und Cosplay-Fotografen zum gemütlichen Austausch\"
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
 ### The 80\'s called (they want their music back)
 
 **Beginn:** Sa 11.09.2021, 20:00+0200\
@@ -164,11 +134,41 @@
 **Beginn:** Fr 17.09.2021, 20:00+0200\
 **Ende:** Sa 18.09.2021, 01:00+0200\
 **Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/436227964393726>\
+**Screenshot:**
+[facebook.com-events-436227964393726.png](facebook.com-events-436227964393726.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 17.09.2021, 20:00+0200\
+**Ende:** Sa 18.09.2021, 01:00+0200\
+**Ort:** Studentenklub Count Down\
 **Link:** <https://mbasic.facebook.com/events/438587847461303>\
 **Screenshot:**
 [facebook.com-events-438587847461303.png](facebook.com-events-438587847461303.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Cosplay-Stammtisch
+
+**Beginn:** Fr 17.09.2021, 20:00+0200\
+**Ende:** Sa 18.09.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/595663458091444>\
+**Screenshot:**
+[facebook.com-events-595663458091444.png](facebook.com-events-595663458091444.png)
+
+> \"Regelmäßiges Treffen von Cosplayern und Cosplay-Fotografen zum gemütlichen Austausch\"
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
 
 ------------------------------------------------------------------------
 
