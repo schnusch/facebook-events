@@ -105,7 +105,7 @@
 
 ### Konzertabend: Alice Roger, Triiumph und Seventh Floor
 
-**Beginn:** Fr 17.09.2021, 19:00+0200\
+**Beginn:** Fr 17.09.2021, 18:00+0200\
 **Ende:** Sa 18.09.2021, 00:00+0200\
 **Ort:** Studentenclub Bärenzwinger\
 **Link:** <https://mbasic.facebook.com/events/1317540622035234>\
@@ -121,7 +121,7 @@
 > Aller guten Dinge sind Drei! Den beiden schließt sich die selbsternannte Rockboyband mit dem Doppel-I an.
 >
 > Einlass:\
-> ab 19 Uhr
+> ab 18 Uhr
 >
 > Tickets:\
 > Regulär 5€\

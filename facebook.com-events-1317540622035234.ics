@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:-//fbscrape v0.0.1
 BEGIN:VEVENT
 SUMMARY:Konzertabend: Alice Roger\, Triiumph und Seventh Floor
-DTSTART;VALUE=DATE-TIME:20210917T170000Z
+DTSTART;VALUE=DATE-TIME:20210917T160000Z
 DTEND;VALUE=DATE-TIME:20210917T220000Z
-DTSTAMP;VALUE=DATE-TIME:20210827T155841Z
+DTSTAMP;VALUE=DATE-TIME:20210911T160957Z
 UID:facebook.com-events-1317540622035234
 DESCRIPTION:Ein Rockiger Abend mit Dresdner Bands im Bärenzwinger!\n\nAli
  ce Roger die deutschsprachige Rock-Pop Band wird euch mit erdigem\, drecki
  gem Rock und Ohrwurm-Melodien beglücken!\n\nDazu kommt Seventh Floor\, di
  e Band\, die 2000er Pop-Punk mit einem modernen Sound vereint.\n\nAller gu
  ten Dinge sind Drei! Den beiden schließt sich die selbsternannte Rockboyb
- and mit dem Doppel-I an.\n\nEinlass:\nab 19 Uhr\n\nTickets:\nRegulär 5€
+ and mit dem Doppel-I an.\n\nEinlass:\nab 18 Uhr\n\nTickets:\nRegulär 5€
  \nStudierende 3€
 LOCATION:Studentenclub Bärenzwinger
 URL:https://mbasic.facebook.com/events/1317540622035234
