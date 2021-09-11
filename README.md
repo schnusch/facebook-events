@@ -1,16 +1,3 @@
-### The 80\'s called (they want their music back)
-
-**Beginn:** Sa 11.09.2021, 20:00+0200\
-**Ende:** So 12.09.2021, 02:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/248424627032460>\
-**Screenshot:**
-[facebook.com-events-248424627032460.png](facebook.com-events-248424627032460.png)
-
-> Diesmal gibt es bei uns eine 80er-Jahre-Veranstaltung. Mit vielen Songs, die ihr kennt. Und natürlich gibt es auch eine Wunschliste am DJ-Pult.
-
-------------------------------------------------------------------------
-
 ### Nerd Out!
 
 **Beginn:** Mo 13.09.2021, 20:00+0200\
@@ -156,6 +143,19 @@
 > Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
 >
 > Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### The 80\'s called (they want their music back)
+
+**Beginn:** Sa 18.09.2021, 20:00+0200\
+**Ende:** So 19.09.2021, 02:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/248424627032460>\
+**Screenshot:**
+[facebook.com-events-248424627032460.png](facebook.com-events-248424627032460.png)
+
+> Diesmal gibt es bei uns eine 80er-Jahre-Veranstaltung. Mit vielen Songs, die ihr kennt. Und natürlich gibt es auch eine Wunschliste am DJ-Pult.
 
 ------------------------------------------------------------------------
 
