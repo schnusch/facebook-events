@@ -134,41 +134,11 @@
 **Beginn:** Fr 17.09.2021, 20:00+0200\
 **Ende:** Sa 18.09.2021, 01:00+0200\
 **Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/436227964393726>\
-**Screenshot:**
-[facebook.com-events-436227964393726.png](facebook.com-events-436227964393726.png)
-
-> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
-
-------------------------------------------------------------------------
-
-### Bar-Abend mit Bier-Pong
-
-**Beginn:** Fr 17.09.2021, 20:00+0200\
-**Ende:** Sa 18.09.2021, 01:00+0200\
-**Ort:** Studentenklub Count Down\
 **Link:** <https://mbasic.facebook.com/events/438587847461303>\
 **Screenshot:**
 [facebook.com-events-438587847461303.png](facebook.com-events-438587847461303.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
-
-------------------------------------------------------------------------
-
-### Cosplay-Stammtisch
-
-**Beginn:** Fr 17.09.2021, 20:00+0200\
-**Ende:** Sa 18.09.2021, 01:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/595663458091444>\
-**Screenshot:**
-[facebook.com-events-595663458091444.png](facebook.com-events-595663458091444.png)
-
-> \"Regelmäßiges Treffen von Cosplayern und Cosplay-Fotografen zum gemütlichen Austausch\"
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
 
 ------------------------------------------------------------------------
 
@@ -331,6 +301,40 @@
 > Wo gibt´s denn sowas?
 >
 > Natürlich bei uns im GAG ;)
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### Metalalter-Abend
+
+**Beginn:** Sa 25.09.2021, 20:00+0200\
+**Ende:** So 26.09.2021, 02:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/188514080040637>\
+**Screenshot:**
+[facebook.com-events-188514080040637.png](facebook.com-events-188514080040637.png)
+
+> Ein klassischer Matalalter-Abend mit Manu am DJ-Pult. Wie immer mit unserer Happy Hour bis 21:30.
+
+------------------------------------------------------------------------
+
+### Nerd Out!
+
+**Beginn:** Mo 27.09.2021, 20:00+0200\
+**Ende:** Di 28.09.2021, 00:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/182406020663376>\
+**Screenshot:**
+[facebook.com-events-182406020663376.png](facebook.com-events-182406020663376.png)
+
+> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
+> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
+> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
+> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
+> Eine Zusammenkunft ganz normaler Leute halt.
 >
 > Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
 >

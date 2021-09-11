@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Nerd Out!
+DTSTART;VALUE=DATE-TIME:20210927T180000Z
+DTEND;VALUE=DATE-TIME:20210927T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210911T041009Z
+UID:facebook.com-events-182406020663376
+DESCRIPTION:Einmal in der Woche kann man mal so richtig den Nerd raushäng
+ en lassen.\nWir wissen\, wie der Prozessor in unseren Rechnern genannt wir
+ d und warum er schlicht besser ist.\nWir haben Meinungen zu Programmierspr
+ achen\, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.
+ \nUnd damit auch allen klar ist\, wer sich da trifft\, spielen wir Rollens
+ piele mit merkwürdig geformten Würfeln.\nEine Zusammenkunft ganz normale
+ r Leute halt.\n\n\nBitte tragt im Klub eine Maske und haltet euch an die H
+ ygienevorschriften.\n\nAußerdem werden wir eure Kontaktdaten erfassen um 
+ eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine o
+ rdnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+LOCATION:None
+URL:https://mbasic.facebook.com/events/182406020663376
+END:VEVENT
+END:VCALENDAR
