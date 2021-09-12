@@ -146,6 +146,37 @@
 
 ------------------------------------------------------------------------
 
+### Gratis Rollenspielbrunch
+
+**Beginn:** So 19.09.2021, 11:00+0200\
+**Ende:** So 19.09.2021, 18:00+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/6140217592686803>\
+**Screenshot:**
+[facebook.com-events-6140217592686803.png](facebook.com-events-6140217592686803.png)
+
+> Der Rollenspielbrunch kommt live und in Farbe zurück in den Traumtänzer. Mit mittelalterlichem Club-Ambiente, fantastischen Abenteuern begeisterten Spielern und Leitern bieten wir euch den schönsten Weg für jeden Rollenspieler das Wochenende ausklingen zu lassen. Gespielt werden darf jedes noch so ausgefallene oder altbekannte System und Setting, so lange sich genügend Spieler und ein Spielleiter dafür finden. Herzlich willkommen sind neben spontanen auch bestehende Spielrunden und andere Spiele wie Descent, Munchkin oder Tabletops.
+
+------------------------------------------------------------------------
+
+### Kellerlesen - Krimi Spezial
+
+**Beginn:** Mo 20.09.2021, 20:00+0200\
+**Ende:** Di 21.09.2021, 00:00+0200\
+**Ort:** Studentenclub Borsi 34\
+**Link:** <https://mbasic.facebook.com/events/371246091330000>\
+**Screenshot:**
+[facebook.com-events-371246091330000.png](facebook.com-events-371246091330000.png)
+
+> Bei unserem Kellerlesen - Krimi Spezial könnt ihr andächtig einigen Buchvorstellungen lauschen, kühle Getränke genießen, antiquarische Krimis und Thriller für kleine Taler erstehen oder euch selbst auf den Lesesessel trauen und andere mit einem Beitrag beglücken.\
+> Erlaubt ist alles, was einen Zeitrahmen von 15 Minuten nicht sprengt und euch dazu anregt, es anderen vorzutragen.\
+> Als Spezial gibt es einen kleinen buchhändlerischen Einblick in die Welt der Krimis - Was macht ihn aus, Welche Arten gibt es, Was ist neu?\
+> Bitte vergesst die 3G-Regelung nicht (Eintritt nur für Genesene, Geimpfte, Getestete Personen).
+>
+> Bardienst: Nici und Jakob
+
+------------------------------------------------------------------------
+
 ### Nerd Out!
 
 **Beginn:** Mo 20.09.2021, 20:00+0200\
@@ -376,43 +407,16 @@
 
 ------------------------------------------------------------------------
 
-### Werwölfeabend
+### Gratis Rollenspielbrunch
 
-**Beginn:** Mo 04.10.2021, 20:00+0200\
-**Ende:** Mo 04.10.2021, 23:59+0200\
+**Beginn:** So 03.10.2021, 11:00+0200\
+**Ende:** So 03.10.2021, 18:00+0200\
 **Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/391822309165169>\
+**Link:** <https://mbasic.facebook.com/events/6635307483204855>\
 **Screenshot:**
-[facebook.com-events-391822309165169.png](facebook.com-events-391822309165169.png)
+[facebook.com-events-6635307483204855.png](facebook.com-events-6635307483204855.png)
 
-> Heute Abend spielen wir mit euch \"Die Werwölfe von Düsterwald\" (auch bekannt als Mord in Palermo o.ä.).
->
-> Neben den Standardakteuren wie Werwölfen, sterbenden Bauern und dem Seher erweitern wir die Regeln um Jäger, Liebespaare, Detektive und bis zu 50 weitere Rollen.
->
-> Im Kerzenschein werden die Werwölfe Angst und Schrecken verbreiten, wenn es heißt:
->
-> \"Es wird Tag im Traumtänzer und alle erwachen außer \...\"
->
-> + + + WICHTIG! + + +\
-> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
-
-------------------------------------------------------------------------
-
-### Rollenspielstammtisch
-
-**Beginn:** Mo 11.10.2021, 20:00+0200\
-**Ende:** Mo 11.10.2021, 23:59+0200\
-**Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/554956495744628>\
-**Screenshot:**
-[facebook.com-events-554956495744628.png](facebook.com-events-554956495744628.png)
-
-> Die Dresdner Rollenspieler treffen sich zum monatlichen Gedankenaustausch. Dabei geht es nicht darum irgendwelche Rollenspiele zu spielen, sondern darum den Kontakt zwischen den Dresdner Rollenspielern herzustellen.
->
-> Mit von der Partie sind neben den Leuten von Dresden Spielt! auch die Mitglieder von der Gugelgilde. Willkommen sind aber auch immer Neugierige, Einsteiger und Zugezogene.
->
-> + + + WICHTIG! + + +\
-> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
+> Der Rollenspielbrunch kommt live und in Farbe zurück in den Traumtänzer. Mit mittelalterlichem Club-Ambiente, fantastischen Abenteuern begeisterten Spielern und Leitern bieten wir euch den schönsten Weg für jeden Rollenspieler das Wochenende ausklingen zu lassen. Gespielt werden darf jedes noch so ausgefallene oder altbekannte System und Setting, so lange sich genügend Spieler und ein Spielleiter dafür finden. Herzlich willkommen sind neben spontanen auch bestehende Spielrunden und andere Spiele wie Descent, Munchkin oder Tabletops.
 
 ------------------------------------------------------------------------
 

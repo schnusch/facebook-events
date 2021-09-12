@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Gratis Rollenspielbrunch
+DTSTART;VALUE=DATE-TIME:20210919T090000Z
+DTEND;VALUE=DATE-TIME:20210919T160000Z
+DTSTAMP;VALUE=DATE-TIME:20210912T161203Z
+UID:facebook.com-events-6140217592686803
+DESCRIPTION:Der Rollenspielbrunch kommt live und in Farbe zurück in den T
+ raumtänzer. Mit mittelalterlichem Club-Ambiente\, fantastischen Abenteuer
+ n begeisterten Spielern und Leitern bieten wir euch den schönsten Weg fü
+ r jeden Rollenspieler das Wochenende ausklingen zu lassen. Gespielt werden
+  darf jedes noch so ausgefallene oder altbekannte System und Setting\, so 
+ lange sich genügend Spieler und ein Spielleiter dafür finden. Herzlich w
+ illkommen sind neben spontanen auch bestehende Spielrunden und andere Spie
+ le wie Descent\, Munchkin oder Tabletops.
+LOCATION:Studentenclub Traumtänzer
+URL:https://mbasic.facebook.com/events/6140217592686803
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Kellerlesen - Krimi Spezial
+DTSTART;VALUE=DATE-TIME:20210920T180000Z
+DTEND;VALUE=DATE-TIME:20210920T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210912T161142Z
+UID:facebook.com-events-371246091330000
+DESCRIPTION:Bei unserem Kellerlesen - Krimi Spezial könnt ihr andächtig 
+ einigen Buchvorstellungen lauschen\, kühle Getränke genießen\, antiquar
+ ische Krimis und Thriller für kleine Taler erstehen oder euch selbst auf 
+ den Lesesessel trauen und andere mit einem Beitrag beglücken.\nErlaubt is
+ t alles\, was einen Zeitrahmen von 15 Minuten nicht sprengt und euch dazu 
+ anregt\, es anderen vorzutragen.\nAls Spezial gibt es einen kleinen buchh
+ ändlerischen Einblick in die Welt der Krimis - Was macht ihn aus\, Welche
+  Arten gibt es\, Was ist neu?\nBitte vergesst die 3G-Regelung nicht (Eintr
+ itt nur für Genesene\, Geimpfte\, Getestete Personen).\n\nBardienst: Nici
+  und Jakob
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/371246091330000
+END:VEVENT
+END:VCALENDAR
