@@ -1,42 +1,3 @@
-### Nerd Out!
-
-**Beginn:** Mo 13.09.2021, 20:00+0200\
-**Ende:** Di 14.09.2021, 00:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/828832297827521>\
-**Screenshot:**
-[facebook.com-events-828832297827521.png](facebook.com-events-828832297827521.png)
-
-> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
-> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
-> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
-> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
-> Eine Zusammenkunft ganz normaler Leute halt.
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
-### Rollenspielstammtisch
-
-**Beginn:** Mo 13.09.2021, 20:00+0200\
-**Ende:** Mo 13.09.2021, 23:59+0200\
-**Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/1231690793920196>\
-**Screenshot:**
-[facebook.com-events-1231690793920196.png](facebook.com-events-1231690793920196.png)
-
-> Die Dresdner Rollenspieler treffen sich zum monatlichen Gedankenaustausch. Dabei geht es nicht darum irgendwelche Rollenspiele zu spielen, sondern darum den Kontakt zwischen den Dresdner Rollenspielern herzustellen.
->
-> Mit von der Partie sind neben den Leuten von Dresden Spielt! auch die Mitglieder von der Gugelgilde. Willkommen sind aber auch immer Neugierige, Einsteiger und Zugezogene.
->
-> + + + WICHTIG! + + +\
-> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
-
-------------------------------------------------------------------------
-
 ### Schlag den Barkeeper
 
 **Beginn:** Do 16.09.2021, 20:00+0200\
@@ -407,6 +368,23 @@
 
 ------------------------------------------------------------------------
 
+### Föderationstag-wir feiern die vereinigte Föderation der Planeten (all things startrek)
+
+**Beginn:** Fr 01.10.2021, 20:00+0200\
+**Ende:** Sa 02.10.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/167249608856393>\
+**Screenshot:**
+[facebook.com-events-167249608856393.png](facebook.com-events-167249608856393.png)
+
+> Heute Abend beherrscht Star Trek unsere Bar. Wer sich das nicht entgehen lassen möchte, der bewege sich ins GAG ;)
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
 ### Gratis Rollenspielbrunch
 
 **Beginn:** So 03.10.2021, 11:00+0200\
@@ -417,6 +395,28 @@
 [facebook.com-events-6635307483204855.png](facebook.com-events-6635307483204855.png)
 
 > Der Rollenspielbrunch kommt live und in Farbe zurück in den Traumtänzer. Mit mittelalterlichem Club-Ambiente, fantastischen Abenteuern begeisterten Spielern und Leitern bieten wir euch den schönsten Weg für jeden Rollenspieler das Wochenende ausklingen zu lassen. Gespielt werden darf jedes noch so ausgefallene oder altbekannte System und Setting, so lange sich genügend Spieler und ein Spielleiter dafür finden. Herzlich willkommen sind neben spontanen auch bestehende Spielrunden und andere Spiele wie Descent, Munchkin oder Tabletops.
+
+------------------------------------------------------------------------
+
+### Werwölfeabend
+
+**Beginn:** Mo 04.10.2021, 20:00+0200\
+**Ende:** Mo 04.10.2021, 23:59+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/391822309165169>\
+**Screenshot:**
+[facebook.com-events-391822309165169.png](facebook.com-events-391822309165169.png)
+
+> Heute Abend spielen wir mit euch \"Die Werwölfe von Düsterwald\" (auch bekannt als Mord in Palermo o.ä.).
+>
+> Neben den Standardakteuren wie Werwölfen, sterbenden Bauern und dem Seher erweitern wir die Regeln um Jäger, Liebespaare, Detektive und bis zu 50 weitere Rollen.
+>
+> Im Kerzenschein werden die Werwölfe Angst und Schrecken verbreiten, wenn es heißt:
+>
+> \"Es wird Tag im Traumtänzer und alle erwachen außer \...\"
+>
+> + + + WICHTIG! + + +\
+> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
 
 ------------------------------------------------------------------------
 

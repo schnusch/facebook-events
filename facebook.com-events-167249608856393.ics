@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Föderationstag-wir feiern die vereinigte Föderation der Planeten
+  (all things startrek)
+DTSTART;VALUE=DATE-TIME:20211001T180000Z
+DTEND;VALUE=DATE-TIME:20211001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210913T221236Z
+UID:facebook.com-events-167249608856393
+DESCRIPTION:Heute Abend beherrscht Star Trek unsere Bar. Wer sich das nich
+ t entgehen lassen möchte\, der bewege sich ins GAG \;)\n\nBitte tragt im 
+ Klub eine Maske und haltet euch an die Hygienevorschriften.\n\nAußerdem w
+ erden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkei
+ t gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie
+  Vernichtung sorgen wir natürlich!
+LOCATION:None
+URL:https://mbasic.facebook.com/events/167249608856393
+END:VEVENT
+END:VCALENDAR
