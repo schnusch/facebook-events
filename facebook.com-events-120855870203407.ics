@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Bar-Abend mit Bier-Pong
+DTSTART;VALUE=DATE-TIME:20211008T180000Z
+DTEND;VALUE=DATE-TIME:20211008T230000Z
+DTSTAMP;VALUE=DATE-TIME:20210918T041440Z
+UID:facebook.com-events-120855870203407
+DESCRIPTION:Wenn euch Freitag Abend die Langeweile plagt\, kommt zu uns\, 
+ bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+LOCATION:Studentenklub Count Down
+URL:https://mbasic.facebook.com/events/120855870203407
+END:VEVENT
+END:VCALENDAR

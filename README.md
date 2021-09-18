@@ -1,112 +1,3 @@
-### Schlag den Barkeeper
-
-**Beginn:** Do 16.09.2021, 20:00+0200\
-**Ende:** Fr 17.09.2021, 00:00+0200\
-**Ort:** St. Petersburger Straße 21\
-**Link:** <https://mbasic.facebook.com/events/426320515488675>\
-**Screenshot:**
-[facebook.com-events-426320515488675.png](facebook.com-events-426320515488675.png)
-
-> Seid ihr der großer Hai oder nur kleine Fische!?
->
-> Wir präsentieren das neue Format im Club um den dicksten Fisch im Aquarium herauszufordern und zu schlagen!\
-> Jeden Monat gilt es sich in einer neuen Kategorie zu beweisen, erringt den Sieg und ihr gewinnt den Pott, schafft ihr es nicht, wächst er zum nächsten mal an!
->
-> Das Event startet diesen Abend aber mit einer großen Spielrunde und mehreren Teilnehmern!\
-> Kommt vorbei, als Teilnehmer oder Zuschauer (Anmeldung am Abend beim Bardienst).
-
-------------------------------------------------------------------------
-
-### \[ˈwʊdˌstɒk\] -Jamsession Nr. 97
-
-**Beginn:** Do 16.09.2021, 20:00+0200\
-**Ende:** Fr 17.09.2021, 00:00+0200\
-**Ort:** Studentenclub Wu5 e.V.\
-**Link:** <https://mbasic.facebook.com/events/1040372250066782>\
-**Screenshot:**
-[facebook.com-events-1040372250066782.png](facebook.com-events-1040372250066782.png)
-
-> \[ˈwʊdˌstɒk\] - Jamsession\
-> Herbei zu Session Nr. 97!\
-> Zu Gerstensaft und Mixgetränken wird wieder gerockt, bis die Saiten qualmen und die Finger bluten.\
-> Eine erstklassige Abmuckumgebung erwartet die Musikanten, vorhanden sind Gitarren- und Bassamp, Drumset und Gesangsmikro(s). Die Technik wird aber auch jedem anderen Instrument mit größtem Eifer Gehör verschaffen. Also Klampfe, Sticks, Gesangsorgan, Nasenflöte, Brummtopf und/oder singende Säge einpacken und gniedeln, was die Glieder hergeben.\
-> Wer arbeitet darf auch trinken: Jeder Musiker erhält ein Bier aufs Haus.
-
-------------------------------------------------------------------------
-
-### Out of the Box: Cheech & Chong -- Viel Rauch um nichts
-
-**Beginn:** Do 16.09.2021, 20:30+0200\
-**Ende:** Fr 17.09.2021, 00:00+0200\
-**Ort:** Studentenclub Bärenzwinger\
-**Link:** <https://mbasic.facebook.com/events/211261500983775>\
-**Screenshot:**
-[facebook.com-events-211261500983775.png](facebook.com-events-211261500983775.png)
-
-> Sonderveranstaltung in den Semesterferien!
->
-> Im Studentenclub Bärenzwinger zeigen wir Cheech & Chong (Org.: Up in Smoke), wo zwei ungewöhnliche Freunde auf der Suche nach Gras quer durchs Land Reisen.
->
-> Der Film läuft im Originalton mit deutschen Untertiteln. Getränke werden vom Studentenclub Bärenzwinger verkauft.
-
-------------------------------------------------------------------------
-
-### Konzertabend: Alice Roger, Triiumph und Seventh Floor
-
-**Beginn:** Fr 17.09.2021, 18:00+0200\
-**Ende:** Sa 18.09.2021, 00:00+0200\
-**Ort:** Studentenclub Bärenzwinger\
-**Link:** <https://mbasic.facebook.com/events/1317540622035234>\
-**Screenshot:**
-[facebook.com-events-1317540622035234.png](facebook.com-events-1317540622035234.png)
-
-> Ein Rockiger Abend mit Dresdner Bands im Bärenzwinger!
->
-> Alice Roger die deutschsprachige Rock-Pop Band wird euch mit erdigem, dreckigem Rock und Ohrwurm-Melodien beglücken!
->
-> Dazu kommt Seventh Floor, die Band, die 2000er Pop-Punk mit einem modernen Sound vereint.
->
-> Aller guten Dinge sind Drei! Den beiden schließt sich die selbsternannte Rockboyband mit dem Doppel-I an.
->
-> Einlass:\
-> ab 18 Uhr
->
-> Tickets:\
-> Regulär 5€\
-> Studierende 3€
-
-------------------------------------------------------------------------
-
-### Bar-Abend mit Bier-Pong
-
-**Beginn:** Fr 17.09.2021, 20:00+0200\
-**Ende:** Sa 18.09.2021, 01:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/438587847461303>\
-**Screenshot:**
-[facebook.com-events-438587847461303.png](facebook.com-events-438587847461303.png)
-
-> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
-
-------------------------------------------------------------------------
-
-### Brettspieleabend
-
-**Beginn:** Fr 17.09.2021, 20:00+0200\
-**Ende:** Sa 18.09.2021, 01:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/1842926332554897>\
-**Screenshot:**
-[facebook.com-events-1842926332554897.png](facebook.com-events-1842926332554897.png)
-
-> Verschiedenste Brettspiele können gegen Vorlage eines Lichtbilddokuments an der Bar ausgeliehen werden.
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
 ### Gratis Rollenspielbrunch
 
 **Beginn:** So 19.09.2021, 11:00+0200\
@@ -398,6 +289,27 @@
 
 ------------------------------------------------------------------------
 
+### Nerd Out!
+
+**Beginn:** Mo 04.10.2021, 20:00+0200\
+**Ende:** Di 05.10.2021, 00:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/4352546918164937>\
+**Screenshot:**
+[facebook.com-events-4352546918164937.png](facebook.com-events-4352546918164937.png)
+
+> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
+> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
+> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
+> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
+> Eine Zusammenkunft ganz normaler Leute halt.
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
 ### Werwölfeabend
 
 **Beginn:** Mo 04.10.2021, 20:00+0200\
@@ -417,6 +329,19 @@
 >
 > + + + WICHTIG! + + +\
 > Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
+
+------------------------------------------------------------------------
+
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 08.10.2021, 20:00+0200\
+**Ende:** Sa 09.10.2021, 01:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/120855870203407>\
+**Screenshot:**
+[facebook.com-events-120855870203407.png](facebook.com-events-120855870203407.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
 
 ------------------------------------------------------------------------
 
