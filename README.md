@@ -1,16 +1,3 @@
-### Gratis Rollenspielbrunch
-
-**Beginn:** So 19.09.2021, 11:00+0200\
-**Ende:** So 19.09.2021, 18:00+0200\
-**Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/6140217592686803>\
-**Screenshot:**
-[facebook.com-events-6140217592686803.png](facebook.com-events-6140217592686803.png)
-
-> Der Rollenspielbrunch kommt live und in Farbe zurück in den Traumtänzer. Mit mittelalterlichem Club-Ambiente, fantastischen Abenteuern begeisterten Spielern und Leitern bieten wir euch den schönsten Weg für jeden Rollenspieler das Wochenende ausklingen zu lassen. Gespielt werden darf jedes noch so ausgefallene oder altbekannte System und Setting, so lange sich genügend Spieler und ein Spielleiter dafür finden. Herzlich willkommen sind neben spontanen auch bestehende Spielrunden und andere Spiele wie Descent, Munchkin oder Tabletops.
-
-------------------------------------------------------------------------
-
 ### Kellerlesen - Krimi Spezial
 
 **Beginn:** Mo 20.09.2021, 20:00+0200\
