@@ -332,6 +332,24 @@
 
 ------------------------------------------------------------------------
 
+### Rollenspielstammtisch
+
+**Beginn:** Mo 11.10.2021, 20:00+0200\
+**Ende:** Mo 11.10.2021, 23:59+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/554956495744628>\
+**Screenshot:**
+[facebook.com-events-554956495744628.png](facebook.com-events-554956495744628.png)
+
+> Die Dresdner Rollenspieler treffen sich zum monatlichen Gedankenaustausch. Dabei geht es nicht darum irgendwelche Rollenspiele zu spielen, sondern darum den Kontakt zwischen den Dresdner Rollenspielern herzustellen.
+>
+> Mit von der Partie sind neben den Leuten von Dresden Spielt! auch die Mitglieder von der Gugelgilde. Willkommen sind aber auch immer Neugierige, Einsteiger und Zugezogene.
+>
+> + + + WICHTIG! + + +\
+> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
+
+------------------------------------------------------------------------
+
 ### Die Legendäre Tequilaparty - Día de los Muertos Edition
 
 **Beginn:** Fr 05.11.2021, 20:00+0100\
