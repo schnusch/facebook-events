@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:ESE-Clubtour 2021
+DTSTART;VALUE=DATE-TIME:20211005T170000Z
+DTEND;VALUE=DATE-TIME:20211005T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210920T101641Z
+UID:facebook.com-events-207256368007175
+DESCRIPTION:Kennst du schon die Dresdner Studentenclubs? Nein?\n\nDann wir
+ d es höchste Zeit! Du wirst öfter dort sein\, als du denkst!\n\nWelcher 
+ ist der beste Ort zum Kommilitonen treffen\, Unikram besprechen\, über Pr
+ ofessoren lästern oder einfach nur zum ausspannen? Wir wissen es nicht\, 
+ aber such dir doch einfach selbst einen aus!\n\nIm Rahmen deiner Erstsemes
+ tereinführungswoche kannst du am Dienstag\, dem 05.10.2020 mit deinem Fac
+ hschaftsrat von einem Studentenclub zum nächsten wandern und so einen gut
+ en Überblick über die breiten Möglichkeiten der Abendveranstaltungen in
+  der Unizeit bekommen. Und dabei bekommst du sogar noch ein Freigetränk!\
+ n\nGib den Gutschein als Erstsemester zusammen mit deinem Studentenausweis
+  in drei Clubs an der Bar ab und hol dir im vierten Club ein Getränk dein
+ er Wahl*.\n\nDie ESE-CLUBTOUR führt durch die Dresdner Studentenclubs\, d
+ eren Mitglieder ehrenamtlich arbeiten\, um dir eine schöne Zeit zu bieten
+ . Wenn dir ein Club besonders gefällt und du Lust hast\, dort mitzumachen
+ \, frag einfach.\n\n*Hinweise im jeweiligen Club beachten\n\nHINWEIS: Aufg
+ rund der Corona-Lage und entsprechenden Einschränkungen ist eine Teilnahm
+ e nur mit den geführten Kleingruppen der Fachschaftsräte möglich. Dein 
+ FSR wird dich informieren\, wenn er eine ESE-Clubtour bei dir im Ersti-Pro
+ gramm hat.
+LOCATION:Dresdner Studentenclubs
+URL:https://mbasic.facebook.com/events/207256368007175
+END:VEVENT
+END:VCALENDAR
