@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:LE BATARDEAU NOIR
+DTSTART;VALUE=DATE-TIME:20210924T180000Z
+DTEND;VALUE=DATE-TIME:20210924T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210920T161606Z
+UID:facebook.com-events-426732789017733
+DESCRIPTION:Le Batardeau Noir\n\nFreitag\, 24.09.2021\, ab 20 Uhr\n\nLe Ba
+ tardeau Noir meldet sich zurück. Wir sind noch da und ihr hoffentlich auc
+ h.\nWir freuen uns jedenfalls auf ein Wiedersehen am Freitag\, den 24.9.20
+ 21.\n\nDas Tor zum Bärenzwinger wird bereits um 20 Uhr aufgeschlossen. Ih
+ r könnt gemütlich beisammen sitzen\, quatschen und schon da\, wenn ihr w
+ ollt\, die Bar leer trinken. Ab 22 Uhr sorgen dann DJ Bastard und Musikexp
+ erte Walter Faber für eine volle Tanzfläche im Innenbereich. Das Beste a
+ us Dark Wave\, Gothic\, Indie\, Synthiepop\, Dark 80's & 90's\, sowie nat
+ ürlich eure Musikwünsche\, stehen wie immer auf dem Programm.\n\nWas mus
+ s\, das muss:\nFür die Veranstaltung gilt die aktuelle sächsische Corona
+ schutzverordnung. (3G)\nWer sich kränklich fühlt oder Symptome zeigt\, b
+ leibt bitte zu Hause. Es besteht keine Maskenpflicht\, ihr habt für den F
+ all\, daß es eng werden könnte\, aber bitte eine dabei.\n\nEintritt: 3
+ € bis 22 Uhr\, danach 5€\n\n\nStudentenclub Bärenzwinger\nBrühlscher
+  Garten 1\n01067 Dresden
+LOCATION:Studentenclub Bärenzwinger
+URL:https://mbasic.facebook.com/events/426732789017733
+END:VEVENT
+END:VCALENDAR
