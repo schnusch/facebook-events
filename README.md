@@ -1,3 +1,16 @@
+### Barabend (Bier 1,50 €)
+
+**Beginn:** Mo 27.09.2021, 19:00+0200\
+**Ende:** Di 28.09.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/816801102332686>\
+**Screenshot:**
+[facebook.com-events-816801102332686.png](facebook.com-events-816801102332686.png)
+
+> Beerpong, Quatschen, Skat, Dart\... Und Bier 1,50€)
+
+------------------------------------------------------------------------
+
 ### Nerd Out!
 
 **Beginn:** Mo 27.09.2021, 20:00+0200\
