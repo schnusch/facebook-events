@@ -1,16 +1,3 @@
-### Metalalter-Abend
-
-**Beginn:** Sa 25.09.2021, 20:00+0200\
-**Ende:** So 26.09.2021, 02:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/188514080040637>\
-**Screenshot:**
-[facebook.com-events-188514080040637.png](facebook.com-events-188514080040637.png)
-
-> Ein klassischer Matalalter-Abend mit Manu am DJ-Pult. Wie immer mit unserer Happy Hour bis 21:30.
-
-------------------------------------------------------------------------
-
 ### Nerd Out!
 
 **Beginn:** Mo 27.09.2021, 20:00+0200\
@@ -48,6 +35,26 @@
 > Dann kommt zum Magic-Stammtisch in den Traumtänzer. Bringt eure Decks, Tauschordner und Freunde mit, damit wir möglichst viele verschiedene Decks und Spieler haben und einen interessanten Abend für alle gestalten können.
 >
 > Ob ihr Anfänger oder Fortgeschrittener seid, ist egal. Solange ihr Motivation und Geselligkeit mitbringt, seid ihr willkommen. Auch wenn ihr keine Karten besitzt, werden vor Ort Decks vorhanden sein, mit denen ihr gerne das Spiel ausprobieren könnt.
+
+------------------------------------------------------------------------
+
+### Welcome to HSS
+
+**Beginn:** Di 28.09.2021, 20:00+0200\
+**Ende:** Mi 29.09.2021, 00:00+0200\
+**Ort:** Hochschulstraße 48, 01069 Dresden, Deutschland\
+**Link:** <https://mbasic.facebook.com/events/4289493001086744>\
+**Screenshot:**
+[facebook.com-events-4289493001086744.png](facebook.com-events-4289493001086744.png)
+
+> Du bist gerade in eines der Wohnheime in der Hochschulstraße eingezogen und möchtest mal deine Mitbewohner kennenlernen?
+>
+> Du bist schon mal am Club 11 vorbei gelaufen und hast dich gefragt was das eigentlich ist?
+>
+> Dann hast du jetzt die Chance den Club 11 und deine Nachbarn kennenzulernen und dabei ein kühles Bier zu genießen:
+>
+> Der Club 11 lädt am 28. September ab 20 Uhr alle neuen Bewohner zu einem gemütlichen Abend bei uns im Club ein. Natürlich sind auch alle anderen willkommen.\
+> Neben kühlen Getränken gibt es auch verschiedene Gesellschaftsspiele und kleinere Snacks!
 
 ------------------------------------------------------------------------
 
@@ -275,6 +282,19 @@
 **Link:** <https://mbasic.facebook.com/events/560877165060316>\
 **Screenshot:**
 [facebook.com-events-560877165060316.png](facebook.com-events-560877165060316.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 29.10.2021, 20:00+0200\
+**Ende:** Sa 30.10.2021, 01:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/212036860965296>\
+**Screenshot:**
+[facebook.com-events-212036860965296.png](facebook.com-events-212036860965296.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
 

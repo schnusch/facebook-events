@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Welcome to HSS
+DTSTART;VALUE=DATE-TIME:20210928T180000Z
+DTEND;VALUE=DATE-TIME:20210928T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210926T024444Z
+UID:facebook.com-events-4289493001086744
+DESCRIPTION:Du bist gerade in eines der Wohnheime in der Hochschulstraße 
+ eingezogen und möchtest mal deine Mitbewohner kennenlernen?\n\nDu bist sc
+ hon mal am Club 11 vorbei gelaufen und hast dich gefragt was das eigentlic
+ h ist?\n\nDann hast du jetzt die Chance den Club 11 und deine Nachbarn ken
+ nenzulernen und dabei ein kühles Bier zu genießen:\n\nDer Club 11 lädt 
+ am 28. September ab 20 Uhr alle neuen Bewohner zu einem gemütlichen Abend
+  bei uns im Club ein. Natürlich sind auch alle anderen willkommen.\nNeben
+  kühlen Getränken gibt es auch verschiedene Gesellschaftsspiele und klei
+ nere Snacks!
+LOCATION:Hochschulstraße 48\, 01069 Dresden\, Deutschland
+URL:https://mbasic.facebook.com/events/4289493001086744
+END:VEVENT
+END:VCALENDAR
