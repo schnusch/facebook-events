@@ -1,56 +1,3 @@
-### Barabend (Bier 1,50 €)
-
-**Beginn:** Mo 27.09.2021, 19:00+0200\
-**Ende:** Di 28.09.2021, 00:00+0200\
-**Ort:** Gutzkowclub e.V.\
-**Link:** <https://mbasic.facebook.com/events/816801102332686>\
-**Screenshot:**
-[facebook.com-events-816801102332686.png](facebook.com-events-816801102332686.png)
-
-> Beerpong, Quatschen, Skat, Dart\... Und Bier 1,50€)
-
-------------------------------------------------------------------------
-
-### Nerd Out!
-
-**Beginn:** Mo 27.09.2021, 20:00+0200\
-**Ende:** Di 28.09.2021, 00:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/182406020663376>\
-**Screenshot:**
-[facebook.com-events-182406020663376.png](facebook.com-events-182406020663376.png)
-
-> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
-> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
-> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
-> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
-> Eine Zusammenkunft ganz normaler Leute halt.
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
-### Monday Night Magic
-
-**Beginn:** Mo 27.09.2021, 20:00+0200\
-**Ende:** Mo 27.09.2021, 23:59+0200\
-**Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/171500281729131>\
-**Screenshot:**
-[facebook.com-events-171500281729131.png](facebook.com-events-171500281729131.png)
-
-> Magic the Gathering Stammtisch
->
-> Ihr spielt gerne Magic, aber euch fehlt die passende Umgebung? Spielt ihr immer wieder mit den selben Leuten und wollt mal eine Partie mit anderen spielen? Vielleicht wollt ihr auch einfach nur neue Leute treffen um über Deckideen, Spieltaktiken oder Karten zu reden?
->
-> Dann kommt zum Magic-Stammtisch in den Traumtänzer. Bringt eure Decks, Tauschordner und Freunde mit, damit wir möglichst viele verschiedene Decks und Spieler haben und einen interessanten Abend für alle gestalten können.
->
-> Ob ihr Anfänger oder Fortgeschrittener seid, ist egal. Solange ihr Motivation und Geselligkeit mitbringt, seid ihr willkommen. Auch wenn ihr keine Karten besitzt, werden vor Ort Decks vorhanden sein, mit denen ihr gerne das Spiel ausprobieren könnt.
-
-------------------------------------------------------------------------
-
 ### Welcome to HSS
 
 **Beginn:** Di 28.09.2021, 20:00+0200\
@@ -267,6 +214,19 @@
 >
 > + + + WICHTIG! + + +\
 > Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
+
+------------------------------------------------------------------------
+
+### Geburtstagsskatturnier
+
+**Beginn:** Mi 13.10.2021, 19:30+0200\
+**Ende:** Do 14.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/668675144112974>\
+**Screenshot:**
+[facebook.com-events-668675144112974.png](facebook.com-events-668675144112974.png)
+
+> Zum 58. GEBURTSTAG des Gutzes eines der ganz seltenen Geburtstagsskatturniere! Es gibt Preise und Bier für 2.00€. Anmeldung (3.00€) bis 13.10.21 um 19:30 Uhr!
 
 ------------------------------------------------------------------------
 
