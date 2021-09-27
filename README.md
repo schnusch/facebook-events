@@ -71,6 +71,19 @@
 
 ------------------------------------------------------------------------
 
+### Barabend
+
+**Beginn:** Di 28.09.2021, 20:00+0200\
+**Ende:** Mi 29.09.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/392144619150613>\
+**Screenshot:**
+[facebook.com-events-392144619150613.png](facebook.com-events-392144619150613.png)
+
+> Bier 2,00 €, Skat, Beerpong, Dart, Quatschen
+
+------------------------------------------------------------------------
+
 ### Flex und Floxi Kneipenquiz
 
 **Beginn:** Mi 29.09.2021, 20:00+0200\
