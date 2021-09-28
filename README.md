@@ -1,36 +1,3 @@
-### Welcome to HSS
-
-**Beginn:** Di 28.09.2021, 20:00+0200\
-**Ende:** Mi 29.09.2021, 00:00+0200\
-**Ort:** Hochschulstraße 48, 01069 Dresden, Deutschland\
-**Link:** <https://mbasic.facebook.com/events/4289493001086744>\
-**Screenshot:**
-[facebook.com-events-4289493001086744.png](facebook.com-events-4289493001086744.png)
-
-> Du bist gerade in eines der Wohnheime in der Hochschulstraße eingezogen und möchtest mal deine Mitbewohner kennenlernen?
->
-> Du bist schon mal am Club 11 vorbei gelaufen und hast dich gefragt was das eigentlich ist?
->
-> Dann hast du jetzt die Chance den Club 11 und deine Nachbarn kennenzulernen und dabei ein kühles Bier zu genießen:
->
-> Der Club 11 lädt am 28. September ab 20 Uhr alle neuen Bewohner zu einem gemütlichen Abend bei uns im Club ein. Natürlich sind auch alle anderen willkommen.\
-> Neben kühlen Getränken gibt es auch verschiedene Gesellschaftsspiele und kleinere Snacks!
-
-------------------------------------------------------------------------
-
-### Barabend
-
-**Beginn:** Di 28.09.2021, 20:00+0200\
-**Ende:** Mi 29.09.2021, 00:00+0200\
-**Ort:** Gutzkowclub e.V.\
-**Link:** <https://mbasic.facebook.com/events/392144619150613>\
-**Screenshot:**
-[facebook.com-events-392144619150613.png](facebook.com-events-392144619150613.png)
-
-> Bier 2,00 €, Skat, Beerpong, Dart, Quatschen
-
-------------------------------------------------------------------------
-
 ### Flex und Floxi Kneipenquiz
 
 **Beginn:** Mi 29.09.2021, 20:00+0200\
@@ -43,6 +10,19 @@
 > Es geht in die nächste Quizrunde mit euren Fragefüchsen Flex und Flox.
 >
 > Wie immer gilt: Raten erlaubt, Trinken erwünscht, Googeln verboten!
+
+------------------------------------------------------------------------
+
+### Barabend
+
+**Beginn:** Mi 29.09.2021, 20:00+0200\
+**Ende:** Do 30.09.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/951310742405536>\
+**Screenshot:**
+[facebook.com-events-951310742405536.png](facebook.com-events-951310742405536.png)
+
+> Perfekt für eine geműtliche Runde Getränke unter Freunden!
 
 ------------------------------------------------------------------------
 
