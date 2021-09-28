@@ -273,6 +273,25 @@
 
 ------------------------------------------------------------------------
 
+### Monday Night Magic
+
+**Beginn:** Mo 25.10.2021, 20:00+0200\
+**Ende:** Mo 25.10.2021, 23:59+0200\
+**Ort:** Studentenclub Traumtänzer\
+**Link:** <https://mbasic.facebook.com/events/3022648811313826>\
+**Screenshot:**
+[facebook.com-events-3022648811313826.png](facebook.com-events-3022648811313826.png)
+
+> Magic the Gathering Stammtisch
+>
+> Ihr spielt gerne Magic, aber euch fehlt die passende Umgebung? Spielt ihr immer wieder mit den selben Leuten und wollt mal eine Partie mit anderen spielen? Vielleicht wollt ihr auch einfach nur neue Leute treffen um über Deckideen, Spieltaktiken oder Karten zu reden?
+>
+> Dann kommt zum Magic-Stammtisch in den Traumtänzer. Bringt eure Decks, Tauschordner und Freunde mit, damit wir möglichst viele verschiedene Decks und Spieler haben und einen interessanten Abend für alle gestalten können.
+>
+> Ob ihr Anfänger oder Fortgeschrittener seid, ist egal. Solange ihr Motivation und Geselligkeit mitbringt, seid ihr willkommen. Auch wenn ihr keine Karten besitzt, werden vor Ort Decks vorhanden sein, mit denen ihr gerne das Spiel ausprobieren könnt.
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 29.10.2021, 20:00+0200\
