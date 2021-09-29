@@ -1,31 +1,3 @@
-### Flex und Floxi Kneipenquiz
-
-**Beginn:** Mi 29.09.2021, 20:00+0200\
-**Ende:** Do 30.09.2021, 00:00+0200\
-**Ort:** St. Petersburger Straße 21\
-**Link:** <https://mbasic.facebook.com/events/1007924610001184>\
-**Screenshot:**
-[facebook.com-events-1007924610001184.png](facebook.com-events-1007924610001184.png)
-
-> Es geht in die nächste Quizrunde mit euren Fragefüchsen Flex und Flox.
->
-> Wie immer gilt: Raten erlaubt, Trinken erwünscht, Googeln verboten!
-
-------------------------------------------------------------------------
-
-### Barabend
-
-**Beginn:** Mi 29.09.2021, 20:00+0200\
-**Ende:** Do 30.09.2021, 00:00+0200\
-**Ort:** Gutzkowclub e.V.\
-**Link:** <https://mbasic.facebook.com/events/951310742405536>\
-**Screenshot:**
-[facebook.com-events-951310742405536.png](facebook.com-events-951310742405536.png)
-
-> Perfekt für eine geműtliche Runde Getränke unter Freunden!
-
-------------------------------------------------------------------------
-
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 01.10.2021, 20:00+0200\
