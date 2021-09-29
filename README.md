@@ -166,6 +166,33 @@
 
 ------------------------------------------------------------------------
 
+### ESE-Clubtour 2021
+
+**Beginn:** Di 05.10.2021, 19:00+0200\
+**Ende:** Mi 06.10.2021, 00:00+0200\
+**Ort:** Dresdner Studentenclubs\
+**Link:** <https://mbasic.facebook.com/events/207256368007175>\
+**Screenshot:**
+[facebook.com-events-207256368007175.png](facebook.com-events-207256368007175.png)
+
+> Kennst du schon die Dresdner Studentenclubs? Nein?
+>
+> Dann wird es höchste Zeit! Du wirst öfter dort sein, als du denkst!
+>
+> Welcher ist der beste Ort zum Kommilitonen treffen, Unikram besprechen, über Professoren lästern oder einfach nur zum ausspannen? Wir wissen es nicht, aber such dir doch einfach selbst einen aus!
+>
+> Im Rahmen deiner Erstsemestereinführungswoche kannst du am Dienstag, dem 05.10.2020 mit deinem Fachschaftsrat von einem Studentenclub zum nächsten wandern und so einen guten Überblick über die breiten Möglichkeiten der Abendveranstaltungen in der Unizeit bekommen. Und dabei bekommst du sogar noch ein Freigetränk!
+>
+> Gib den Gutschein als Erstsemester zusammen mit deinem Studentenausweis in drei Clubs an der Bar ab und hol dir im vierten Club ein Getränk deiner Wahl\*.
+>
+> Die ESE-CLUBTOUR führt durch die Dresdner Studentenclubs, deren Mitglieder ehrenamtlich arbeiten, um dir eine schöne Zeit zu bieten. Wenn dir ein Club besonders gefällt und du Lust hast, dort mitzumachen, frag einfach.
+>
+> \*Hinweise im jeweiligen Club beachten
+>
+> HINWEIS: Aufgrund der Corona-Lage und entsprechenden Einschränkungen ist eine Teilnahme nur mit den geführten Kleingruppen der Fachschaftsräte möglich. Dein FSR wird dich informieren, wenn er eine ESE-Clubtour bei dir im Ersti-Programm hat.
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 08.10.2021, 20:00+0200\
