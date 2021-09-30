@@ -239,6 +239,25 @@
 
 ------------------------------------------------------------------------
 
+### Schlag den Barkeeper
+
+**Beginn:** Do 21.10.2021, 20:00+0200\
+**Ende:** Fr 22.10.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/238769838211063>\
+**Screenshot:**
+[facebook.com-events-238769838211063.png](facebook.com-events-238769838211063.png)
+
+> Seid ihr der großer Hai oder nur kleine Fische!?
+>
+> Wir präsentieren das neue Format im Club um den dicksten Fisch im Aquarium herauszufordern und zu schlagen!\
+> Jeden Monat gilt es sich in einer neuen Kategorie zu beweisen, erringt den Sieg und ihr gewinnt den Pott, schafft ihr es nicht, wächst er zum nächsten mal an!
+>
+> Das Event startet diesen Abend aber mit einer großen Spielrunde und mehreren Teilnehmern!\
+> Kommt vorbei, als Teilnehmer oder Zuschauer (Anmeldung am Abend beim Bardienst).
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 22.10.2021, 20:00+0200\

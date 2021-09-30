@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Schlag den Barkeeper
+DTSTART;VALUE=DATE-TIME:20211021T180000Z
+DTEND;VALUE=DATE-TIME:20211021T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210930T144629Z
+UID:facebook.com-events-238769838211063
+DESCRIPTION:Seid ihr der großer Hai oder nur kleine Fische!?\n\nWir präs
+ entieren das neue Format im Club um den dicksten Fisch im Aquarium herausz
+ ufordern und zu schlagen!\nJeden Monat gilt es sich in einer neuen Kategor
+ ie zu beweisen\, erringt den Sieg und ihr gewinnt den Pott\, schafft ihr e
+ s nicht\, wächst er zum nächsten mal an!\n\nDas Event startet diesen Abe
+ nd aber mit einer großen Spielrunde und mehreren Teilnehmern!\nKommt vorb
+ ei\, als Teilnehmer oder Zuschauer (Anmeldung am Abend beim Bardienst).
+LOCATION:St. Petersburger Straße 21
+URL:https://mbasic.facebook.com/events/238769838211063
+END:VEVENT
+END:VCALENDAR
