@@ -165,6 +165,23 @@
 
 ------------------------------------------------------------------------
 
+### Geschichten Schreiben
+
+**Beginn:** Do 07.10.2021, 20:00+0200\
+**Ende:** Fr 08.10.2021, 00:00+0200\
+**Ort:** Club Aquarium e.V.\
+**Link:** <https://mbasic.facebook.com/events/1116565915544589>\
+**Screenshot:**
+[facebook.com-events-1116565915544589.png](facebook.com-events-1116565915544589.png)
+
+> Denkt euch wie bei Stille Post gemeinsam in eurer Gruppe Geschichten aus.
+>
+> Das kann nur schief gehen?-dass wollen wir sehen beziehungsweise hören!
+>
+> Die beste oder auch die schlechteste aber dafür lustigste chaotische Geschichte gewinnt.
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 08.10.2021, 20:00+0200\
@@ -206,6 +223,22 @@
 [facebook.com-events-668675144112974.png](facebook.com-events-668675144112974.png)
 
 > Zum 58. GEBURTSTAG des Gutzes eines der ganz seltenen Geburtstagsskatturniere! Es gibt Preise und Bier für 2.00€. Anmeldung (3.00€) bis 13.10.21 um 19:30 Uhr!
+
+------------------------------------------------------------------------
+
+### Würfel deinen Cocktail
+
+**Beginn:** Do 14.10.2021, 20:00+0200\
+**Ende:** Fr 15.10.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/403770451307216>\
+**Screenshot:**
+[facebook.com-events-403770451307216.png](facebook.com-events-403770451307216.png)
+
+> Würfel deinen Cocktail!
+>
+> Du hast alle Cocktails ausprobiert oder du liebst den Zufall?\
+> Dann lass doch die Würfel entscheiden!
 
 ------------------------------------------------------------------------
 

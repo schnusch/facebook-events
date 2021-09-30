@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Geschichten Schreiben
+DTSTART;VALUE=DATE-TIME:20211007T180000Z
+DTEND;VALUE=DATE-TIME:20211007T220000Z
+DTSTAMP;VALUE=DATE-TIME:20210930T204649Z
+UID:facebook.com-events-1116565915544589
+DESCRIPTION:Denkt euch wie bei Stille Post gemeinsam in eurer Gruppe Gesch
+ ichten aus.\n\n\nDas kann nur schief gehen?-dass wollen wir sehen beziehun
+ gsweise hören!\n\n\nDie beste oder auch die schlechteste aber dafür lust
+ igste chaotische Geschichte gewinnt.
+LOCATION:Club Aquarium e.V.
+URL:https://mbasic.facebook.com/events/1116565915544589
+END:VEVENT
+END:VCALENDAR
