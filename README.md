@@ -62,6 +62,19 @@
 
 ------------------------------------------------------------------------
 
+### Barabend
+
+**Beginn:** Mo 04.10.2021, 20:00+0200\
+**Ende:** Di 05.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/387501756305898>\
+**Screenshot:**
+[facebook.com-events-387501756305898.png](facebook.com-events-387501756305898.png)
+
+> Dart, Beerpong, Quatschen, Skat und Bier für 1,50€!🔥
+
+------------------------------------------------------------------------
+
 ### Werwölfeabend
 
 **Beginn:** Mo 04.10.2021, 20:00+0200\
@@ -273,22 +286,19 @@
 
 ------------------------------------------------------------------------
 
-### Schlag den Barkeeper
+### Würfel deinen Cocktail
 
 **Beginn:** Do 21.10.2021, 20:00+0200\
 **Ende:** Fr 22.10.2021, 00:00+0200\
 **Ort:** St. Petersburger Straße 21\
-**Link:** <https://mbasic.facebook.com/events/238769838211063>\
+**Link:** <https://mbasic.facebook.com/events/403770451307216>\
 **Screenshot:**
-[facebook.com-events-238769838211063.png](facebook.com-events-238769838211063.png)
+[facebook.com-events-403770451307216.png](facebook.com-events-403770451307216.png)
 
-> Seid ihr der großer Hai oder nur kleine Fische!?
+> Würfel deinen Cocktail!
 >
-> Wir präsentieren das neue Format im Club um den dicksten Fisch im Aquarium herauszufordern und zu schlagen!\
-> Jeden Monat gilt es sich in einer neuen Kategorie zu beweisen, erringt den Sieg und ihr gewinnt den Pott, schafft ihr es nicht, wächst er zum nächsten mal an!
->
-> Das Event startet diesen Abend aber mit einer großen Spielrunde und mehreren Teilnehmern!\
-> Kommt vorbei, als Teilnehmer oder Zuschauer (Anmeldung am Abend beim Bardienst).
+> Du hast alle Cocktails ausprobiert oder du liebst den Zufall?\
+> Dann lass doch die Würfel entscheiden!
 
 ------------------------------------------------------------------------
 
