@@ -1,33 +1,3 @@
-### Bar-Abend mit Bier-Pong
-
-**Beginn:** Fr 01.10.2021, 20:00+0200\
-**Ende:** Sa 02.10.2021, 01:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/432396044857088>\
-**Screenshot:**
-[facebook.com-events-432396044857088.png](facebook.com-events-432396044857088.png)
-
-> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
-
-------------------------------------------------------------------------
-
-### Föderationstag-wir feiern die vereinigte Föderation der Planeten (all things startrek)
-
-**Beginn:** Fr 01.10.2021, 20:00+0200\
-**Ende:** Sa 02.10.2021, 01:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/167249608856393>\
-**Screenshot:**
-[facebook.com-events-167249608856393.png](facebook.com-events-167249608856393.png)
-
-> Heute Abend beherrscht Star Trek unsere Bar. Wer sich das nicht entgehen lassen möchte, der bewege sich ins GAG ;)
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
 ### Gratis Rollenspielbrunch
 
 **Beginn:** So 03.10.2021, 11:00+0200\
@@ -148,6 +118,19 @@
 > \*Hinweise im jeweiligen Club beachten
 >
 > HINWEIS: Aufgrund der Corona-Lage und entsprechenden Einschränkungen ist eine Teilnahme nur mit den geführten Kleingruppen der Fachschaftsräte möglich. Dein FSR wird dich informieren, wenn er eine ESE-Clubtour bei dir im Ersti-Programm hat.
+
+------------------------------------------------------------------------
+
+### ESE- Tour!
+
+**Beginn:** Di 05.10.2021, 19:00+0200\
+**Ende:** Mi 06.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/1318934081878680>\
+**Screenshot:**
+[facebook.com-events-1318934081878680.png](facebook.com-events-1318934081878680.png)
+
+> ERSTSEMESTER- TOUR
 
 ------------------------------------------------------------------------
 
