@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Sänger:in gesucht! #Karaoke
+DTSTART;VALUE=DATE-TIME:20211014T180000Z
+DTEND;VALUE=DATE-TIME:20211014T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211001T084702Z
+UID:facebook.com-events-604551060709770
+DESCRIPTION:Ihr seid Rocker\, Entertainer\, Diva oder einfach Amateur?\n\n
+ Dann bieten wir euch einmal jeden Monat unsere Bühne an und geben euch di
+ e Chance\, uns zu zeigen\, was ihr so drauf habt!\n\nDer Eintritt ist wie 
+ immer frei.
+LOCATION:St. Petersburger Straße 21
+URL:https://mbasic.facebook.com/events/604551060709770
+END:VEVENT
+END:VCALENDAR

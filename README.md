@@ -226,19 +226,20 @@
 
 ------------------------------------------------------------------------
 
-### Würfel deinen Cocktail
+### Sänger:in gesucht! \#Karaoke
 
 **Beginn:** Do 14.10.2021, 20:00+0200\
 **Ende:** Fr 15.10.2021, 00:00+0200\
 **Ort:** St. Petersburger Straße 21\
-**Link:** <https://mbasic.facebook.com/events/403770451307216>\
+**Link:** <https://mbasic.facebook.com/events/604551060709770>\
 **Screenshot:**
-[facebook.com-events-403770451307216.png](facebook.com-events-403770451307216.png)
+[facebook.com-events-604551060709770.png](facebook.com-events-604551060709770.png)
 
-> Würfel deinen Cocktail!
+> Ihr seid Rocker, Entertainer, Diva oder einfach Amateur?
 >
-> Du hast alle Cocktails ausprobiert oder du liebst den Zufall?\
-> Dann lass doch die Würfel entscheiden!
+> Dann bieten wir euch einmal jeden Monat unsere Bühne an und geben euch die Chance, uns zu zeigen, was ihr so drauf habt!
+>
+> Der Eintritt ist wie immer frei.
 
 ------------------------------------------------------------------------
 
