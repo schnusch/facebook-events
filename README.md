@@ -330,6 +330,19 @@
 
 ------------------------------------------------------------------------
 
+### Bar-Abend mit Bier-Pong
+
+**Beginn:** Fr 05.11.2021, 19:00+0100\
+**Ende:** Sa 06.11.2021, 00:00+0100\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/542018496878655>\
+**Screenshot:**
+[facebook.com-events-542018496878655.png](facebook.com-events-542018496878655.png)
+
+> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
 ### Die Legendäre Tequilaparty - Día de los Muertos Edition
 
 **Beginn:** Fr 05.11.2021, 19:00+0100\
