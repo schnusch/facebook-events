@@ -165,6 +165,26 @@
 
 ------------------------------------------------------------------------
 
+### Buzzer Battle
+
+**Beginn:** Do 07.10.2021, 20:00+0200\
+**Ende:** Fr 08.10.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/286421693321191>\
+**Screenshot:**
+[facebook.com-events-286421693321191.png](facebook.com-events-286421693321191.png)
+
+> Auch in diesem Monat heißt es wieder: auf die Buzzer, fertig, los!\
+> Tretet in einem noch nie dagewesenen Team vs. Team Battle gegeneinander an und lasst euch in einem epischen Finale als Sieger küren.\
+> Da wir Aufgrund der geltenden Regelungen leider nur 4 Teams annehmen können, raten wir euch \"Seid schnell bei eurer Anmeldung!\". Stellt eure Geschwindigkeit bereits beim Anmelden unter Beweis. Erlaubt sind bis zu 4 Leute pro Team.\
+> Anmelden könnt ihr euch hier oder bei eXma oder auf unserer Homepage mit eurem Teamnamen und - sollten noch Plätze verfügbar sein - am Abend bis 20:30 Uhr an der Bar.\
+> Die Anmeldung ist selbstverständlich kostenlos und der Eintritt ist frei.\
+> Die ersten drei Plätze werden auch mit Preisen belohnt!\
+> Alle weiteren Informationen zum Spiel erhaltet Ihr am Abend, im\
+> Studentenclub Wu5.
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 08.10.2021, 20:00+0200\

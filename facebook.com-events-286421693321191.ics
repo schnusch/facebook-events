@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Buzzer Battle
+DTSTART;VALUE=DATE-TIME:20211007T180000Z
+DTEND;VALUE=DATE-TIME:20211007T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211003T204856Z
+UID:facebook.com-events-286421693321191
+DESCRIPTION:Auch in diesem Monat heißt es wieder: auf die Buzzer\, fertig
+ \, los!\nTretet in einem noch nie dagewesenen Team vs. Team Battle gegenei
+ nander an und lasst euch in einem epischen Finale als Sieger küren.\nDa w
+ ir Aufgrund der geltenden Regelungen leider nur 4 Teams annehmen können\,
+  raten wir euch "Seid schnell bei eurer Anmeldung!". Stellt eure Geschwind
+ igkeit bereits beim Anmelden unter Beweis. Erlaubt sind bis zu 4 Leute pro
+  Team.\nAnmelden könnt ihr euch hier oder bei eXma oder auf unserer Homep
+ age mit eurem Teamnamen und - sollten noch Plätze verfügbar sein - am Ab
+ end bis 20:30 Uhr an der Bar.\nDie Anmeldung ist selbstverständlich koste
+ nlos und der Eintritt ist frei.\nDie ersten drei Plätze werden auch mit P
+ reisen belohnt!\nAlle weiteren Informationen zum Spiel erhaltet Ihr am Abe
+ nd\, im\nStudentenclub Wu5.
+LOCATION:Studentenclub Wu5 e.V.
+URL:https://mbasic.facebook.com/events/286421693321191
+END:VEVENT
+END:VCALENDAR
