@@ -198,6 +198,26 @@
 
 ------------------------------------------------------------------------
 
+### Nerd Out!
+
+**Beginn:** Mo 11.10.2021, 20:00+0200\
+**Ende:** Di 12.10.2021, 00:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/833514094001734>\
+**Screenshot:**
+[facebook.com-events-833514094001734.png](facebook.com-events-833514094001734.png)
+
+> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
+> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
+> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
+> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
+> Eine Zusammenkunft ganz normaler Leute halt.
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.\
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
 ### Rollenspielstammtisch
 
 **Beginn:** Mo 11.10.2021, 20:00+0200\
@@ -256,6 +276,43 @@
 [facebook.com-events-557813788866568.png](facebook.com-events-557813788866568.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Cosplay-Stammtisch
+
+**Beginn:** Fr 15.10.2021, 20:00+0200\
+**Ende:** Sa 16.10.2021, 01:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/255049043201632>\
+**Screenshot:**
+[facebook.com-events-255049043201632.png](facebook.com-events-255049043201632.png)
+
+> \"Regelmäßiges Treffen von Cosplayern und Cosplay-Fotografen zum gemütlichen Austausch\"
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### Nerd Out!
+
+**Beginn:** Mo 18.10.2021, 20:00+0200\
+**Ende:** Di 19.10.2021, 00:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/398043451775204>\
+**Screenshot:**
+[facebook.com-events-398043451775204.png](facebook.com-events-398043451775204.png)
+
+> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
+> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
+> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
+> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
+> Eine Zusammenkunft ganz normaler Leute halt.
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.\
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
 
 ------------------------------------------------------------------------
 
