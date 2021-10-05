@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Bierkegeln
+DTSTART;VALUE=DATE-TIME:20211008T180000Z
+DTEND;VALUE=DATE-TIME:20211008T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211005T144910Z
+UID:facebook.com-events-1309451059525401
+DESCRIPTION:Als Prequel zum neuen Semester putzen wir unsere Wiese mal wie
+ der so richtig raus - trimmmen die Wiese\, beseitigen jede noch so kleine 
+ Bodenwelle und warten auf würdige oder unwürdige Gegner:innen.\n\nDie Lo
+ kalsport-Rubriken der Zeitungen werden dem größten Bierkegelevent des Ja
+ hres etwa so gerecht werden:\n\n“Ein Spiel für die Vollen: Mit einem la
+ uten “Rumms” prallen Ball und Flaschen aufeinander. Letztere ergeben s
+ ich\, fallen\, und werden von einem:r jungen Athlet:in in Windeseile wiede
+ r aufgerichtet\, bevor sie ein weiterer Wurf abräumt. Nahezu im Sekundent
+ akt legen sich die Sterniflaschen nieder. Die Werfer:innen kennen keine Gn
+ ade - vom angestaubten Ruf des (Bier)Kegelns ist nichts zu spüren.”\n\n
+ HINWEIS: Bitte beachtet\, das wir ab heute mit einer 2G-Regelung fahren. I
+ hr müsst also entweder Genesen oder Geimpft sein\, um uns besuchen zu kom
+ men.\n\nBIER | KULTUR | LIEBE
+LOCATION:Club HängeMathe e.V.
+URL:https://mbasic.facebook.com/events/1309451059525401
+END:VEVENT
+END:VCALENDAR

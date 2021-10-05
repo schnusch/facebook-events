@@ -142,6 +142,27 @@
 
 ------------------------------------------------------------------------
 
+### Bierkegeln
+
+**Beginn:** Fr 08.10.2021, 20:00+0200\
+**Ende:** Sa 09.10.2021, 00:00+0200\
+**Ort:** Club HängeMathe e.V.\
+**Link:** <https://mbasic.facebook.com/events/1309451059525401>\
+**Screenshot:**
+[facebook.com-events-1309451059525401.png](facebook.com-events-1309451059525401.png)
+
+> Als Prequel zum neuen Semester putzen wir unsere Wiese mal wieder so richtig raus - trimmmen die Wiese, beseitigen jede noch so kleine Bodenwelle und warten auf würdige oder unwürdige Gegner:innen.
+>
+> Die Lokalsport-Rubriken der Zeitungen werden dem größten Bierkegelevent des Jahres etwa so gerecht werden:
+>
+> "Ein Spiel für die Vollen: Mit einem lauten "Rumms" prallen Ball und Flaschen aufeinander. Letztere ergeben sich, fallen, und werden von einem:r jungen Athlet:in in Windeseile wieder aufgerichtet, bevor sie ein weiterer Wurf abräumt. Nahezu im Sekundentakt legen sich die Sterniflaschen nieder. Die Werfer:innen kennen keine Gnade - vom angestaubten Ruf des (Bier)Kegelns ist nichts zu spüren."
+>
+> HINWEIS: Bitte beachtet, das wir ab heute mit einer 2G-Regelung fahren. Ihr müsst also entweder Genesen oder Geimpft sein, um uns besuchen zu kommen.
+>
+> BIER \| KULTUR \| LIEBE
+
+------------------------------------------------------------------------
+
 ### Nerd Out!
 
 **Beginn:** Mo 11.10.2021, 20:00+0200\
