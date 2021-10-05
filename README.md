@@ -1,59 +1,3 @@
-### Nerd Out!
-
-**Beginn:** Mo 04.10.2021, 20:00+0200\
-**Ende:** Di 05.10.2021, 00:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/4352546918164937>\
-**Screenshot:**
-[facebook.com-events-4352546918164937.png](facebook.com-events-4352546918164937.png)
-
-> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
-> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
-> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
-> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
-> Eine Zusammenkunft ganz normaler Leute halt.
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
->
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
-### Barabend
-
-**Beginn:** Mo 04.10.2021, 20:00+0200\
-**Ende:** Di 05.10.2021, 00:00+0200\
-**Ort:** Gutzkowclub e.V.\
-**Link:** <https://mbasic.facebook.com/events/387501756305898>\
-**Screenshot:**
-[facebook.com-events-387501756305898.png](facebook.com-events-387501756305898.png)
-
-> Dart, Beerpong, Quatschen, Skat und Bier für 1,50€!🔥
-
-------------------------------------------------------------------------
-
-### Werwölfeabend
-
-**Beginn:** Mo 04.10.2021, 20:00+0200\
-**Ende:** Mo 04.10.2021, 23:59+0200\
-**Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/391822309165169>\
-**Screenshot:**
-[facebook.com-events-391822309165169.png](facebook.com-events-391822309165169.png)
-
-> Heute Abend spielen wir mit euch \"Die Werwölfe von Düsterwald\" (auch bekannt als Mord in Palermo o.ä.).
->
-> Neben den Standardakteuren wie Werwölfen, sterbenden Bauern und dem Seher erweitern wir die Regeln um Jäger, Liebespaare, Detektive und bis zu 50 weitere Rollen.
->
-> Im Kerzenschein werden die Werwölfe Angst und Schrecken verbreiten, wenn es heißt:
->
-> \"Es wird Tag im Traumtänzer und alle erwachen außer \...\"
->
-> + + + WICHTIG! + + +\
-> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
-
-------------------------------------------------------------------------
-
 ### ESE-Clubtour 2021
 
 **Beginn:** Di 05.10.2021, 19:00+0200\
@@ -359,6 +303,36 @@
 [facebook.com-events-560877165060316.png](facebook.com-events-560877165060316.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### GAG Best Of! (2-G)
+
+**Beginn:** Fr 22.10.2021, 21:00+0200\
+**Ende:** Sa 23.10.2021, 02:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/1012375059307439>\
+**Screenshot:**
+[facebook.com-events-1012375059307439.png](facebook.com-events-1012375059307439.png)
+
+> Eintritt Frei!
+>
+> Euch erwartet eine Party der Extraklasse!\
+> Die beliebtesten Veranstaltungen an einem Abend, da ist für jeden was dabei.
+>
+> Das Lämmchen gibt sich mit der besten Musik des Mittelaltergenres die Ehre.
+>
+> Lady van Drake ist mit ihrer legendären Rammstein-Party zurück.\
+> Die volle Ladung und nur bei uns, für euch!
+>
+> Dshini hat sich für euch die gruftigste Musik für Kellerkinder rausgesucht und freut sich darauf, diese mit euch zu teilen.
+>
+> Tie Germann beschallt euch mit den trashigsten 90ern die er finden konnte, sowas habt ihr noch nicht erlebt!\
+> Keine Wünsche (bei ihm), nur Party!
+>
+> Am Einlass erfolgt die Kontrolle der Geimpft- und Genesenen-Bescheinigungen, des weiteren werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+>
+> Sollten Unstimmigkeiten auftreten oder Dokumente nicht nachweißbar sein, wird der Zutritt zum Klub verwehrt.
 
 ------------------------------------------------------------------------
 

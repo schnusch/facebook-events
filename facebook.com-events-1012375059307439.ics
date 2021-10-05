@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:GAG Best Of! (2-G)
+DTSTART;VALUE=DATE-TIME:20211022T190000Z
+DTEND;VALUE=DATE-TIME:20211023T000000Z
+DTSTAMP;VALUE=DATE-TIME:20211005T024851Z
+UID:facebook.com-events-1012375059307439
+DESCRIPTION:Eintritt Frei!\n\nEuch erwartet eine Party der Extraklasse!\nD
+ ie beliebtesten Veranstaltungen an einem Abend\, da ist für jeden was dab
+ ei.\n\n\nDas Lämmchen gibt sich mit der besten Musik des Mittelaltergenre
+ s die Ehre.\n\nLady van Drake ist mit ihrer legendären Rammstein-Party zu
+ rück.\nDie volle Ladung und nur bei uns\, für euch!\n\nDshini hat sich f
+ ür euch die gruftigste Musik für Kellerkinder rausgesucht und freut sich
+  darauf\, diese mit euch zu teilen.\n\nTie Germann beschallt euch mit den 
+ trashigsten 90ern die er finden konnte\, sowas habt ihr noch nicht erlebt!
+ \nKeine Wünsche (bei ihm)\, nur Party!\n\n\n\nAm Einlass erfolgt die Kont
+ rolle der Geimpft- und Genesenen-Bescheinigungen\, des weiteren werden wir
+  eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewähr
+ leisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernicht
+ ung sorgen wir natürlich!\n\nSollten Unstimmigkeiten auftreten oder Dokum
+ ente nicht nachweißbar sein\, wird der Zutritt zum Klub verwehrt.
+LOCATION:None
+URL:https://mbasic.facebook.com/events/1012375059307439
+END:VEVENT
+END:VCALENDAR
