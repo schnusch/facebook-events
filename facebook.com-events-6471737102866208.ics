@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Scrubs - Der Barabend
+DTSTART;VALUE=DATE-TIME:20211015T180000Z
+DTEND;VALUE=DATE-TIME:20211015T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211005T204924Z
+UID:facebook.com-events-6471737102866208
+DESCRIPTION:Wer hat 2 Daumen und trinkt heute Abend im Studentenclub Wu5? 
+ IHR!\n+++ Neben anderen kleinen Überraschungen bieten wir euch die Specia
+ ls Bahama Mama und Appletini an.\n+++ Wenn ihr im passenden Outfit kommt\,
+  egal ob als Dr. Acula\, Bob Kelso\, Dr. House-Meister oder in voller Chir
+ ugenmontur\, gibt es von uns einen Schnaps auf Rezept.\n+++ Etwas gewinnen
+  könnt bei unseren Scrubs-Quiz!\nBleibt Geschmeidig!
+LOCATION:Studentenclub Wu5 e.V.
+URL:https://mbasic.facebook.com/events/6471737102866208
+END:VEVENT
+END:VCALENDAR

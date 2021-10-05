@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:[ˈwʊdˌstɒk] -Jamsession Nr. 98
+DTSTART;VALUE=DATE-TIME:20211021T180000Z
+DTEND;VALUE=DATE-TIME:20211021T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211005T204926Z
+UID:facebook.com-events-1323950981348934
+DESCRIPTION:[ˈwʊdˌstɒk] - Jamsession\nHerbei zu Session Nr. 98!\nZu Ge
+ rstensaft und Mixgetränken wird wieder gerockt\, bis die Saiten qualmen u
+ nd die Finger bluten.\nEine erstklassige Abmuckumgebung erwartet die Musik
+ anten\, vorhanden sind Gitarren- und Bassamp\, Drumset und Gesangsmikro(s)
+ . Die Technik wird aber auch jedem anderen Instrument mit größtem Eifer 
+ Gehör verschaffen. Also Klampfe\, Sticks\, Gesangsorgan\, Nasenflöte\, B
+ rummtopf und/oder singende Säge einpacken und gniedeln\, was die Glieder 
+ hergeben.\nWer arbeitet darf auch trinken: Jeder Musiker erhält ein Bier 
+ aufs Haus.
+LOCATION:Studentenclub Wu5 e.V.
+URL:https://mbasic.facebook.com/events/1323950981348934
+END:VEVENT
+END:VCALENDAR

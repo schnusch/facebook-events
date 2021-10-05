@@ -1,97 +1,3 @@
-### ESE-Clubtour 2021
-
-**Beginn:** Di 05.10.2021, 19:00+0200\
-**Ende:** Mi 06.10.2021, 00:00+0200\
-**Ort:** Dresdner Studentenclubs\
-**Link:** <https://mbasic.facebook.com/events/207256368007175>\
-**Screenshot:**
-[facebook.com-events-207256368007175.png](facebook.com-events-207256368007175.png)
-
-> Kennst du schon die Dresdner Studentenclubs? Nein?
->
-> Dann wird es höchste Zeit! Du wirst öfter dort sein, als du denkst!
->
-> Welcher ist der beste Ort zum Kommilitonen treffen, Unikram besprechen, über Professoren lästern oder einfach nur zum ausspannen? Wir wissen es nicht, aber such dir doch einfach selbst einen aus!
->
-> Im Rahmen deiner Erstsemestereinführungswoche kannst du am Dienstag, dem 05.10.2020 mit deinem Fachschaftsrat von einem Studentenclub zum nächsten wandern und so einen guten Überblick über die breiten Möglichkeiten der Abendveranstaltungen in der Unizeit bekommen. Und dabei bekommst du sogar noch ein Freigetränk!
->
-> Gib den Gutschein als Erstsemester zusammen mit deinem Studentenausweis in drei Clubs an der Bar ab und hol dir im vierten Club ein Getränk deiner Wahl\*.
->
-> Die ESE-CLUBTOUR führt durch die Dresdner Studentenclubs, deren Mitglieder ehrenamtlich arbeiten, um dir eine schöne Zeit zu bieten. Wenn dir ein Club besonders gefällt und du Lust hast, dort mitzumachen, frag einfach.
->
-> \*Hinweise im jeweiligen Club beachten
->
-> HINWEIS: Aufgrund der Corona-Lage und entsprechenden Einschränkungen ist eine Teilnahme nur mit den geführten Kleingruppen der Fachschaftsräte möglich. Dein FSR wird dich informieren, wenn er eine ESE-Clubtour bei dir im Ersti-Programm hat.
-
-------------------------------------------------------------------------
-
-### ESE-Clubtour 2021
-
-**Beginn:** Di 05.10.2021, 19:00+0200\
-**Ende:** Mi 06.10.2021, 00:00+0200\
-**Ort:** Dresdner Studentenclubs\
-**Link:** <https://mbasic.facebook.com/events/207256368007175>\
-**Screenshot:**
-[facebook.com-events-207256368007175.png](facebook.com-events-207256368007175.png)
-
-> Kennst du schon die Dresdner Studentenclubs? Nein?
->
-> Dann wird es höchste Zeit! Du wirst öfter dort sein, als du denkst!
->
-> Welcher ist der beste Ort zum Kommilitonen treffen, Unikram besprechen, über Professoren lästern oder einfach nur zum ausspannen? Wir wissen es nicht, aber such dir doch einfach selbst einen aus!
->
-> Im Rahmen deiner Erstsemestereinführungswoche kannst du am Dienstag, dem 05.10.2020 mit deinem Fachschaftsrat von einem Studentenclub zum nächsten wandern und so einen guten Überblick über die breiten Möglichkeiten der Abendveranstaltungen in der Unizeit bekommen. Und dabei bekommst du sogar noch ein Freigetränk!
->
-> Gib den Gutschein als Erstsemester zusammen mit deinem Studentenausweis in drei Clubs an der Bar ab und hol dir im vierten Club ein Getränk deiner Wahl\*.
->
-> Die ESE-CLUBTOUR führt durch die Dresdner Studentenclubs, deren Mitglieder ehrenamtlich arbeiten, um dir eine schöne Zeit zu bieten. Wenn dir ein Club besonders gefällt und du Lust hast, dort mitzumachen, frag einfach.
->
-> \*Hinweise im jeweiligen Club beachten
->
-> HINWEIS: Aufgrund der Corona-Lage und entsprechenden Einschränkungen ist eine Teilnahme nur mit den geführten Kleingruppen der Fachschaftsräte möglich. Dein FSR wird dich informieren, wenn er eine ESE-Clubtour bei dir im Ersti-Programm hat.
-
-------------------------------------------------------------------------
-
-### ESE- Tour!
-
-**Beginn:** Di 05.10.2021, 19:00+0200\
-**Ende:** Mi 06.10.2021, 00:00+0200\
-**Ort:** Gutzkowclub e.V.\
-**Link:** <https://mbasic.facebook.com/events/1318934081878680>\
-**Screenshot:**
-[facebook.com-events-1318934081878680.png](facebook.com-events-1318934081878680.png)
-
-> ERSTSEMESTER- TOUR
-
-------------------------------------------------------------------------
-
-### ESE-Clubtour 2021
-
-**Beginn:** Di 05.10.2021, 19:00+0200\
-**Ende:** Mi 06.10.2021, 00:00+0200\
-**Ort:** Dresdner Studentenclubs\
-**Link:** <https://mbasic.facebook.com/events/207256368007175>\
-**Screenshot:**
-[facebook.com-events-207256368007175.png](facebook.com-events-207256368007175.png)
-
-> Kennst du schon die Dresdner Studentenclubs? Nein?
->
-> Dann wird es höchste Zeit! Du wirst öfter dort sein, als du denkst!
->
-> Welcher ist der beste Ort zum Kommilitonen treffen, Unikram besprechen, über Professoren lästern oder einfach nur zum ausspannen? Wir wissen es nicht, aber such dir doch einfach selbst einen aus!
->
-> Im Rahmen deiner Erstsemestereinführungswoche kannst du am Dienstag, dem 05.10.2020 mit deinem Fachschaftsrat von einem Studentenclub zum nächsten wandern und so einen guten Überblick über die breiten Möglichkeiten der Abendveranstaltungen in der Unizeit bekommen. Und dabei bekommst du sogar noch ein Freigetränk!
->
-> Gib den Gutschein als Erstsemester zusammen mit deinem Studentenausweis in drei Clubs an der Bar ab und hol dir im vierten Club ein Getränk deiner Wahl\*.
->
-> Die ESE-CLUBTOUR führt durch die Dresdner Studentenclubs, deren Mitglieder ehrenamtlich arbeiten, um dir eine schöne Zeit zu bieten. Wenn dir ein Club besonders gefällt und du Lust hast, dort mitzumachen, frag einfach.
->
-> \*Hinweise im jeweiligen Club beachten
->
-> HINWEIS: Aufgrund der Corona-Lage und entsprechenden Einschränkungen ist eine Teilnahme nur mit den geführten Kleingruppen der Fachschaftsräte möglich. Dein FSR wird dich informieren, wenn er eine ESE-Clubtour bei dir im Ersti-Programm hat.
-
-------------------------------------------------------------------------
-
 ### Geschichten Schreiben
 
 **Beginn:** Do 07.10.2021, 20:00+0200\
@@ -231,6 +137,33 @@
 
 ------------------------------------------------------------------------
 
+### Karaoke\@Wu5 Vol.14
+
+**Beginn:** Do 14.10.2021, 20:00+0200\
+**Ende:** Fr 15.10.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/228004332644352>\
+**Screenshot:**
+[facebook.com-events-228004332644352.png](facebook.com-events-228004332644352.png)
+
+> Come on & sing along! Auch im September laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
+> Für jeden der sich traut, gibt es an der Bar einen Belohnungsschnaps aufs Haus!
+
+------------------------------------------------------------------------
+
+### 57. Gutzkowclubgeburtstag
+
+**Beginn:** Fr 15.10.2021, 19:00+0200\
+**Ende:** Sa 16.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/415230053303797>\
+**Screenshot:**
+[facebook.com-events-415230053303797.png](facebook.com-events-415230053303797.png)
+
+> Jeder der da ist schreibt Geschichte! 3 G und Gutz Gutz Gutz!
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 15.10.2021, 20:00+0200\
@@ -258,6 +191,23 @@
 > Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
 >
 > Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
+### Scrubs - Der Barabend
+
+**Beginn:** Fr 15.10.2021, 20:00+0200\
+**Ende:** Sa 16.10.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/6471737102866208>\
+**Screenshot:**
+[facebook.com-events-6471737102866208.png](facebook.com-events-6471737102866208.png)
+
+> Wer hat 2 Daumen und trinkt heute Abend im Studentenclub Wu5? IHR!\
+> +++ Neben anderen kleinen Überraschungen bieten wir euch die Specials Bahama Mama und Appletini an.\
+> +++ Wenn ihr im passenden Outfit kommt, egal ob als Dr. Acula, Bob Kelso, Dr. House-Meister oder in voller Chirugenmontur, gibt es von uns einen Schnaps auf Rezept.\
+> +++ Etwas gewinnen könnt bei unseren Scrubs-Quiz!\
+> Bleibt Geschmeidig!
 
 ------------------------------------------------------------------------
 
@@ -311,6 +261,23 @@
 >
 > Du hast alle Cocktails ausprobiert oder du liebst den Zufall?\
 > Dann lass doch die Würfel entscheiden!
+
+------------------------------------------------------------------------
+
+### \[ˈwʊdˌstɒk\] -Jamsession Nr. 98
+
+**Beginn:** Do 21.10.2021, 20:00+0200\
+**Ende:** Fr 22.10.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/1323950981348934>\
+**Screenshot:**
+[facebook.com-events-1323950981348934.png](facebook.com-events-1323950981348934.png)
+
+> \[ˈwʊdˌstɒk\] - Jamsession\
+> Herbei zu Session Nr. 98!\
+> Zu Gerstensaft und Mixgetränken wird wieder gerockt, bis die Saiten qualmen und die Finger bluten.\
+> Eine erstklassige Abmuckumgebung erwartet die Musikanten, vorhanden sind Gitarren- und Bassamp, Drumset und Gesangsmikro(s). Die Technik wird aber auch jedem anderen Instrument mit größtem Eifer Gehör verschaffen. Also Klampfe, Sticks, Gesangsorgan, Nasenflöte, Brummtopf und/oder singende Säge einpacken und gniedeln, was die Glieder hergeben.\
+> Wer arbeitet darf auch trinken: Jeder Musiker erhält ein Bier aufs Haus.
 
 ------------------------------------------------------------------------
 
@@ -399,30 +366,6 @@
 [facebook.com-events-542018496878655.png](facebook.com-events-542018496878655.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
-
-------------------------------------------------------------------------
-
-### Die Legendäre Tequilaparty - Día de los Muertos Edition
-
-**Beginn:** Fr 05.11.2021, 19:00+0100\
-**Ende:** Fr 05.11.2021, 23:00+0100\
-**Ort:** Studentenclub Wu5 e.V.\
-**Link:** <https://mbasic.facebook.com/events/444587730574771>\
-**Screenshot:**
-[facebook.com-events-444587730574771.png](facebook.com-events-444587730574771.png)
-
-> Endlich, endlich, endlich ist es wieder so weit. Wir feiern Tequila Party am Día de los muertos und das haben wir für euch Gringos:
->
-> !!! Ein Legendärer Auftritt von den LOS HAWAII TOASTERS!!!
->
-> + Feuriges Chili - mit und ohne Fleisch,\
-> + Leckere Barmuchachos - mit wenig und viel Fleisch\
-> + Verschiedene Tequilasorten und Cocktails zu muito Preis\
-> + Um 22 Uhr gibt es eine Legendäre Tequilarunde GRATIS\
-> + Macht die Nacht unvergesslich durch ein Foto mit euren Freunden und unseren Fotobox-Accessoire\
-> + Für jeden mit passender Bemalung oder Kostüm gibt es zusätzlich einen kostenlosen Legendären Tequila
->
-> Also freut euch auf eine Legendäre Nacht der Toten.
 
 ------------------------------------------------------------------------
 
