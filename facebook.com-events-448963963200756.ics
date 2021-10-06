@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Show me your best Shirt
+DTSTART;VALUE=DATE-TIME:20211028T180000Z
+DTEND;VALUE=DATE-TIME:20211028T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211006T024941Z
+UID:facebook.com-events-448963963200756
+DESCRIPTION:Egal ob Novarock\, Wacken\, RiP\, Southside oder Highfield - A
+ uf Festivals\, um seine Lieblingsbands zu sehen\, geht jeder von uns gern!
+  An diesem Abend wollen wir\, dass ihr eurer ältestes\, neustes\, liebste
+ s\, zerstörtestes Festival oder Band Merchandise anzieht und mitbringt.\n
+ Kommt vorbei und tauscht euch zu guter Musik und ein paar kalten Bier übe
+ r eure krassesten Konzert Erlebnisse aus!\nJeder in einem Band/Festival T-
+ Shirt bekommt eine Überraschung aufs Haus.
+LOCATION:Studentenclub Wu5 e.V.
+URL:https://mbasic.facebook.com/events/448963963200756
+END:VEVENT
+END:VCALENDAR

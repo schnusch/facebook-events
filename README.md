@@ -343,6 +343,38 @@
 
 ------------------------------------------------------------------------
 
+### Flex und Floxi Kneipenquiz
+
+**Beginn:** Do 28.10.2021, 20:00+0200\
+**Ende:** Fr 29.10.2021, 00:00+0200\
+**Ort:** St. Petersburger Straße 21\
+**Link:** <https://mbasic.facebook.com/events/274982994504084>\
+**Screenshot:**
+[facebook.com-events-274982994504084.png](facebook.com-events-274982994504084.png)
+
+> Es geht in die nächste Quizrunde mit euren Fragefüchsen Flex und Flox.
+>
+> Wie immer gilt: Raten erlaubt, Trinken erwünscht, Googeln verboten!
+>
+> Diesmal ausnahmsweise an einem Donnerstag.
+
+------------------------------------------------------------------------
+
+### Show me your best Shirt
+
+**Beginn:** Do 28.10.2021, 20:00+0200\
+**Ende:** Fr 29.10.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/448963963200756>\
+**Screenshot:**
+[facebook.com-events-448963963200756.png](facebook.com-events-448963963200756.png)
+
+> Egal ob Novarock, Wacken, RiP, Southside oder Highfield - Auf Festivals, um seine Lieblingsbands zu sehen, geht jeder von uns gern! An diesem Abend wollen wir, dass ihr eurer ältestes, neustes, liebstes, zerstörtestes Festival oder Band Merchandise anzieht und mitbringt.\
+> Kommt vorbei und tauscht euch zu guter Musik und ein paar kalten Bier über eure krassesten Konzert Erlebnisse aus!\
+> Jeder in einem Band/Festival T-Shirt bekommt eine Überraschung aufs Haus.
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 29.10.2021, 20:00+0200\
