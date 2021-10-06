@@ -15,6 +15,33 @@
 
 ------------------------------------------------------------------------
 
+### Barabend
+
+**Beginn:** Do 07.10.2021, 20:00+0200\
+**Ende:** Fr 08.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/593501704982395>\
+**Screenshot:**
+[facebook.com-events-593501704982395.png](facebook.com-events-593501704982395.png)
+
+> Alle Barsportarten und geműtliche Atmosphäre zu gűnstigen Preisen.
+
+------------------------------------------------------------------------
+
+### Barabend
+
+**Beginn:** Do 07.10.2021, 20:00+0200\
+**Ende:** Fr 08.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/1704127576459605>\
+**Screenshot:**
+[facebook.com-events-1704127576459605.png](facebook.com-events-1704127576459605.png)
+
+> Getränke, Dart und gute Musik.\
+> kommt lang
+
+------------------------------------------------------------------------
+
 ### Buzzer Battle
 
 **Beginn:** Do 07.10.2021, 20:00+0200\
@@ -146,7 +173,7 @@
 **Screenshot:**
 [facebook.com-events-228004332644352.png](facebook.com-events-228004332644352.png)
 
-> Come on & sing along! Auch im September laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
+> Come on & sing along! Auch im Oktober laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
 > Für jeden der sich traut, gibt es an der Bar einen Belohnungsschnaps aufs Haus!
 
 ------------------------------------------------------------------------
@@ -360,21 +387,6 @@
 
 ------------------------------------------------------------------------
 
-### Show me your best Shirt
-
-**Beginn:** Do 28.10.2021, 20:00+0200\
-**Ende:** Fr 29.10.2021, 00:00+0200\
-**Ort:** Studentenclub Wu5 e.V.\
-**Link:** <https://mbasic.facebook.com/events/448963963200756>\
-**Screenshot:**
-[facebook.com-events-448963963200756.png](facebook.com-events-448963963200756.png)
-
-> Egal ob Novarock, Wacken, RiP, Southside oder Highfield - Auf Festivals, um seine Lieblingsbands zu sehen, geht jeder von uns gern! An diesem Abend wollen wir, dass ihr eurer ältestes, neustes, liebstes, zerstörtestes Festival oder Band Merchandise anzieht und mitbringt.\
-> Kommt vorbei und tauscht euch zu guter Musik und ein paar kalten Bier über eure krassesten Konzert Erlebnisse aus!\
-> Jeder in einem Band/Festival T-Shirt bekommt eine Überraschung aufs Haus.
-
-------------------------------------------------------------------------
-
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 29.10.2021, 20:00+0200\
@@ -385,6 +397,21 @@
 [facebook.com-events-212036860965296.png](facebook.com-events-212036860965296.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Show me your best Shirt
+
+**Beginn:** Fr 29.10.2021, 20:00+0200\
+**Ende:** Sa 30.10.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/448963963200756>\
+**Screenshot:**
+[facebook.com-events-448963963200756.png](facebook.com-events-448963963200756.png)
+
+> Egal ob Novarock, Wacken, RiP, Southside oder Highfield - Auf Festivals, um seine Lieblingsbands zu sehen, geht jeder von uns gern! An diesem Abend wollen wir, dass ihr eurer ältestes, neustes, liebstes, zerstörtestes Festival oder Band Merchandise anzieht und mitbringt.\
+> Kommt vorbei und tauscht euch zu guter Musik und ein paar kalten Bier über eure krassesten Konzert Erlebnisse aus!\
+> Jeder in einem Band/Festival T-Shirt bekommt eine Überraschung aufs Haus.
 
 ------------------------------------------------------------------------
 
