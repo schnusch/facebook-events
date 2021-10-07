@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Classic-Cocktailabend
+DTSTART;VALUE=DATE-TIME:20211014T180000Z
+DTEND;VALUE=DATE-TIME:20211014T230000Z
+DTSTAMP;VALUE=DATE-TIME:20211007T144945Z
+UID:facebook.com-events-289125449473598
+DESCRIPTION:Passend zum Start des neuen Studienjahres warten unsere ambiti
+ oniertesten Barnashörner mit klassischen und zeitlosen Drinks auf und mö
+ chten euch zum Verweilen und Genießen einladen. 🍹🍸\n\nWir freuen un
+ s auf euch\n- Eure Nashörner ❤️🦏\n\n\nEs erwarten euch: Benny und 
+ Linus
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/289125449473598
+END:VEVENT
+END:VCALENDAR

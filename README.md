@@ -42,26 +42,6 @@
 
 ------------------------------------------------------------------------
 
-### Buzzer Battle
-
-**Beginn:** Do 07.10.2021, 20:00+0200\
-**Ende:** Fr 08.10.2021, 00:00+0200\
-**Ort:** Studentenclub Wu5 e.V.\
-**Link:** <https://mbasic.facebook.com/events/286421693321191>\
-**Screenshot:**
-[facebook.com-events-286421693321191.png](facebook.com-events-286421693321191.png)
-
-> Auch in diesem Monat heißt es wieder: auf die Buzzer, fertig, los!\
-> Tretet in einem noch nie dagewesenen Team vs. Team Battle gegeneinander an und lasst euch in einem epischen Finale als Sieger küren.\
-> Da wir Aufgrund der geltenden Regelungen leider nur 4 Teams annehmen können, raten wir euch \"Seid schnell bei eurer Anmeldung!\". Stellt eure Geschwindigkeit bereits beim Anmelden unter Beweis. Erlaubt sind bis zu 4 Leute pro Team.\
-> Anmelden könnt ihr euch hier oder bei eXma oder auf unserer Homepage mit eurem Teamnamen und - sollten noch Plätze verfügbar sein - am Abend bis 20:30 Uhr an der Bar.\
-> Die Anmeldung ist selbstverständlich kostenlos und der Eintritt ist frei.\
-> Die ersten drei Plätze werden auch mit Preisen belohnt!\
-> Alle weiteren Informationen zum Spiel erhaltet Ihr am Abend, im\
-> Studentenclub Wu5.
-
-------------------------------------------------------------------------
-
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 08.10.2021, 20:00+0200\
@@ -161,6 +141,24 @@
 > Dann bieten wir euch einmal jeden Monat unsere Bühne an und geben euch die Chance, uns zu zeigen, was ihr so drauf habt!
 >
 > Der Eintritt ist wie immer frei.
+
+------------------------------------------------------------------------
+
+### Classic-Cocktailabend
+
+**Beginn:** Do 14.10.2021, 20:00+0200\
+**Ende:** Fr 15.10.2021, 01:00+0200\
+**Ort:** Studentenclub Borsi 34\
+**Link:** <https://mbasic.facebook.com/events/289125449473598>\
+**Screenshot:**
+[facebook.com-events-289125449473598.png](facebook.com-events-289125449473598.png)
+
+> Passend zum Start des neuen Studienjahres warten unsere ambitioniertesten Barnashörner mit klassischen und zeitlosen Drinks auf und möchten euch zum Verweilen und Genießen einladen. 🍹🍸
+>
+> Wir freuen uns auf euch\
+> - Eure Nashörner ❤️🦏
+>
+> Es erwarten euch: Benny und Linus
 
 ------------------------------------------------------------------------
 
@@ -425,6 +423,30 @@
 [facebook.com-events-542018496878655.png](facebook.com-events-542018496878655.png)
 
 > Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+
+------------------------------------------------------------------------
+
+### Die Legendäre Tequilaparty - Día de los Muertos Edition
+
+**Beginn:** Fr 05.11.2021, 19:00+0100\
+**Ende:** Fr 05.11.2021, 23:00+0100\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/444587730574771>\
+**Screenshot:**
+[facebook.com-events-444587730574771.png](facebook.com-events-444587730574771.png)
+
+> Endlich, endlich, endlich ist es wieder so weit. Wir feiern Tequila Party am Día de los muertos und das haben wir für euch Gringos:
+>
+> !!! Ein Legendärer Auftritt von den LOS HAWAII TOASTERS!!!
+>
+> + Feuriges Chili - mit und ohne Fleisch,\
+> + Leckere Barmuchachos - mit wenig und viel Fleisch\
+> + Verschiedene Tequilasorten und Cocktails zu muito Preis\
+> + Um 22 Uhr gibt es eine Legendäre Tequilarunde GRATIS\
+> + Macht die Nacht unvergesslich durch ein Foto mit euren Freunden und unseren Fotobox-Accessoire\
+> + Für jeden mit passender Bemalung oder Kostüm gibt es zusätzlich einen kostenlosen Legendären Tequila
+>
+> Also freut euch auf eine Legendäre Nacht der Toten.
 
 ------------------------------------------------------------------------
 
