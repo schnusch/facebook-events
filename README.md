@@ -1,37 +1,3 @@
-### Bar-Abend mit Bier-Pong
-
-**Beginn:** Fr 08.10.2021, 20:00+0200\
-**Ende:** Sa 09.10.2021, 01:00+0200\
-**Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/120855870203407>\
-**Screenshot:**
-[facebook.com-events-120855870203407.png](facebook.com-events-120855870203407.png)
-
-> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
-
-------------------------------------------------------------------------
-
-### Bierkegeln
-
-**Beginn:** Fr 08.10.2021, 20:00+0200\
-**Ende:** Sa 09.10.2021, 00:00+0200\
-**Ort:** Club HängeMathe e.V.\
-**Link:** <https://mbasic.facebook.com/events/1309451059525401>\
-**Screenshot:**
-[facebook.com-events-1309451059525401.png](facebook.com-events-1309451059525401.png)
-
-> Als Prequel zum neuen Semester putzen wir unsere Wiese mal wieder so richtig raus - trimmmen die Wiese, beseitigen jede noch so kleine Bodenwelle und warten auf würdige oder unwürdige Gegner:innen.
->
-> Die Lokalsport-Rubriken der Zeitungen werden dem größten Bierkegelevent des Jahres etwa so gerecht werden:
->
-> "Ein Spiel für die Vollen: Mit einem lauten "Rumms" prallen Ball und Flaschen aufeinander. Letztere ergeben sich, fallen, und werden von einem:r jungen Athlet:in in Windeseile wieder aufgerichtet, bevor sie ein weiterer Wurf abräumt. Nahezu im Sekundentakt legen sich die Sterniflaschen nieder. Die Werfer:innen kennen keine Gnade - vom angestaubten Ruf des (Bier)Kegelns ist nichts zu spüren."
->
-> HINWEIS: Bitte beachtet, das wir ab heute mit einer 2G-Regelung fahren. Ihr müsst also entweder Genesen oder Geimpft sein, um uns besuchen zu kommen.
->
-> BIER \| KULTUR \| LIEBE
-
-------------------------------------------------------------------------
-
 ### Nerd Out!
 
 **Beginn:** Mo 11.10.2021, 20:00+0200\
@@ -67,6 +33,100 @@
 >
 > + + + WICHTIG! + + +\
 > Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
+
+------------------------------------------------------------------------
+
+### ESN Länderparty Germany
+
+**Beginn:** Di 12.10.2021, 20:30+0200\
+**Ende:** Mi 13.10.2021, 01:00+0200\
+**Ort:** Club Novitatis\
+**Link:** <https://mbasic.facebook.com/events/2538036766420705>\
+**Screenshot:**
+[facebook.com-events-2538036766420705.png](facebook.com-events-2538036766420705.png)
+
+> \* Deutsche Version unten \*
+>
+> The first Länderparty of the semester is all about Germany! We welcome you to Germany with a lot of German culture, music and decoration!
+>
+> From now on, you can enjoy another country every week! Every time different students from different parts of the world present their home country and show why their party is special, different and worth a visit!
+>
+> 📅 WHEN?\
+> Tue 12th Oct 20:30 - 13th Oct 01:00
+>
+> 📌 WHERE?/ MEETING POINT?\
+> Studentenclub Novitatis\
+> Fritz-Löffler-Straße 12C
+>
+> 💶 COSTS?\
+> - until 9:30 pm: free entry for everyone\
+> - after 9:30 pm: 1€\
+> - ESNcard holders: free entry all night long + special discount at the bar
+>
+> 🔒 ELIGIBLE?\
+> 2G RULES APPLY! You should be either fully vaccinated (with a vaccine licensed in the EU: Pfizer, AstraZeneca, Moderna, Johnson&Johnson) or be recovered. Please don't forget to bring verification.
+>
+> 🎟 TICKETS?\
+> - Box office\
+> - for fast access please sign in before the party: ???
+>
+> ✅ ESNcard SPECIAL?\
+> Happy Hour (08:30 - 10:00 pm): 1 beer + 1 Shot for 2,50 €
+>
+> ℹ️ INFO?\
+> Do you want to present your own country at one of the upcoming Länderpartys? Just ask us during the party or write an e-mail to: party\@esn-dresden.de.
+>
+> 👤 CONTACT?\
+> Christian christian.herrmann\@esn-dresden.de
+>
+> We are looking forward to spending this event together with you!
+>
+> Your team of ESN TU Dresden :)
+>
+> \*\*\*\
+> ESN TU Dresden is an association of voluntary students that organises events, excursions and parties for all international students of the university in order to make their stay in Dresden as great as possible. With the motto \#StudentsHelpingStudents we always try to help by answering questions and solving problems concerning student life in Dresden. Let's enjoy the Erasmus lifestyle together!\
+> \#THISisESN \#UnityInDiversity
+>
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
+> \* English version above\*
+>
+> Auf unserer ersten Länderparty in diesem Semester könnt ihr geballte Deutschlandkultur erleben! Deutsche Musik auf die Ohren und schwarz-rot-gold bis zum Umfallen.
+>
+> Auf unseren kommenden Länderpartys gibt\'s jede Woche ein anderes Land zu erleben, denn Langeweile kennen wir nicht.
+>
+> 📅 WANN?\
+> Di 12.10. 20:30 - Mi 13.10. 01:00
+>
+> 📌 WO?\
+> Studentenclub Novitatis\
+> Fritz-Löffler-Straße 12C
+>
+> 💶 PREISE?\
+> - bis 21:30 Uhr: freier Eintritt für alle\
+> - nach 21:30 Uhr: 1€\
+> - Besitzer einer ESNcard: freien Eintritt für den gesamten Abend und Ermäßigungen an der Bar
+>
+> 🔒 TEILNAHMEBERECHTIGT?\
+> Da wir die Veranstaltung nur unter den 2G-Regeln durchführen können, solltest vollständig geimpft (mit einem in der EU zugelassenen Impfstoff: Pfizer, Moderna, AstraZeneca, Johnson & Johnson) oder vollständig genesen sein. Bitte vergiss nicht einen Nachweis mitzubringen.
+>
+> 🎟 TICKETS?\
+> - Abendkasse\
+> - Online-Einschreibung für schnelleren Einlass: ???
+>
+> ✅ ESNcard-SPECIAL\
+> Happy-Hour (20:30 - 22:00): 1 Bier + 1 Shot für 2,50 €
+>
+> ℹ️ INFO?\
+> Ihr wollt euer eigenes Land präsentieren? Dann sprecht uns einfach an oder E-Mail an: party\@esn-dresden.de
+>
+> 👤 KONTAKT?\
+> Christian christian.herrmann\@esn-dresden.de
+>
+> Euer Team von ESN TU Dresden :)
+>
+> \*\*\*\
+> ESN TU Dresden ist eine Organisation von ehrenamtlichen Studenten welche Events, Exkursionen und Parties für alle internationalen Studierenden organisieren um deren Aufenthalt in Dresden so schön wie möglich zu gestalten. Mit dem Motto \#StudentsHelpingStudents sind wir jederzeit bereit eure Fragen und Probleme betreffend des Studentenlebens in Dresden zu beantworten und zu lösen. Lass uns den Erasmus Lifestyle zusammen erleben!\
+> \#THISisESN \#UnityInDiversity
 
 ------------------------------------------------------------------------
 
