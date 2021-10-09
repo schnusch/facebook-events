@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Stiftung Tresentest
+DTSTART;VALUE=DATE-TIME:20211011T180000Z
+DTEND;VALUE=DATE-TIME:20211011T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211009T205129Z
+UID:facebook.com-events-583414682781688
+DESCRIPTION:Wir haben wieder einen neuen Gast hinter der Bar.\nKommt vorbe
+ i\, bestellt ein Bier oder etwas Aufwendigeres und lasst ihn sich ausprobi
+ eren \;)\n\nIhr wolltet schon immer mal herausfinden\, wie es ist hinter e
+ iner Bar zu stehen? Bier herausgeben\, gedankenverloren den Tresen poliere
+ n\, Cocktails mixen\, die Musik auswählen?\nMeldet euch bei uns und viell
+ eicht seid ihr es zum nächsten Stiftung Tresentest\, die an unserer Seite
+  stehen.\n\nBardienst: Nici & Julian + Unbekannt
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/583414682781688
+END:VEVENT
+END:VCALENDAR

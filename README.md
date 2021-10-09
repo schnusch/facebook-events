@@ -1,3 +1,22 @@
+### Stiftung Tresentest
+
+**Beginn:** Mo 11.10.2021, 20:00+0200\
+**Ende:** Di 12.10.2021, 00:00+0200\
+**Ort:** Studentenclub Borsi 34\
+**Link:** <https://mbasic.facebook.com/events/583414682781688>\
+**Screenshot:**
+[facebook.com-events-583414682781688.png](facebook.com-events-583414682781688.png)
+
+> Wir haben wieder einen neuen Gast hinter der Bar.\
+> Kommt vorbei, bestellt ein Bier oder etwas Aufwendigeres und lasst ihn sich ausprobieren ;)
+>
+> Ihr wolltet schon immer mal herausfinden, wie es ist hinter einer Bar zu stehen? Bier herausgeben, gedankenverloren den Tresen polieren, Cocktails mixen, die Musik auswählen?\
+> Meldet euch bei uns und vielleicht seid ihr es zum nächsten Stiftung Tresentest, die an unserer Seite stehen.
+>
+> Bardienst: Nici & Julian + Unbekannt
+
+------------------------------------------------------------------------
+
 ### Nerd Out!
 
 **Beginn:** Mo 11.10.2021, 20:00+0200\
@@ -249,6 +268,23 @@
 > +++ Wenn ihr im passenden Outfit kommt, egal ob als Dr. Acula, Bob Kelso, Dr. House-Meister oder in voller Chirugenmontur, gibt es von uns einen Schnaps auf Rezept.\
 > +++ Etwas gewinnen könnt bei unseren Scrubs-Quiz!\
 > Bleibt Geschmeidig!
+
+------------------------------------------------------------------------
+
+### Sing It Loud!
+
+**Beginn:** Mo 18.10.2021, 20:00+0200\
+**Ende:** Di 19.10.2021, 00:00+0200\
+**Ort:** Studentenclub Borsi 34\
+**Link:** <https://mbasic.facebook.com/events/927976378144894>\
+**Screenshot:**
+[facebook.com-events-927976378144894.png](facebook.com-events-927976378144894.png)
+
+> Genießt einen lustigen Abend bei uns, während manch schöner und grausiger Ton die Kehlen beim Karaoke verlässt.\
+> Singen auf eigene Gefahr ;)\
+> Wir freuen uns auf euch!
+>
+> Bardienst: Lysann & Ruwen
 
 ------------------------------------------------------------------------
 

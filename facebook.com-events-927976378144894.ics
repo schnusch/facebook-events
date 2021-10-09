@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Sing It Loud!
+DTSTART;VALUE=DATE-TIME:20211018T180000Z
+DTEND;VALUE=DATE-TIME:20211018T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211009T205131Z
+UID:facebook.com-events-927976378144894
+DESCRIPTION:Genießt einen lustigen Abend bei uns\, während manch schöne
+ r und grausiger Ton die Kehlen beim Karaoke verlässt.\nSingen auf eigene 
+ Gefahr \;)\nWir freuen uns auf euch!\n\nBardienst: Lysann & Ruwen
+LOCATION:Studentenclub Borsi 34
+URL:https://mbasic.facebook.com/events/927976378144894
+END:VEVENT
+END:VCALENDAR
