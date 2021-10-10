@@ -401,6 +401,27 @@
 
 ------------------------------------------------------------------------
 
+### Nerd Out!
+
+**Beginn:** Mo 25.10.2021, 20:00+0200\
+**Ende:** Di 26.10.2021, 00:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/242498887713783>\
+**Screenshot:**
+[facebook.com-events-242498887713783.png](facebook.com-events-242498887713783.png)
+
+> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
+> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
+> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
+> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
+> Eine Zusammenkunft ganz normaler Leute halt.
+>
+> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.
+>
+> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
+
+------------------------------------------------------------------------
+
 ### Monday Night Magic
 
 **Beginn:** Mo 25.10.2021, 20:00+0200\
