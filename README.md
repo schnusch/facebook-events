@@ -614,8 +614,22 @@
 **Screenshot:**
 [facebook.com-events-188913623274823.png](facebook.com-events-188913623274823.png)
 
-> Nach einer schier unendlichen Zwangspause, fangen wir endlich wieder mit der Planung eines Bockbieranstiches an. Leider war es uns in der Vergangenheit aufgrund der Auflagen einfach nicht möglich, unser geliebtes Event so durchzuführen, wie ihr es gewohnt seid und von uns auch erwartet. Doch nun ist endlich Licht am Ende des Tunnels zu sehen. Wir geben unser Bestes, um mit euch im April 22 und bei bestem Wetter im Sonnenschein anzustoßen!
+> Liebe Bockbierfreunde🍺
 >
-> Mehr Infos folgen\...
+> wie ihr sicherlich schon ahnen konntet, ist es uns auch diesen Herbst noch nicht möglich gewesen, den Bockbieranstich so stattfinden zu lassen, wie ihr es von uns zwei mal jährlich gewohnt seid und auch von uns erwartet.
 >
-> Euer Team vom Studentenclub C11
+> Denn mit wohl weit über 5000 Leuten über den Tag verteilt wurde gefeiert, gelacht, eine exorbitant große Anzahl Bierfässer geleert und der Semesterstart zelebriert. 🤤 Und so übersteigen die Corona-Auflagen leider das, was wir als ehrenamtlicher Verein leisten können und auch das, wofür wir mit unserem traditionellen Bockbieranstich stehen - offen, für jeden, für alle, für euch! ☺️
+>
+> Aber nun ist endlich Licht am Ende des Tunnels zu sehen und wir geben unser Bestes, um mit euch im Frühling wieder bei bestem Wetter und im Sonnenschein anzustoßen zu können! 🍻
+>
+> Zwei Jahre fanden wir nun nicht statt. Nun arbeiten wir mit Freude und Zuversicht an unserem Comeback! 😻
+>
+> Teilt die Veranstaltung, schreit es in die Welt hinaus, stay tuned, bleibt durstig und lasst euch nicht von Nachahmern verleiten, die unsere Situation anscheinend gern ausnutzen! 😉
+>
+> Bockbieranstich in Dresden? Traditionell und original am Club 11! 😎
+>
+> Wir freuen uns jetzt schon wieder riesig auf euch!
+>
+> Weitere Infos folgen...
+>
+> Euer Club 11 🥰
