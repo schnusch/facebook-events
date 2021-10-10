@@ -602,3 +602,20 @@
 > „So wie ich bin darf ich hier nicht sein" -- in ihrer Debüt-Single „Meine Liebe" lädt uns Wilhelmine ein, ein Stück ihres bisherigen Weges mit ihr zu gehen. „Ich verlieb' mich viel zur gern / Um mich dafür zu erklären / Wie es ist für mich / Mit einer Frau an meiner Hand / Warum ist meine Liebe deiner Rede wert?", liefert sie zu federnden Pop-Klängen, warmer Instrumentierung und jubilierenden Bläsern ein euphorisierendes Statement der Befreiung. „Das Lied basiert auf meinen Lebenserfahrungen und ist ein Fragen: Warum ist meine Liebe deiner Rede wert? Warum erlaubst du dir, über meine Liebe zu urteilen? Ich tue das ja auch nicht mit deiner Liebe", kommentiert Wilhelmine.
 >
 > Irgendwo zwischen Zwanzig und Dreißig, zwischen Verlorensein und Neusortieren, erzählen ihre Songs vom Nichts-Haben und Sich-Wiederfinden, von Aufschwung und Zuversicht, von der Reise, von Sehnsüchten, vom Anfang, vom Antrieb, vom Lachen, von der Liebe. Und von den kostbaren Momenten, in denen sie die Welt für einen Augenblick anhält.
+
+------------------------------------------------------------------------
+
+### Bockbieranstich - Frühjahr 2022
+
+**Beginn:** Mi 20.04.2022, 14:00+0200\
+**Ende:** Do 21.04.2022, 00:00+0200\
+**Ort:** Club 11\
+**Link:** <https://mbasic.facebook.com/events/188913623274823>\
+**Screenshot:**
+[facebook.com-events-188913623274823.png](facebook.com-events-188913623274823.png)
+
+> Nach einer schier unendlichen Zwangspause, fangen wir endlich wieder mit der Planung eines Bockbieranstiches an. Leider war es uns in der Vergangenheit aufgrund der Auflagen einfach nicht möglich, unser geliebtes Event so durchzuführen, wie ihr es gewohnt seid und von uns auch erwartet. Doch nun ist endlich Licht am Ende des Tunnels zu sehen. Wir geben unser Bestes, um mit euch im April 22 und bei bestem Wetter im Sonnenschein anzustoßen!
+>
+> Mehr Infos folgen\...
+>
+> Euer Team vom Studentenclub C11

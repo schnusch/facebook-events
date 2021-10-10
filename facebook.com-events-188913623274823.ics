@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Bockbieranstich - Frühjahr 2022
+DTSTART;VALUE=DATE-TIME:20220420T120000Z
+DTEND;VALUE=DATE-TIME:20220420T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211010T145326Z
+UID:facebook.com-events-188913623274823
+DESCRIPTION:Nach einer schier unendlichen Zwangspause\, fangen wir endlich
+  wieder mit der Planung eines Bockbieranstiches an. Leider war es uns in d
+ er Vergangenheit aufgrund der Auflagen einfach nicht möglich\, unser geli
+ ebtes Event so durchzuführen\, wie ihr es gewohnt seid und von uns auch e
+ rwartet. Doch nun ist endlich Licht am Ende des Tunnels zu sehen. Wir gebe
+ n unser Bestes\, um mit euch im April 22 und bei bestem Wetter im Sonnensc
+ hein anzustoßen!\n\nMehr Infos folgen...\n\nEuer Team vom Studentenclub C
+ 11
+LOCATION:Club 11
+URL:https://mbasic.facebook.com/events/188913623274823
+END:VEVENT
+END:VCALENDAR
