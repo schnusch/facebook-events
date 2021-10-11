@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Walzenabend im Club 11 (Dresden) - Todbringer\, Zeit\, Eternal Red
+DTSTART;VALUE=DATE-TIME:20211029T180000Z
+DTEND;VALUE=DATE-TIME:20211029T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211011T205458Z
+UID:facebook.com-events-186975680236377
+DESCRIPTION:Es geht wieder los mit harter Musik im Club 11 (Hochschulstra
+ ße 48\, Dresden) mit:\n\nTodbringer (Black/ Death Metal aus Leipzig)\n\nZ
+ eit (Black Sludge aus Leipzig)\n\nEternal Red (Hardcore aus Chemnitz)\n\nS
+ tart 20 Uhr\n\nEintritt frei!\n\nACHTUNG! Das Konzert findet unter 3G-Rege
+ lung und unter Beachtung der lokalen Vorgaben statt!
+LOCATION:Club 11
+URL:https://mbasic.facebook.com/events/186975680236377
+END:VEVENT
+END:VCALENDAR

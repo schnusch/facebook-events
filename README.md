@@ -1,73 +1,3 @@
-### Stiftung Tresentest
-
-**Beginn:** Mo 11.10.2021, 20:00+0200\
-**Ende:** Di 12.10.2021, 00:00+0200\
-**Ort:** Studentenclub Borsi 34\
-**Link:** <https://mbasic.facebook.com/events/583414682781688>\
-**Screenshot:**
-[facebook.com-events-583414682781688.png](facebook.com-events-583414682781688.png)
-
-> Wir haben wieder einen neuen Gast hinter der Bar.\
-> Kommt vorbei, bestellt ein Bier oder etwas Aufwendigeres und lasst ihn sich ausprobieren ;)
->
-> Ihr wolltet schon immer mal herausfinden, wie es ist hinter einer Bar zu stehen? Bier herausgeben, gedankenverloren den Tresen polieren, Cocktails mixen, die Musik auswählen?\
-> Meldet euch bei uns und vielleicht seid ihr es zum nächsten Stiftung Tresentest, die an unserer Seite stehen.
->
-> Bardienst: Nici & Julian + Unbekannt
-
-------------------------------------------------------------------------
-
-### Nerd Out!
-
-**Beginn:** Mo 11.10.2021, 20:00+0200\
-**Ende:** Di 12.10.2021, 00:00+0200\
-**Ort:** None\
-**Link:** <https://mbasic.facebook.com/events/833514094001734>\
-**Screenshot:**
-[facebook.com-events-833514094001734.png](facebook.com-events-833514094001734.png)
-
-> Einmal in der Woche kann man mal so richtig den Nerd raushängen lassen.\
-> Wir wissen, wie der Prozessor in unseren Rechnern genannt wird und warum er schlicht besser ist.\
-> Wir haben Meinungen zu Programmiersprachen, Raumfahrt und additiven wie auch subtraktiven Fertigungsverfahren.\
-> Und damit auch allen klar ist, wer sich da trifft, spielen wir Rollenspiele mit merkwürdig geformten Würfeln.\
-> Eine Zusammenkunft ganz normaler Leute halt.
->
-> Bitte tragt im Klub eine Maske und haltet euch an die Hygienevorschriften.\
-> Außerdem werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!
-
-------------------------------------------------------------------------
-
-### Der König tanzt
-
-**Beginn:** Mo 11.10.2021, 20:00+0200\
-**Ende:** Di 12.10.2021, 00:00+0200\
-**Ort:** Gutzkowclub e.V.\
-**Link:** <https://mbasic.facebook.com/events/198039999068139>\
-**Screenshot:**
-[facebook.com-events-198039999068139.png](facebook.com-events-198039999068139.png)
-
-> Montage mag niemand. Aber Gutz- Montage schon! Wir haben eine gute Nachricht für euch: Bier = 1,50€
-
-------------------------------------------------------------------------
-
-### Rollenspielstammtisch
-
-**Beginn:** Mo 11.10.2021, 20:00+0200\
-**Ende:** Mo 11.10.2021, 23:59+0200\
-**Ort:** Studentenclub Traumtänzer\
-**Link:** <https://mbasic.facebook.com/events/554956495744628>\
-**Screenshot:**
-[facebook.com-events-554956495744628.png](facebook.com-events-554956495744628.png)
-
-> Die Dresdner Rollenspieler treffen sich zum monatlichen Gedankenaustausch. Dabei geht es nicht darum irgendwelche Rollenspiele zu spielen, sondern darum den Kontakt zwischen den Dresdner Rollenspielern herzustellen.
->
-> Mit von der Partie sind neben den Leuten von Dresden Spielt! auch die Mitglieder von der Gugelgilde. Willkommen sind aber auch immer Neugierige, Einsteiger und Zugezogene.
->
-> + + + WICHTIG! + + +\
-> Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
-
-------------------------------------------------------------------------
-
 ### Karaoke
 
 **Beginn:** Di 12.10.2021, 20:00+0200\
@@ -515,6 +445,31 @@
 > Wie immer gilt: Raten erlaubt, Trinken erwünscht, Googeln verboten!
 >
 > Diesmal ausnahmsweise an einem Donnerstag.
+
+------------------------------------------------------------------------
+
+### Walzenabend im Club 11 (Dresden) - Todbringer, Zeit, Eternal Red
+
+**Beginn:** Fr 29.10.2021, 20:00+0200\
+**Ende:** Sa 30.10.2021, 00:00+0200\
+**Ort:** Club 11\
+**Link:** <https://mbasic.facebook.com/events/186975680236377>\
+**Screenshot:**
+[facebook.com-events-186975680236377.png](facebook.com-events-186975680236377.png)
+
+> Es geht wieder los mit harter Musik im Club 11 (Hochschulstraße 48, Dresden) mit:
+>
+> Todbringer (Black/ Death Metal aus Leipzig)
+>
+> Zeit (Black Sludge aus Leipzig)
+>
+> Eternal Red (Hardcore aus Chemnitz)
+>
+> Start 20 Uhr
+>
+> Eintritt frei!
+>
+> ACHTUNG! Das Konzert findet unter 3G-Regelung und unter Beachtung der lokalen Vorgaben statt!
 
 ------------------------------------------------------------------------
 
