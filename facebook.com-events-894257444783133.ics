@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Sinnlos am Tresen
+DTSTART;VALUE=DATE-TIME:20211015T180000Z
+DTEND;VALUE=DATE-TIME:20211015T215900Z
+DTSTAMP;VALUE=DATE-TIME:20211011T145432Z
+UID:facebook.com-events-894257444783133
+DESCRIPTION:H. rutscht nervös auf dem Barhocker hin und her. Nur die Auge
+ n ruhen mit leerem Blick auf den Kühlschrank hinter der Bar im Club Häng
+ eMathe. “Das ist so sinnlos\, so grausam.” Fassungslos lässt die 21-j
+ ährige die vergangenen 5 Tage Revue passieren. Immer wieder schüttelt si
+ e ihren Kopf. “Genau hier”\, stößt sie hervor\, “bin ich doch jede
+ n Tag. So nah und doch so fern!” Sie hat gerade die erste Woche des neue
+ n Semesters hinter sich gebracht.\n\nNach vier HäMa-losen Abenden\, nahm 
+ sie erneut die Fahndung nach dem großen roten Kühlschrank auf\, wo sie z
+ usammen mit Fremden und neuen und alten Freunden die düsteren Tage zu ver
+ gessen versucht.\n\nGlücklicherweise rettet die HäMa natürlich nicht nu
+ r den König\, sondern auch dich! Hier könnt ihr eure Woche feiern\, verg
+ essen oder wiederholen solange und so oft ihr möchtet. Diverseste Trinksp
+ iele stehen euch wie immer zur Verfügung…nur den Tresen müsstet ihr da
+ für eventuell verlassen.\n\nHINWEIS: Bitte beachtet\, das wir ab aktuell 
+ mit einer 2G-Regelung fahren. Ihr müsst also entweder Genesen oder Geimpf
+ t sein\, um uns besuchen zu kommen.\n\nBIER | KULTUR | LIEBE
+LOCATION:Club HängeMathe e.V.
+URL:https://mbasic.facebook.com/events/894257444783133
+END:VEVENT
+END:VCALENDAR

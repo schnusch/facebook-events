@@ -293,6 +293,27 @@
 
 ------------------------------------------------------------------------
 
+### Sinnlos am Tresen
+
+**Beginn:** Fr 15.10.2021, 20:00+0200\
+**Ende:** Fr 15.10.2021, 23:59+0200\
+**Ort:** Club HängeMathe e.V.\
+**Link:** <https://mbasic.facebook.com/events/894257444783133>\
+**Screenshot:**
+[facebook.com-events-894257444783133.png](facebook.com-events-894257444783133.png)
+
+> H. rutscht nervös auf dem Barhocker hin und her. Nur die Augen ruhen mit leerem Blick auf den Kühlschrank hinter der Bar im Club HängeMathe. "Das ist so sinnlos, so grausam." Fassungslos lässt die 21-jährige die vergangenen 5 Tage Revue passieren. Immer wieder schüttelt sie ihren Kopf. "Genau hier", stößt sie hervor, "bin ich doch jeden Tag. So nah und doch so fern!" Sie hat gerade die erste Woche des neuen Semesters hinter sich gebracht.
+>
+> Nach vier HäMa-losen Abenden, nahm sie erneut die Fahndung nach dem großen roten Kühlschrank auf, wo sie zusammen mit Fremden und neuen und alten Freunden die düsteren Tage zu vergessen versucht.
+>
+> Glücklicherweise rettet die HäMa natürlich nicht nur den König, sondern auch dich! Hier könnt ihr eure Woche feiern, vergessen oder wiederholen solange und so oft ihr möchtet. Diverseste Trinkspiele stehen euch wie immer zur Verfügung...nur den Tresen müsstet ihr dafür eventuell verlassen.
+>
+> HINWEIS: Bitte beachtet, das wir ab aktuell mit einer 2G-Regelung fahren. Ihr müsst also entweder Genesen oder Geimpft sein, um uns besuchen zu kommen.
+>
+> BIER \| KULTUR \| LIEBE
+
+------------------------------------------------------------------------
+
 ### Scrubs - Der Barabend
 
 **Beginn:** Fr 15.10.2021, 20:00+0200\
@@ -657,11 +678,11 @@
 >
 > wie ihr sicherlich schon ahnen konntet, ist es uns auch diesen Herbst noch nicht möglich gewesen, den Bockbieranstich so stattfinden zu lassen, wie ihr es von uns zwei mal jährlich gewohnt seid und auch von uns erwartet.
 >
-> Denn mit wohl weit über 5000 Leuten über den Tag verteilt wurde gefeiert, gelacht, eine exorbitant große Anzahl Bierfässer geleert und der Semesterstart zelebriert. 🤤 Und so übersteigen die Corona-Auflagen leider das, was wir als ehrenamtlicher Verein leisten können und auch das, wofür wir mit unserem traditionellen Bockbieranstich stehen - offen, für jeden, für alle, für euch! ☺️
+> Denn mit wahrscheinlich mehr als 5000 Leuten wurde stets über den Tag verteilt gefeiert, gelacht, eine exorbitant große Anzahl Bierfässer geleert und der Semesterstart zelebriert. 🤤 Und so übersteigen die aktuellen Corona-Auflagen leider das, was wir als ehrenamtlicher Verein leisten können und auch, wofür wir mit unserem traditionellen Bockbieranstich stehen - offen, für jeden, für alle, für euch! ☺️
 >
-> Aber nun ist endlich Licht am Ende des Tunnels zu sehen und wir geben unser Bestes, um mit euch im Frühling wieder bei bestem Wetter und im Sonnenschein anzustoßen zu können! 🍻
+> Aber, nun ist endlich Licht am Ende des Tunnels zu sehen und wir geben unser Bestes, um mit euch im Frühling wieder bei bestem Wetter und im Sonnenschein anzustoßen zu können!
 >
-> Zwei Jahre fanden wir nun nicht statt. Nun arbeiten wir mit Freude und Zuversicht an unserem Comeback! 😻
+> Schon 2 Jahre ist der letzte Anstich her. Nun arbeiten wir mit Freude und Zuversicht an unserem Comeback! 😻
 >
 > Teilt die Veranstaltung, schreit es in die Welt hinaus, stay tuned, bleibt durstig und lasst euch nicht von Nachahmern verleiten, die unsere Situation anscheinend gern ausnutzen! 😉
 >
