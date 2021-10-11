@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Der König tanzt
+DTSTART;VALUE=DATE-TIME:20211011T180000Z
+DTEND;VALUE=DATE-TIME:20211011T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211011T025347Z
+UID:facebook.com-events-198039999068139
+DESCRIPTION:Montage mag niemand. Aber Gutz- Montage schon! Wir haben eine 
+ gute Nachricht für euch: Bier = 1\,50€
+LOCATION:Gutzkowclub e.V.
+URL:https://mbasic.facebook.com/events/198039999068139
+END:VEVENT
+END:VCALENDAR

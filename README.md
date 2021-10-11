@@ -37,6 +37,19 @@
 
 ------------------------------------------------------------------------
 
+### Der König tanzt
+
+**Beginn:** Mo 11.10.2021, 20:00+0200\
+**Ende:** Di 12.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/198039999068139>\
+**Screenshot:**
+[facebook.com-events-198039999068139.png](facebook.com-events-198039999068139.png)
+
+> Montage mag niemand. Aber Gutz- Montage schon! Wir haben eine gute Nachricht für euch: Bier = 1,50€
+
+------------------------------------------------------------------------
+
 ### Rollenspielstammtisch
 
 **Beginn:** Mo 11.10.2021, 20:00+0200\
@@ -52,6 +65,19 @@
 >
 > + + + WICHTIG! + + +\
 > Bitte erscheint nach Möglichkeit gesammelt in Gruppen und wartet vor dem Eingangsbereich des Clubs, bis wir euch abholen und euch eure Plätze zuweisen!
+
+------------------------------------------------------------------------
+
+### Karaoke
+
+**Beginn:** Di 12.10.2021, 20:00+0200\
+**Ende:** Mi 13.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/291751795870506>\
+**Screenshot:**
+[facebook.com-events-291751795870506.png](facebook.com-events-291751795870506.png)
+
+> Was die Gisela kann, können wir auch! Also singt und trinkt was das Zeug hält. 😛
 
 ------------------------------------------------------------------------
 
@@ -194,6 +220,19 @@
 > - Eure Nashörner ❤️🦏
 >
 > Es erwarten euch: Benny und Linus
+
+------------------------------------------------------------------------
+
+### Beerpongturnier
+
+**Beginn:** Do 14.10.2021, 20:00+0200\
+**Ende:** Fr 15.10.2021, 00:00+0200\
+**Ort:** Gutzkowclub e.V.\
+**Link:** <https://mbasic.facebook.com/events/554186135869181>\
+**Screenshot:**
+[facebook.com-events-554186135869181.png](facebook.com-events-554186135869181.png)
+
+> Wir veranstalten ein Beerpongturnier im Gutz. Wer Interesse hat und gerne teilnehmen möchte, meldet sich bitte per PN.
 
 ------------------------------------------------------------------------
 
