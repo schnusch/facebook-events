@@ -7,7 +7,7 @@
 **Screenshot:**
 [facebook.com-events-291751795870506.png](facebook.com-events-291751795870506.png)
 
-> Was die Gisela kann, können wir auch! Also singt und trinkt was das Zeug hält. 😛
+> Was die Gisela kann, können wir auch! Also singt und trinkt was das Zeug hält. 😛 2G
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@
 **Screenshot:**
 [facebook.com-events-668675144112974.png](facebook.com-events-668675144112974.png)
 
-> Zum 58. GEBURTSTAG des Gutzes eines der ganz seltenen Geburtstagsskatturniere! Es gibt Preise und Bier für 2.00€. Anmeldung (3.00€) bis 13.10.21 um 19:30 Uhr!
+> Zum 58. GEBURTSTAG des Gutzes eines der ganz seltenen Geburtstagsskatturniere! Es gibt Preise und Bier für 2.00€. Anmeldung (3.00€) bis 13.10.21 um 19:30 Uhr! 2G
 
 ------------------------------------------------------------------------
 
@@ -162,7 +162,7 @@
 **Screenshot:**
 [facebook.com-events-554186135869181.png](facebook.com-events-554186135869181.png)
 
-> Wir veranstalten ein Beerpongturnier im Gutz. Wer Interesse hat und gerne teilnehmen möchte, meldet sich bitte per PN.
+> Wir veranstalten ein Beerpongturnier im Gutz. Wer Interesse hat und gerne teilnehmen möchte, meldet sich bitte per PN. 2G 🍺🏓
 
 ------------------------------------------------------------------------
 
@@ -189,7 +189,7 @@
 **Screenshot:**
 [facebook.com-events-415230053303797.png](facebook.com-events-415230053303797.png)
 
-> Jeder der da ist schreibt Geschichte! 3 G und Gutz Gutz Gutz!
+> Jeder der da ist schreibt Geschichte! 2G und Gutz Gutz Gutz!
 
 ------------------------------------------------------------------------
 
@@ -258,6 +258,19 @@
 > +++ Wenn ihr im passenden Outfit kommt, egal ob als Dr. Acula, Bob Kelso, Dr. House-Meister oder in voller Chirugenmontur, gibt es von uns einen Schnaps auf Rezept.\
 > +++ Etwas gewinnen könnt bei unseren Scrubs-Quiz!\
 > Bleibt Geschmeidig!
+
+------------------------------------------------------------------------
+
+### 90er-Jahre Party
+
+**Beginn:** Sa 16.10.2021, 20:00+0200\
+**Ende:** So 17.10.2021, 02:00+0200\
+**Ort:** Studentenklub Count Down\
+**Link:** <https://mbasic.facebook.com/events/594720761668275>\
+**Screenshot:**
+[facebook.com-events-594720761668275.png](facebook.com-events-594720761668275.png)
+
+> Dieses mal steht der Abend musikalisch im Zeichen der 90er.
 
 ------------------------------------------------------------------------
 
@@ -521,16 +534,17 @@
 
 ------------------------------------------------------------------------
 
-### Bar-Abend mit Bier-Pong
+### Pirate-Metal
 
-**Beginn:** Fr 05.11.2021, 19:00+0100\
-**Ende:** Sa 06.11.2021, 00:00+0100\
+**Beginn:** Sa 30.10.2021, 20:00+0200\
+**Ende:** So 31.10.2021, 02:00+0200\
 **Ort:** Studentenklub Count Down\
-**Link:** <https://mbasic.facebook.com/events/542018496878655>\
+**Link:** <https://mbasic.facebook.com/events/1491054491250541>\
 **Screenshot:**
-[facebook.com-events-542018496878655.png](facebook.com-events-542018496878655.png)
+[facebook.com-events-1491054491250541.png](facebook.com-events-1491054491250541.png)
 
-> Wenn euch Freitag Abend die Langeweile plagt, kommt zu uns, bringt Freunde mit und spielt einfach ein oder mehr Runden Bier-Pong.
+> Ahoy, ihr Landratten!\
+> Dieses mal geht es unter dem Jolly Roger mit dem Klabautermann zur Sache. Unser Gimli wird am DJ-Pult stehen.
 
 ------------------------------------------------------------------------
 
@@ -653,7 +667,7 @@
 >
 > wie ihr sicherlich schon ahnen konntet, ist es uns auch diesen Herbst noch nicht möglich gewesen, den Bockbieranstich so stattfinden zu lassen, wie ihr es von uns zwei mal jährlich gewohnt seid und auch von uns erwartet.
 >
-> Denn mit wahrscheinlich mehr als 5000 Leuten wurde stets über den Tag verteilt gefeiert, gelacht, eine exorbitant große Anzahl Bierfässer geleert und der Semesterstart zelebriert. 🤤 Und so übersteigen die aktuellen Corona-Auflagen leider das, was wir als ehrenamtlicher Verein leisten können und auch, wofür wir mit unserem traditionellen Bockbieranstich stehen - offen, für jeden, für alle, für euch! ☺️
+> Denn mit wahrscheinlich mehr als 5000 Leuten über den Tag verteilt wurde stets gefeiert, gelacht, eine exorbitant große Anzahl Bierfässer geleert und der Semesterstart zelebriert. 🤤 Und so übersteigen die aktuellen Corona-Auflagen leider das, was wir als ehrenamtlicher Verein leisten können und auch das, wofür wir mit unserem traditionellen Bockbieranstich stehen - offen, für jeden, für alle, für euch! ☺️
 >
 > Aber, nun ist endlich Licht am Ende des Tunnels zu sehen und wir geben unser Bestes, um mit euch im Frühling wieder bei bestem Wetter und im Sonnenschein anzustoßen zu können!
 >

@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Beerpongturnier
 DTSTART;VALUE=DATE-TIME:20211014T180000Z
 DTEND;VALUE=DATE-TIME:20211014T220000Z
-DTSTAMP;VALUE=DATE-TIME:20211011T025400Z
+DTSTAMP;VALUE=DATE-TIME:20211012T145556Z
 UID:facebook.com-events-554186135869181
 DESCRIPTION:Wir veranstalten ein Beerpongturnier im Gutz. Wer Interesse ha
- t und gerne teilnehmen möchte\, meldet sich bitte per PN.
+ t und gerne teilnehmen möchte\, meldet sich bitte per PN. 2G 🍺🏓
 LOCATION:Gutzkowclub e.V.
 URL:https://mbasic.facebook.com/events/554186135869181
 END:VEVENT

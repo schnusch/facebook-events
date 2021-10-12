@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Karaoke
 DTSTART;VALUE=DATE-TIME:20211012T180000Z
 DTEND;VALUE=DATE-TIME:20211012T220000Z
-DTSTAMP;VALUE=DATE-TIME:20211011T025353Z
+DTSTAMP;VALUE=DATE-TIME:20211012T145547Z
 UID:facebook.com-events-291751795870506
 DESCRIPTION:Was die Gisela kann\, können wir auch! Also singt und trinkt 
- was das Zeug hält. 😛
+ was das Zeug hält. 😛 2G
 LOCATION:Gutzkowclub e.V.
 URL:https://mbasic.facebook.com/events/291751795870506
 END:VEVENT

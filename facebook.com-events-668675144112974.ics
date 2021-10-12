@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Geburtstagsskatturnier
 DTSTART;VALUE=DATE-TIME:20211013T173000Z
 DTEND;VALUE=DATE-TIME:20211013T220000Z
-DTSTAMP;VALUE=DATE-TIME:20210927T204556Z
+DTSTAMP;VALUE=DATE-TIME:20211012T145553Z
 UID:facebook.com-events-668675144112974
 DESCRIPTION:Zum 58. GEBURTSTAG des Gutzes eines der ganz seltenen Geburtst
  agsskatturniere! Es gibt Preise und Bier für 2.00€. Anmeldung (3.00€)
-  bis 13.10.21 um 19:30 Uhr!
+  bis 13.10.21 um 19:30 Uhr! 2G
 LOCATION:Gutzkowclub e.V.
 URL:https://mbasic.facebook.com/events/668675144112974
 END:VEVENT

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Pirate-Metal
+DTSTART;VALUE=DATE-TIME:20211030T180000Z
+DTEND;VALUE=DATE-TIME:20211031T000000Z
+DTSTAMP;VALUE=DATE-TIME:20211012T145536Z
+UID:facebook.com-events-1491054491250541
+DESCRIPTION:Ahoy\, ihr Landratten!\nDieses mal geht es unter dem Jolly Rog
+ er mit dem Klabautermann zur Sache. Unser Gimli wird am DJ-Pult stehen.
+LOCATION:Studentenklub Count Down
+URL:https://mbasic.facebook.com/events/1491054491250541
+END:VEVENT
+END:VCALENDAR
