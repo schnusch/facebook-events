@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Halloween - Party (2-G)
+DTSTART;VALUE=DATE-TIME:20211029T190000Z
+DTEND;VALUE=DATE-TIME:20211030T000000Z
+DTSTAMP;VALUE=DATE-TIME:20211012T025512Z
+UID:facebook.com-events-586034192584610
+DESCRIPTION:Gruselrock mit DJ Korova\nLeute\, schminkt euch an (oder auch 
+ ab 😉 ...\n\n(Weitere Infos in kürze)\n\nAm Einlass erfolgt die Kontrol
+ le der Geimpft- und Genesenen-Bescheinigungen\, des weiteren werden wir eu
+ re Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährlei
+ sten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung
+  sorgen wir natürlich!\nSollten Unstimmigkeiten auftreten oder Dokumente 
+ nicht nachweißbar sein\, wird der Zutritt zum Klub verwehrt.\nEintritt: S
+ tudenten 2\,- € / Nichtstudenten 3\,- € / bis 21:30 Uhr je halber Prei
+ s
+LOCATION:None
+URL:https://mbasic.facebook.com/events/586034192584610
+END:VEVENT
+END:VCALENDAR

@@ -501,6 +501,26 @@
 
 ------------------------------------------------------------------------
 
+### Halloween - Party (2-G)
+
+**Beginn:** Fr 29.10.2021, 21:00+0200\
+**Ende:** Sa 30.10.2021, 02:00+0200\
+**Ort:** None\
+**Link:** <https://mbasic.facebook.com/events/586034192584610>\
+**Screenshot:**
+[facebook.com-events-586034192584610.png](facebook.com-events-586034192584610.png)
+
+> Gruselrock mit DJ Korova\
+> Leute, schminkt euch an (oder auch ab 😉 \...
+>
+> (Weitere Infos in kürze)
+>
+> Am Einlass erfolgt die Kontrolle der Geimpft- und Genesenen-Bescheinigungen, des weiteren werden wir eure Kontaktdaten erfassen um eine eventuelle Rückverfolgbarkeit gewährleisten zu können. Für eine ordnungsgemäße Aufbewahrung sowie Vernichtung sorgen wir natürlich!\
+> Sollten Unstimmigkeiten auftreten oder Dokumente nicht nachweißbar sein, wird der Zutritt zum Klub verwehrt.\
+> Eintritt: Studenten 2,- € / Nichtstudenten 3,- € / bis 21:30 Uhr je halber Preis
+
+------------------------------------------------------------------------
+
 ### Bar-Abend mit Bier-Pong
 
 **Beginn:** Fr 05.11.2021, 19:00+0100\
