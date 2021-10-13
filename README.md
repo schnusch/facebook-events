@@ -392,6 +392,28 @@
 
 ------------------------------------------------------------------------
 
+### Konzertabend Traymore/Eclipsense/iPreferPi \[2G\]
+
+**Beginn:** Fr 29.10.2021, 20:00+0200\
+**Ende:** Sa 30.10.2021, 00:00+0200\
+**Ort:** Club Novitatis\
+**Link:** <https://mbasic.facebook.com/events/556206225674063>\
+**Screenshot:**
+[facebook.com-events-556206225674063.png](facebook.com-events-556206225674063.png)
+
+> ein Abend - zwei G - drei Bands
+>
+> Nach 2 Jahren Indoor-Konzert-Pause können wir euch am 29. Oktober endlich wieder zu einem Konzertabend in den Club Novitatis einladen!
+>
+> Musikalisch spannen wir einen Bogen von Blues-Rock bis Progressive Metal:\
+> \* Traymore (Heavy Blues-Rock)\
+> \* Eclipsense (Trash Alternative Nu Metal)\
+> \* i PREFER Pi (Progressive Metal)
+>
+> Damit ihr euch auch mit einer Flasche Bier vor die Bühne stellen könnt, ohne ein Maske zu tragen oder 1,50 m Abstand zu halten, ist das Konzert eine 2G-Veranstaltung. Es ist also ein Impfnachweis (oder Genesenennachweis) erforderlich.
+
+------------------------------------------------------------------------
+
 ### Show me your best Shirt
 
 **Beginn:** Fr 29.10.2021, 20:00+0200\

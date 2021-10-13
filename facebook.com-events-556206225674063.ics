@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Konzertabend Traymore/Eclipsense/iPreferPi [2G]
+DTSTART;VALUE=DATE-TIME:20211029T180000Z
+DTEND;VALUE=DATE-TIME:20211029T220000Z
+DTSTAMP;VALUE=DATE-TIME:20211013T145642Z
+UID:facebook.com-events-556206225674063
+DESCRIPTION:ein Abend - zwei G - drei Bands\n\nNach 2 Jahren Indoor-Konzer
+ t-Pause können wir euch am 29. Oktober endlich wieder zu einem Konzertabe
+ nd in den Club Novitatis einladen!\n\nMusikalisch spannen wir einen Bogen 
+ von Blues-Rock bis Progressive Metal:\n* Traymore (Heavy Blues-Rock)\n* Ec
+ lipsense (Trash Alternative Nu Metal)\n* i PREFER Pi (Progressive Metal)\n
+ \nDamit ihr euch auch mit einer Flasche Bier vor die Bühne stellen könnt
+ \, ohne ein Maske zu tragen oder 1\,50 m Abstand zu halten\, ist das Konze
+ rt eine 2G-Veranstaltung. Es ist also ein Impfnachweis (oder Genesenennach
+ weis) erforderlich.
+LOCATION:Club Novitatis
+URL:https://mbasic.facebook.com/events/556206225674063
+END:VEVENT
+END:VCALENDAR
