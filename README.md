@@ -1,16 +1,3 @@
-### Geburtstagsskatturnier
-
-**Beginn:** Mi 13.10.2021, 19:30+0200\
-**Ende:** Do 14.10.2021, 00:00+0200\
-**Ort:** Gutzkowclub e.V.\
-**Link:** <https://mbasic.facebook.com/events/668675144112974>\
-**Screenshot:**
-[facebook.com-events-668675144112974.png](facebook.com-events-668675144112974.png)
-
-> Zum 58. GEBURTSTAG des Gutzes eines der ganz seltenen Geburtstagsskatturniere! Es gibt Preise und Bier für 2.00€. Anmeldung (3.00€) bis 13.10.21 um 19:30 Uhr! 2G
-
-------------------------------------------------------------------------
-
 ### Sänger:in gesucht! \#Karaoke
 
 **Beginn:** Do 14.10.2021, 20:00+0200\
@@ -56,20 +43,6 @@
 [facebook.com-events-554186135869181.png](facebook.com-events-554186135869181.png)
 
 > Wir veranstalten ein Beerpongturnier im Gutz. Wer Interesse hat und gerne teilnehmen möchte, meldet sich bitte per PN. 2G 🍺🏓
-
-------------------------------------------------------------------------
-
-### Karaoke\@Wu5 Vol.14
-
-**Beginn:** Do 14.10.2021, 20:00+0200\
-**Ende:** Fr 15.10.2021, 00:00+0200\
-**Ort:** Studentenclub Wu5 e.V.\
-**Link:** <https://mbasic.facebook.com/events/228004332644352>\
-**Screenshot:**
-[facebook.com-events-228004332644352.png](facebook.com-events-228004332644352.png)
-
-> Come on & sing along! Auch im Oktober laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
-> Für jeden der sich traut, gibt es an der Bar einen Belohnungsschnaps aufs Haus!
 
 ------------------------------------------------------------------------
 
@@ -218,6 +191,19 @@
 > Genau dies ist ein wichtiger Aspekt von Polyamorie - Liebesbeziehungen mit mehreren Partnern zu pflegen, unter Einverständnis aller Beteiligten. Egal ist dabei, ob die Beziehungen Hetero, Homo, Bisexuell oder anders ausgerichtet sind - wichtig sind vor allem Ehrlichkeit, Vertrauen und dass dabei kein Partner auf der Strecke bleibt.
 >
 > Entgegen der Definition, dass zu einer Beziehung nur zwei gehören (dürfen), wollen wir uns zum Stammtisch zusammenfinden. Diskutieren, von Erlebnissen oder Problemen berichten, Fragen stellen, Kontakte knüpfen - willkommen ist jeder, der in irgendeiner Form Interesse am Thema Polyamorie hat.
+
+------------------------------------------------------------------------
+
+### Kneipenabend
+
+**Beginn:** Di 19.10.2021, 19:00+0200\
+**Ende:** Mi 20.10.2021, 00:00+0200\
+**Ort:** Heinrich-Cotta-Club e.V.\
+**Link:** <https://mbasic.facebook.com/events/192775189653811>\
+**Screenshot:**
+[facebook.com-events-192775189653811.png](facebook.com-events-192775189653811.png)
+
+> Wie jeden Dienstag im Semester gibt\'s Bier und Snacks und gute Gesellschaft
 
 ------------------------------------------------------------------------
 
