@@ -46,6 +46,20 @@
 
 ------------------------------------------------------------------------
 
+### Karaoke\@Wu5 Vol.14
+
+**Beginn:** Do 14.10.2021, 20:00+0200\
+**Ende:** Fr 15.10.2021, 00:00+0200\
+**Ort:** Studentenclub Wu5 e.V.\
+**Link:** <https://mbasic.facebook.com/events/228004332644352>\
+**Screenshot:**
+[facebook.com-events-228004332644352.png](facebook.com-events-228004332644352.png)
+
+> Come on & sing along! Auch im Oktober laden wir euch alle zu unserer Karaoke-Night ein! Zeig uns all deine Lieblingssongs, die normalerweise nur in der Dusche zu hören sind. Gib dafür einfach einen Liederwunsch mit deinem Namen an der Bar ab, geh auf die Bühne, schnapp' dir das Mikro und sing drauf los!\
+> Für jeden der sich traut, gibt es an der Bar einen Belohnungsschnaps aufs Haus!
+
+------------------------------------------------------------------------
+
 ### 57. Gutzkowclubgeburtstag
 
 **Beginn:** Fr 15.10.2021, 19:00+0200\
