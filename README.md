@@ -108,3 +108,54 @@
 >
 > Das Album \'Destiny Encounters\' wurde im TS-Musix Studio Leipzig gemastert und wird über das Label Sonic-X als CD und in digitaler Form am 29.11.2019 veröffentlicht.\
 > In der Vergangenheit waren Caisaron vorrangig in Deutschland mit ihrer Liveshow unterwegs, z.B. im Vorprogramm von Bands wie „Project Pitchfork","Solar Fake," Blutengel" und „Peter Heppner.
+
+------------------------------------------------------------------------
+
+### Frank Fischer - Meschugge
+
+**Beginn:** Fr 10.03.2023, 20:00+0100\
+**Ende:** Sa 11.03.2023, 00:00+0100\
+**Ort:** Bärenzwinger Dresden\
+**Link:** <https://mbasic.facebook.com/events/135085135082355>\
+**Screenshot:**
+[facebook.com-events-135085135082355.png](facebook.com-events-135085135082355.png)
+
+> \*Ersatztermin für den 13.3.21 und 10.03.22. Die Karten behalten ihre Gültikeit.\*
+>
+> me\|schug\|ge (hebr.-jidd.) ugs. für verrückt.\
+> Das steht zumindest im Duden. Falls Sie sich jetzt fragen, wer oder was denn verrückt ist -- kleiner Tipp: Schalten Sie mal die Nachrichten ein. Oder fahren Sie mit dem Zug, laufen Sie durch die Fußgängerzone, den Supermarkt oder setzen Sie sich ins Café. Denn egal ob Trump, Putin oder die Frau vor Ihnen an der Kasse -- ständig hat man den Eindruck, von Menschen umgeben zu sein, bei denen im Kopf nicht alles ganz rund läuft.
+>
+> Frank Fischer hat sie alle beobachtet. Bei seinen Reisen quer durch die Republik kommt er ins Gespräch mit schwer verständlichen Sachsen, hessischen Nazis und einer schwäbischen Frauen-Reisegruppe. Er berichtet über ungewöhnliche Menschen, verrückte Situationen und gibt nebenbei wertvolle Tipps, wie man beispielsweise eine Bahnfahrt für sich und andere zu einem unvergesslichen Erlebnis werden lassen kann.
+>
+> Stellt sich abschließend nur noch die Frage: Wenn so viele Menschen um uns verrückt sind, sind wir dann die einzig Normalen? Oder sind wir am Ende vielleicht selbst meschugge?
+>
+> \"Die Mischung mit der Fischer aufwartet hat etwas ganz Eigenes, ist dynamisch und unverbraucht.\" (Göttinger Tageblatt)
+>
+> \"Frank Fischer zeigte sich als Komiker der Extraklasse mit gutem Draht zum Publikum.\" (Fränkische Nachrichten)
+>
+> Fotos: Olli Haas
+
+------------------------------------------------------------------------
+
+### Sven Kemmler - \"Paradise Lost - Die Zukunft der Demokratie\" (Vorpremiere)
+
+**Beginn:** Sa 11.03.2023, 20:00+0100\
+**Ende:** So 12.03.2023, 00:00+0100\
+**Ort:** Bärenzwinger dresden\
+**Link:** <https://mbasic.facebook.com/events/223799149455573>\
+**Screenshot:**
+[facebook.com-events-223799149455573.png](facebook.com-events-223799149455573.png)
+
+> \*Ersatztermin für den 13.03.22. Karten behalten ihre Gültigkeit.\*
+>
+> Werden wir aus dem Paradies vertrieben? Überall heißt es: \"Die Demokratie ist in Gefahr!\" Und das stimmt. Aber niemand konnte ahnen, wie viel Komik diese Entwicklung birgt. Folglich untersucht Sven Kemmler mutig die Gefahrenlage, am Beispiel der - laut Eigenbeschreibung - allerbesten und allergrößten Demokratie des Universums: der USA.
+>
+> Nun kann man unmöglich über das Land der unbegrenzten Irrsinnigkeiten herziehen, ohne dabei großes Entertainment zu bieten. Deshalb erwartet sie bei »Paradise Lost« ansprechende Kostümierung, eine spektakuläre Light Show, mitreißende Musik, Digitale Erfrischungen, Interaktivität, literarische Feinsinnigkeiten sowie vollkommen unsinnige Gags.
+>
+> Und man kann, ganz entgegen dem aktuellen Trend, sogar bei Bedarf und im Rahmen seiner Möglichkeit mitdenken. Mit anderen Worten: endlich mal wieder Unterhaltung für Erwachsene! Kemmler selbst verspricht für den Abend: »Es wird eine multimediale Jahrhundert-Soirée, die das Kabarett revolutionieren wird. Dafür stehe ich, aus rechtlichen Gründen jedoch nicht mit meinem Namen.«
+>
+> Befürchtungen, der Abend könnte ob des Themas etwas schwer werden, können bereits heute zerstreut werden, denn es gibt, wie bei allen ordentlichen Hollywood Produktionen, ein Happy End. Der Kabarettist zeigt nämlich (ohne Aufpreis oder Abo-Zwang!) einen Ausweg, mit dem die Demokratie, wenn nicht sogar die Vereinigten Staaten gerettet werden können. Denn so was will man ja schließlich wissen, bevor man sein Aktienportfolio erweitert.
+>
+> Allen Zuschauern sei versichert: Zukunft bleibt auch künftig eine Option, egal wer nach Jeff Bezos Präsident wird.\
+> \--\
+> Sichtbehinderungen sind aufgrund von TV-Aufnahmen möglich. Mit Betreten des Veranstaltungsortes treten Sie für im Rahmen der Veranstaltung entstandene TV-Aufnahmen und Fotos sämtliche Bild- und Tonrechte an den Veranstalter und den MDR ab.

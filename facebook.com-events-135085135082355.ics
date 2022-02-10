@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Frank Fischer - Meschugge
+DTSTART;VALUE=DATE-TIME:20230310T190000Z
+DTEND;VALUE=DATE-TIME:20230310T230000Z
+DTSTAMP;VALUE=DATE-TIME:20220210T131109Z
+UID:facebook.com-events-135085135082355
+DESCRIPTION:*Ersatztermin für den 13.3.21 und 10.03.22. Die Karten behalt
+ en ihre Gültikeit.*\n\nme|schug|ge (hebr.-jidd.) ugs. für verrückt.\nDa
+ s steht zumindest im Duden. Falls Sie sich jetzt fragen\, wer oder was den
+ n verrückt ist – kleiner Tipp: Schalten Sie mal die Nachrichten ein. Od
+ er fahren Sie mit dem Zug\, laufen Sie durch die Fußgängerzone\, den Sup
+ ermarkt oder setzen Sie sich ins Café. Denn egal ob Trump\, Putin oder di
+ e Frau vor Ihnen an der Kasse – ständig hat man den Eindruck\, von Mens
+ chen umgeben zu sein\, bei denen im Kopf nicht alles ganz rund läuft.\n\n
+ Frank Fischer hat sie alle beobachtet. Bei seinen Reisen quer durch die Re
+ publik kommt er ins Gespräch mit schwer verständlichen Sachsen\, hessisc
+ hen Nazis und einer schwäbischen Frauen-Reisegruppe. Er berichtet über u
+ ngewöhnliche Menschen\, verrückte Situationen und gibt nebenbei wertvoll
+ e Tipps\, wie man beispielsweise eine Bahnfahrt für sich und andere zu ei
+ nem unvergesslichen Erlebnis werden lassen kann.\n\nStellt sich abschließ
+ end nur noch die Frage: Wenn so viele Menschen um uns verrückt sind\, sin
+ d wir dann die einzig Normalen? Oder sind wir am Ende vielleicht selbst me
+ schugge?\n\n"Die Mischung mit der Fischer aufwartet hat etwas ganz Eigenes
+ \, ist dynamisch und unverbraucht." (Göttinger Tageblatt)\n\n"Frank Fisch
+ er zeigte sich als Komiker der Extraklasse mit gutem Draht zum Publikum." 
+ (Fränkische Nachrichten)\n\nFotos: Olli Haas
+LOCATION:Bärenzwinger Dresden
+URL:https://mbasic.facebook.com/events/135085135082355
+END:VEVENT
+END:VCALENDAR
