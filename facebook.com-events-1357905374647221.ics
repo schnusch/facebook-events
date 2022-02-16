@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Barabend
+DTSTART;VALUE=DATE-TIME:20220218T190000Z
+DTEND;VALUE=DATE-TIME:20220218T230000Z
+DTSTAMP;VALUE=DATE-TIME:20220216T105757Z
+UID:facebook.com-events-1357905374647221
+DESCRIPTION:Wir haben wieder geöffnet!\n\nDa ihr eure eigenen vier Wände
+  bestimmt langsam satt habt\, könnt ihr euer Bier endlich wieder bei uns 
+ genießen. Und damit unser Backboard nicht weiter einstaubt\, gibts natür
+ lich auch wie gewohnt Cocktails & Longdrinks zum kleinen Preis.\nJeden Fre
+ itag von 20:00 bis 01:00 Uhr\, geben sich unsere Barkeeper größte Mühe\
+ , dass die trostlose Zeit ohne uns ganz schnell wieder in Vergessenheit ge
+ trunken wird.\n\nAlso kommt vorbei!\n\nEs gelten wie gewohnt die aktuellen
+  Coronaschutzmaßnahmen\, also Einlass nur mit 2G+ Nachweis\, Kontaktnachv
+ erfolgung und Maskenpflicht innerhalb der Räumlichkeiten außer am Sitzpl
+ atz.
+LOCATION:August-Bebel-Straße 12\, 01219 Dresden\, Deutschland
+URL:https://mbasic.facebook.com/events/1357905374647221
+END:VEVENT
+END:VCALENDAR

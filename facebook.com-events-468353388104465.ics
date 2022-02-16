@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Frühschoppen mit Engerling
+DTSTART;VALUE=DATE-TIME:20220501T090000Z
+DTEND;VALUE=DATE-TIME:20220501T150000Z
+DTSTAMP;VALUE=DATE-TIME:20220216T105749Z
+UID:facebook.com-events-468353388104465
+DESCRIPTION:Es soll mal wieder so weit sein. Wir planen am 1. Mai 2022 im 
+ Bärenzwinger unseren Tanz in den Mai mit Engerling.\n\nWas dann die aktue
+ lle Coronaschutzverordnung sagt\, werden wir sehen und den aktuellen Stand
+ \, dann euch rechtzeitig mitteilen.
+LOCATION:Studentenclub Bärenzwinger
+URL:https://mbasic.facebook.com/events/468353388104465
+END:VEVENT
+END:VCALENDAR

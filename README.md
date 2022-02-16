@@ -1,3 +1,23 @@
+### Barabend
+
+**Beginn:** Fr 18.02.2022, 20:00+0100\
+**Ende:** Sa 19.02.2022, 00:00+0100\
+**Ort:** August-Bebel-Straße 12, 01219 Dresden, Deutschland\
+**Link:** <https://mbasic.facebook.com/events/1357905374647221>\
+**Screenshot:**
+[facebook.com-events-1357905374647221.png](facebook.com-events-1357905374647221.png)
+
+> Wir haben wieder geöffnet!
+>
+> Da ihr eure eigenen vier Wände bestimmt langsam satt habt, könnt ihr euer Bier endlich wieder bei uns genießen. Und damit unser Backboard nicht weiter einstaubt, gibts natürlich auch wie gewohnt Cocktails & Longdrinks zum kleinen Preis.\
+> Jeden Freitag von 20:00 bis 01:00 Uhr, geben sich unsere Barkeeper größte Mühe, dass die trostlose Zeit ohne uns ganz schnell wieder in Vergessenheit getrunken wird.
+>
+> Also kommt vorbei!
+>
+> Es gelten wie gewohnt die aktuellen Coronaschutzmaßnahmen, also Einlass nur mit 2G+ Nachweis, Kontaktnachverfolgung und Maskenpflicht innerhalb der Räumlichkeiten außer am Sitzplatz.
+
+------------------------------------------------------------------------
+
 ### Wilhelmine • Dresden • Bärenzwinger \[verschoben\]
 
 **Beginn:** Do 03.03.2022, 18:00+0100\
@@ -56,6 +76,38 @@
 > Weitere Infos folgen...
 >
 > Euer Club 11 🥰
+
+------------------------------------------------------------------------
+
+### 45 Jahre Engerling verschoben
+
+**Beginn:** Sa 30.04.2022, 21:00+0200\
+**Ende:** So 01.05.2022, 00:45+0200\
+**Ort:** Zeitgeist dd\
+**Link:** <https://mbasic.facebook.com/events/481384283491670>\
+**Screenshot:**
+[facebook.com-events-481384283491670.png](facebook.com-events-481384283491670.png)
+
+> Es soll mal wieder so weit sein. Wir planen am 30. April 2022 im Zeitgeist unseren Tanz in den Mai mit Engerling.
+>
+> Karten wird es nur an der Abendkasse geben. Was dann die aktuelle Coronaschutzverordnung sagt, werden wir sehen und den aktuellen Stand, dann euch rechtzeitig mitteilen.
+>
+> Das Team vom Zeitgeist freut sich natürlich.
+
+------------------------------------------------------------------------
+
+### Frühschoppen mit Engerling
+
+**Beginn:** So 01.05.2022, 11:00+0200\
+**Ende:** So 01.05.2022, 17:00+0200\
+**Ort:** Studentenclub Bärenzwinger\
+**Link:** <https://mbasic.facebook.com/events/468353388104465>\
+**Screenshot:**
+[facebook.com-events-468353388104465.png](facebook.com-events-468353388104465.png)
+
+> Es soll mal wieder so weit sein. Wir planen am 1. Mai 2022 im Bärenzwinger unseren Tanz in den Mai mit Engerling.
+>
+> Was dann die aktuelle Coronaschutzverordnung sagt, werden wir sehen und den aktuellen Stand, dann euch rechtzeitig mitteilen.
 
 ------------------------------------------------------------------------
 
@@ -134,28 +186,3 @@
 > \"Frank Fischer zeigte sich als Komiker der Extraklasse mit gutem Draht zum Publikum.\" (Fränkische Nachrichten)
 >
 > Fotos: Olli Haas
-
-------------------------------------------------------------------------
-
-### Sven Kemmler - \"Paradise Lost - Die Zukunft der Demokratie\" (Vorpremiere)
-
-**Beginn:** Sa 11.03.2023, 20:00+0100\
-**Ende:** So 12.03.2023, 00:00+0100\
-**Ort:** Bärenzwinger dresden\
-**Link:** <https://mbasic.facebook.com/events/223799149455573>\
-**Screenshot:**
-[facebook.com-events-223799149455573.png](facebook.com-events-223799149455573.png)
-
-> \*Ersatztermin für den 13.03.22. Karten behalten ihre Gültigkeit.\*
->
-> Werden wir aus dem Paradies vertrieben? Überall heißt es: \"Die Demokratie ist in Gefahr!\" Und das stimmt. Aber niemand konnte ahnen, wie viel Komik diese Entwicklung birgt. Folglich untersucht Sven Kemmler mutig die Gefahrenlage, am Beispiel der - laut Eigenbeschreibung - allerbesten und allergrößten Demokratie des Universums: der USA.
->
-> Nun kann man unmöglich über das Land der unbegrenzten Irrsinnigkeiten herziehen, ohne dabei großes Entertainment zu bieten. Deshalb erwartet sie bei »Paradise Lost« ansprechende Kostümierung, eine spektakuläre Light Show, mitreißende Musik, Digitale Erfrischungen, Interaktivität, literarische Feinsinnigkeiten sowie vollkommen unsinnige Gags.
->
-> Und man kann, ganz entgegen dem aktuellen Trend, sogar bei Bedarf und im Rahmen seiner Möglichkeit mitdenken. Mit anderen Worten: endlich mal wieder Unterhaltung für Erwachsene! Kemmler selbst verspricht für den Abend: »Es wird eine multimediale Jahrhundert-Soirée, die das Kabarett revolutionieren wird. Dafür stehe ich, aus rechtlichen Gründen jedoch nicht mit meinem Namen.«
->
-> Befürchtungen, der Abend könnte ob des Themas etwas schwer werden, können bereits heute zerstreut werden, denn es gibt, wie bei allen ordentlichen Hollywood Produktionen, ein Happy End. Der Kabarettist zeigt nämlich (ohne Aufpreis oder Abo-Zwang!) einen Ausweg, mit dem die Demokratie, wenn nicht sogar die Vereinigten Staaten gerettet werden können. Denn so was will man ja schließlich wissen, bevor man sein Aktienportfolio erweitert.
->
-> Allen Zuschauern sei versichert: Zukunft bleibt auch künftig eine Option, egal wer nach Jeff Bezos Präsident wird.\
-> \--\
-> Sichtbehinderungen sind aufgrund von TV-Aufnahmen möglich. Mit Betreten des Veranstaltungsortes treten Sie für im Rahmen der Veranstaltung entstandene TV-Aufnahmen und Fotos sämtliche Bild- und Tonrechte an den Veranstalter und den MDR ab.

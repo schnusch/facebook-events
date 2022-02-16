@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:45 Jahre Engerling verschoben
+DTSTART;VALUE=DATE-TIME:20220430T190000Z
+DTEND;VALUE=DATE-TIME:20220430T224500Z
+DTSTAMP;VALUE=DATE-TIME:20220216T105747Z
+UID:facebook.com-events-481384283491670
+DESCRIPTION:Es soll mal wieder so weit sein. Wir planen am 30. April 2022 
+ im Zeitgeist unseren Tanz in den Mai mit Engerling.\n\nKarten wird es nur 
+ an der Abendkasse geben. Was dann die aktuelle Coronaschutzverordnung sagt
+ \, werden wir sehen und den aktuellen Stand\, dann euch rechtzeitig mittei
+ len.\n\nDas Team vom Zeitgeist freut sich natürlich.
+LOCATION:Zeitgeist dd
+URL:https://mbasic.facebook.com/events/481384283491670
+END:VEVENT
+END:VCALENDAR
