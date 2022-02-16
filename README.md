@@ -163,26 +163,27 @@
 
 ------------------------------------------------------------------------
 
-### Frank Fischer - Meschugge
+### HAPPYDAZE (UK) \"Live 2022\" \| Dresden, Bärenzwinger
 
-**Beginn:** Fr 10.03.2023, 20:00+0100\
-**Ende:** Sa 11.03.2023, 00:00+0100\
-**Ort:** Bärenzwinger Dresden\
-**Link:** <https://mbasic.facebook.com/events/135085135082355>\
+**Beginn:** Mi 08.06.2022, 21:00+0200\
+**Ende:** Do 09.06.2022, 00:00+0200\
+**Ort:** Studentenclub Bärenzwinger\
+**Link:** <https://mbasic.facebook.com/events/906192926713932>\
 **Screenshot:**
-[facebook.com-events-135085135082355.png](facebook.com-events-135085135082355.png)
+[facebook.com-events-906192926713932.png](facebook.com-events-906192926713932.png)
 
-> \*Ersatztermin für den 13.3.21 und 10.03.22. Die Karten behalten ihre Gültikeit.\*
->
-> me\|schug\|ge (hebr.-jidd.) ugs. für verrückt.\
-> Das steht zumindest im Duden. Falls Sie sich jetzt fragen, wer oder was denn verrückt ist -- kleiner Tipp: Schalten Sie mal die Nachrichten ein. Oder fahren Sie mit dem Zug, laufen Sie durch die Fußgängerzone, den Supermarkt oder setzen Sie sich ins Café. Denn egal ob Trump, Putin oder die Frau vor Ihnen an der Kasse -- ständig hat man den Eindruck, von Menschen umgeben zu sein, bei denen im Kopf nicht alles ganz rund läuft.
->
-> Frank Fischer hat sie alle beobachtet. Bei seinen Reisen quer durch die Republik kommt er ins Gespräch mit schwer verständlichen Sachsen, hessischen Nazis und einer schwäbischen Frauen-Reisegruppe. Er berichtet über ungewöhnliche Menschen, verrückte Situationen und gibt nebenbei wertvolle Tipps, wie man beispielsweise eine Bahnfahrt für sich und andere zu einem unvergesslichen Erlebnis werden lassen kann.
->
-> Stellt sich abschließend nur noch die Frage: Wenn so viele Menschen um uns verrückt sind, sind wir dann die einzig Normalen? Oder sind wir am Ende vielleicht selbst meschugge?
->
-> \"Die Mischung mit der Fischer aufwartet hat etwas ganz Eigenes, ist dynamisch und unverbraucht.\" (Göttinger Tageblatt)
->
-> \"Frank Fischer zeigte sich als Komiker der Extraklasse mit gutem Draht zum Publikum.\" (Fränkische Nachrichten)
->
-> Fotos: Olli Haas
+> HAPPYDAZE (UK)\
+> \"Live 2022\"\
+> präsentiert von MoreCore & Undercover GmbH\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+> 085.06.2022\
+> Einlass: 19:00 Uhr \| Beginn: 20:00 Uhr\
+> Bärenzwinger Dresden\
+> Brühlscher Garten 1\
+> 01067 Dresden\
+> Tickets gibts ab 12€ zzgl. Gebühren unter:\
+> https://bit.ly/33sk1du & an allen bekannten VVK-Stellen\
+> weitere Infos unter www.wildfiremusic.de\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+> Presse:\
+> HappyDaze kommen aus den grünen Feldern Schottlands und begeistern mit massiven Hooks, die über einem üppigen Bett aus schimmernden Gitarren schweben. HappyDaze sind da um sicherzustellen, dass ihr eine gute Zeit habt -- und zwar jederzeit! Sorgfältig gestaltete Instrumentals kollidieren mit introspektiven Texten, die oft so klingen, als ob Wolken und Sonne um den großen blauen Himmel kämpfen. Ob ihr im Skatepark unterwegs seid, auf einer Hausparty tanzt oder gerade zur U-Bahn rennt -- die Songs von HappyDaze passen dazu. Eine großartige Mischung, die die Band schnell zum Playlist-Favoriten aufsteigen lässt. Weniger anzeigen

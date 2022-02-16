@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:HAPPYDAZE (UK) "Live 2022" | Dresden\, Bärenzwinger
+DTSTART;VALUE=DATE-TIME:20220608T190000Z
+DTEND;VALUE=DATE-TIME:20220608T220000Z
+DTSTAMP;VALUE=DATE-TIME:20220216T165808Z
+UID:facebook.com-events-906192926713932
+DESCRIPTION:HAPPYDAZE (UK)\n"Live 2022"\npräsentiert von MoreCore & Under
+ cover GmbH\n_______________\n085.06.2022\nEinlass: 19:00 Uhr | Beginn: 20:
+ 00 Uhr\nBärenzwinger Dresden\nBrühlscher Garten 1\n01067 Dresden\nTicket
+ s gibts ab 12€ zzgl. Gebühren unter:\nhttps://bit.ly/33sk1du & an allen
+  bekannten VVK-Stellen\nweitere Infos unter www.wildfiremusic.de\n________
+ _______\nPresse:\nHappyDaze kommen aus den grünen Feldern Schottlands und
+  begeistern mit massiven Hooks\, die über einem üppigen Bett aus schimme
+ rnden Gitarren schweben. HappyDaze sind da um sicherzustellen\, dass ihr e
+ ine gute Zeit habt – und zwar jederzeit! Sorgfältig gestaltete Instrume
+ ntals kollidieren mit introspektiven Texten\, die oft so klingen\, als ob 
+ Wolken und Sonne um den großen blauen Himmel kämpfen. Ob ihr im Skatepar
+ k unterwegs seid\, auf einer Hausparty tanzt oder gerade zur U-Bahn rennt 
+ – die Songs von HappyDaze passen dazu. Eine großartige Mischung\, die d
+ ie Band schnell zum Playlist-Favoriten aufsteigen lässt. Weniger anzeigen
+LOCATION:Studentenclub Bärenzwinger
+URL:https://mbasic.facebook.com/events/906192926713932
+END:VEVENT
+END:VCALENDAR
