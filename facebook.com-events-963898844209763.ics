@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fbscrape v0.0.1
+BEGIN:VEVENT
+SUMMARY:Yves Macak "Humor ist das neue Sexy"
+DTSTART;VALUE=DATE-TIME:20220312T190000Z
+DTEND;VALUE=DATE-TIME:20220312T230000Z
+DTSTAMP;VALUE=DATE-TIME:20220219T050110Z
+UID:facebook.com-events-963898844209763
+DESCRIPTION:Wenn Sie vom ewigen entschleunigen und „sich-selbst-finden
+ “ schon einen Lebensoptimierungs-Burnout haben\, ist dieses Programm gen
+ au das Richtige für Sie.\n\nIn Zeiten\, in denen Selbsthilfebücher und L
+ ebensanleitungen das theoretische Allheilmittel für alles und jeden darst
+ ellen und der Mensch - in Social Media Blasen versunken - vergessen hat\, 
+ was es bedeutet Mensch unter Menschen zu sein\, hat Yves Macak unzählige 
+ Ratgeber für Sie gelesen und bräuchte jetzt einen Ratgeber der ihm sagt\
+ , wann er denn genau welche Ratschläge wo am besten umsetzen kann.\n\nDa 
+ es diesen scheinbar nicht gibt\, entsagt er nun besser der allseits an- ge
+ strebten Perfektion und scheitert lieber heiter. Denn: Wozu hat der Schöp
+ fer uns ansonsten den Humor verpasst? Humor ist das neue Sexy\, denn Humor
+  spielt in nahezu jeder Form zwischenmenschlicher Interaktion eine Rolle.\
+ n\nYves Mack zeigt Ihnen\, wie der Humor hilft\, den Umgang mit schwierige
+ n Situationen zu erleichtern\, neue Kontakte zu knüpfen und neue Wege fü
+ r bislang ungelöste Probleme zu finden. Finden Sie lieber den Humor in si
+ ch\, wenn Sie sich schon selbst nicht finden können.
+LOCATION:Studentenclub Bärenzwinger
+URL:https://mbasic.facebook.com/events/963898844209763
+END:VEVENT
+END:VCALENDAR

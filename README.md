@@ -1,23 +1,3 @@
-### Barabend
-
-**Beginn:** Fr 18.02.2022, 20:00+0100\
-**Ende:** Sa 19.02.2022, 00:00+0100\
-**Ort:** August-Bebel-Straße 12, 01219 Dresden, Deutschland\
-**Link:** <https://mbasic.facebook.com/events/1357905374647221>\
-**Screenshot:**
-[facebook.com-events-1357905374647221.png](facebook.com-events-1357905374647221.png)
-
-> Wir haben wieder geöffnet!
->
-> Da ihr eure eigenen vier Wände bestimmt langsam satt habt, könnt ihr euer Bier endlich wieder bei uns genießen. Und damit unser Backboard nicht weiter einstaubt, gibts natürlich auch wie gewohnt Cocktails & Longdrinks zum kleinen Preis.\
-> Jeden Freitag von 20:00 bis 01:00 Uhr, geben sich unsere Barkeeper größte Mühe, dass die trostlose Zeit ohne uns ganz schnell wieder in Vergessenheit getrunken wird.
->
-> Also kommt vorbei!
->
-> Es gelten wie gewohnt die aktuellen Coronaschutzmaßnahmen, also Einlass nur mit 2G+ Nachweis, Kontaktnachverfolgung und Maskenpflicht innerhalb der Räumlichkeiten außer am Sitzplatz.
-
-------------------------------------------------------------------------
-
 ### Wilhelmine • Dresden • Bärenzwinger \[verschoben\]
 
 **Beginn:** Do 03.03.2022, 18:00+0100\
@@ -45,6 +25,25 @@
 > „So wie ich bin darf ich hier nicht sein" -- in ihrer Debüt-Single „Meine Liebe" lädt uns Wilhelmine ein, ein Stück ihres bisherigen Weges mit ihr zu gehen. „Ich verlieb' mich viel zur gern / Um mich dafür zu erklären / Wie es ist für mich / Mit einer Frau an meiner Hand / Warum ist meine Liebe deiner Rede wert?", liefert sie zu federnden Pop-Klängen, warmer Instrumentierung und jubilierenden Bläsern ein euphorisierendes Statement der Befreiung. „Das Lied basiert auf meinen Lebenserfahrungen und ist ein Fragen: Warum ist meine Liebe deiner Rede wert? Warum erlaubst du dir, über meine Liebe zu urteilen? Ich tue das ja auch nicht mit deiner Liebe", kommentiert Wilhelmine.
 >
 > Irgendwo zwischen Zwanzig und Dreißig, zwischen Verlorensein und Neusortieren, erzählen ihre Songs vom Nichts-Haben und Sich-Wiederfinden, von Aufschwung und Zuversicht, von der Reise, von Sehnsüchten, vom Anfang, vom Antrieb, vom Lachen, von der Liebe. Und von den kostbaren Momenten, in denen sie die Welt für einen Augenblick anhält.
+
+------------------------------------------------------------------------
+
+### Yves Macak \"Humor ist das neue Sexy\"
+
+**Beginn:** Sa 12.03.2022, 20:00+0100\
+**Ende:** So 13.03.2022, 00:00+0100\
+**Ort:** Studentenclub Bärenzwinger\
+**Link:** <https://mbasic.facebook.com/events/963898844209763>\
+**Screenshot:**
+[facebook.com-events-963898844209763.png](facebook.com-events-963898844209763.png)
+
+> Wenn Sie vom ewigen entschleunigen und „sich-selbst-finden" schon einen Lebensoptimierungs-Burnout haben, ist dieses Programm genau das Richtige für Sie.
+>
+> In Zeiten, in denen Selbsthilfebücher und Lebensanleitungen das theoretische Allheilmittel für alles und jeden darstellen und der Mensch - in Social Media Blasen versunken - vergessen hat, was es bedeutet Mensch unter Menschen zu sein, hat Yves Macak unzählige Ratgeber für Sie gelesen und bräuchte jetzt einen Ratgeber der ihm sagt, wann er denn genau welche Ratschläge wo am besten umsetzen kann.
+>
+> Da es diesen scheinbar nicht gibt, entsagt er nun besser der allseits an- gestrebten Perfektion und scheitert lieber heiter. Denn: Wozu hat der Schöpfer uns ansonsten den Humor verpasst? Humor ist das neue Sexy, denn Humor spielt in nahezu jeder Form zwischenmenschlicher Interaktion eine Rolle.
+>
+> Yves Mack zeigt Ihnen, wie der Humor hilft, den Umgang mit schwierigen Situationen zu erleichtern, neue Kontakte zu knüpfen und neue Wege für bislang ungelöste Probleme zu finden. Finden Sie lieber den Humor in sich, wenn Sie sich schon selbst nicht finden können.
 
 ------------------------------------------------------------------------
 
@@ -160,30 +159,3 @@
 >
 > Das Album \'Destiny Encounters\' wurde im TS-Musix Studio Leipzig gemastert und wird über das Label Sonic-X als CD und in digitaler Form am 29.11.2019 veröffentlicht.\
 > In der Vergangenheit waren Caisaron vorrangig in Deutschland mit ihrer Liveshow unterwegs, z.B. im Vorprogramm von Bands wie „Project Pitchfork","Solar Fake," Blutengel" und „Peter Heppner.
-
-------------------------------------------------------------------------
-
-### HAPPYDAZE (UK) \"Live 2022\" \| Dresden, Bärenzwinger
-
-**Beginn:** Mi 08.06.2022, 21:00+0200\
-**Ende:** Do 09.06.2022, 00:00+0200\
-**Ort:** Studentenclub Bärenzwinger\
-**Link:** <https://mbasic.facebook.com/events/906192926713932>\
-**Screenshot:**
-[facebook.com-events-906192926713932.png](facebook.com-events-906192926713932.png)
-
-> HAPPYDAZE (UK)\
-> \"Live 2022\"\
-> präsentiert von MoreCore & Undercover GmbH\
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-> 085.06.2022\
-> Einlass: 19:00 Uhr \| Beginn: 20:00 Uhr\
-> Bärenzwinger Dresden\
-> Brühlscher Garten 1\
-> 01067 Dresden\
-> Tickets gibts ab 12€ zzgl. Gebühren unter:\
-> https://bit.ly/33sk1du & an allen bekannten VVK-Stellen\
-> weitere Infos unter www.wildfiremusic.de\
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-> Presse:\
-> HappyDaze kommen aus den grünen Feldern Schottlands und begeistern mit massiven Hooks, die über einem üppigen Bett aus schimmernden Gitarren schweben. HappyDaze sind da um sicherzustellen, dass ihr eine gute Zeit habt -- und zwar jederzeit! Sorgfältig gestaltete Instrumentals kollidieren mit introspektiven Texten, die oft so klingen, als ob Wolken und Sonne um den großen blauen Himmel kämpfen. Ob ihr im Skatepark unterwegs seid, auf einer Hausparty tanzt oder gerade zur U-Bahn rennt -- die Songs von HappyDaze passen dazu. Eine großartige Mischung, die die Band schnell zum Playlist-Favoriten aufsteigen lässt. Weniger anzeigen
